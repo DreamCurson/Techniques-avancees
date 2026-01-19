@@ -1,0 +1,32 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "API pour les finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "express",
+    "dotenv",
+    "nodemodules"
+  ],
+  "author": "Élodie Buczkowski",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamCurson/Techniques-avancees.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DreamCurson/Techniques-avancees/issues"
+  },
+  "homepage": "https://github.com/DreamCurson/Techniques-avancees#readme"
+}
