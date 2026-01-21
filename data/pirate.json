@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 169,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Florian Bayard",
+      "title": "Chrome n'arrête pas de planter ? Une extension malveillante est peut-être en train de vous pirater",
+      "description": "Si votre navigateur Chrome n'arrête pas de planter, il est possible qu'une extension malveillante soit parvenue à s'immiscer sur celui-ci. En ce moment, une fausse extension censée bloquer les publicités se propage sur Internet. Une fois installée, elle va to…",
+      "url": "https://www.01net.com/actualites/chrome-arrete-pas-planter-extension-malveillante-peut-etre-train-pirater.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2025/10/chrome-faille-urgence-1600x900.jpg",
+      "publishedAt": "2026-01-20T11:05:22Z",
+      "content": "Si votre navigateur Chrome n’arrête pas de planter, il est possible qu’une extension malveillante soit parvenue à s’immiscer sur celui-ci. En ce moment, une fausse extension censée bloquer les public… [+6633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Tribune.fr"
+      },
+      "author": "La Tribune - Rédaction",
+      "title": "OPINION. «Piratage de Free : que reproche (vraiment) la CNIL à l'opérateur mobile ? »",
+      "description": "L’amende prononcée contre Free n’a pas manqué de surprendre par son montant (42 millions répartis entre Free et Free Mobile). La CNIL a-t-elle voulu faire un exemple ? C’est le sentiment qu’on retire de la lecture de ses délibérations publiées dans Legifrance",
+      "url": "https://www.latribune.fr/article/idees/13509887358650/opinion-piratage-de-free-que-reproche-vraiment-la-cnil-a-loperateur-mobile",
+      "urlToImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2026/01/14/l-operateur-avait-notamment-conserve-les-donnees-de-ses-anciens-clients-1768382497_531e370457696471e370457692b1e3v_.jpg",
+      "publishedAt": "2026-01-20T10:39:31Z",
+      "content": "Par Charles Cuvelliez, Université de Bruxelles, Ecole Polytechnique de Bruxelles et Lynn Vleugels, Data Protection Officer, Aéroport de Bruxelles (Brussels Airport Company)\r\nPetit rappel : Le 21octob… [+6237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Robin Sabbadini",
+      "title": "IPTV : la justice rend l’accès encore plus difficile en bloquant le contournement des VPN",
+      "description": "La dernière décision du tribunal judiciaire de Paris referme progressivement les possibilités de profiter des services de l’IPTV.",
+      "url": "https://www.journaldugeek.com/2026/01/20/iptv-la-justice-rend-lacces-encore-plus-difficile-en-bloquant-le-contournement-des-vpn/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/07/iptv-box-tv-1600x900.jpg",
+      "publishedAt": "2026-01-20T08:02:51Z",
+      "content": "La plupart des IPTV offres services de télévision par Internet non autorisés proposent des abonnements à 10-15  par mois donnant accès à des milliers de chaînes, dont les matchs de Ligue 1, la Formul… [+3431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Begeek.fr"
+      },
+      "author": "Jordan Servan",
+      "title": "Threads surpasse X en utilisateurs mobiles quotidiens à l’échelle mondiale",
+      "description": "Entre scandale Grok et baisse d’usage, le réseau social d’Elon Musk voit Threads gagner du terrain.",
+      "url": "https://www.begeek.fr/threads-surpasse-x-en-utilisateurs-mobiles-quotidiens-a-lechelle-mondiale-427039",
+      "urlToImage": "https://www.begeek.fr/app/uploads/2026/01/Threads.jpg",
+      "publishedAt": "2026-01-20T07:00:30Z",
+      "content": "Entre scandale Grok et baisse dusage, le réseau social dElon Musk voit Threads gagner du terrain.\r\nTl;dr\r\n<ul><li>Threads connaît une croissance rapide sur mobile, dépassant désormais X au niveau mon… [+2976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Begeek.fr"
+      },
+      "author": "Jordan Servan",
+      "title": "Une faille dans Microsoft Copilot expose vos données personnelles en un simple clic",
+      "description": "Une faille de sécurité récemment découverte dans Microsoft Copilot expose les utilisateurs à un risque de vol de données personnelles. Il suffirait d’un simple clic pour que des informations sensibles soient compromises, mettant en lumière une vulnérabilité i…",
+      "url": "https://www.begeek.fr/une-faille-dans-microsoft-copilot-expose-vos-donnees-personnelles-en-un-simple-clic-427020",
+      "urlToImage": "https://www.begeek.fr/app/uploads/2025/02/CoPilot.jpg",
+      "publishedAt": "2026-01-19T15:00:31Z",
+      "content": "Une faille de sécurité récemment découverte dans Microsoft Copilot expose les utilisateurs à un risque de vol de données personnelles. Il suffirait dun simple clic pour que des informations sensibles… [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Relais Colis confirme une cyberattaque massive et une fuite de données",
+      "description": "Relais Colis a officiellement confirmé être la cible d'une cyberattaque d'envergure, menée via l'un de ses prestataires techniques. La conséquence directe est une fuite massive de données personnelles concernant des millions d'utilisateurs. Noms, adresses e-m…",
+      "url": "https://www.generation-nt.com/actualites/relais-colis-cyberattaque-donnees-personnelles-piratage-phishing-2069228",
+      "urlToImage": "https://img.generation-nt.com/relais-colis-02_04B002A301718390.webp",
+      "publishedAt": "2026-01-19T10:10:01Z",
+      "content": "Le transporteur français Relais Colis a révélé qu'une brèche de sécurité chez un partenaire avait exposé les informations de ses clients. Si l'entreprise se veut rassurante en précisant qu'aucune don… [+5691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Gabriel Thierry",
+      "title": "Piratage de serveurs NAS : ce que révèle le procès Umbrella sur la sécurité de vos données.",
+      "description": "Un ressortissant roumain avait été arrêté en juin 2024 à la demande de la justice française. Le réquisitoire a été prononcé la semaine dernière.",
+      "url": "https://www.zdnet.fr/actualites/piratage-de-serveurs-nas-ce-que-revele-le-proces-umbrella-sur-la-securite-de-vos-donnees-488379.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/nahel-abdul-hadi-flha0kwrrrc-unsplash-scaled.jpg",
+      "publishedAt": "2026-01-19T08:54:18Z",
+      "content": "Des peines de six ans ferme et de deux ans de prison avec sursis requises contre les deux mis en cause. Ce jeudi 15 janvier, les réquisitions sont tombées dans laffaire « Umbrella », cette flopée dat… [+2794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Franceinfo.fr"
+      },
+      "author": "Mohamed Berkani",
+      "title": "\"La femme qui n'aimait pas Rabbi Jacob\" au théâtre Montparnasse : Louis de Funès, la pirate de l'air et le film culte",
+      "description": "L'auteur et metteur en scène Jean-Philippe Daguerre revient avec un livre et une pièce de théâtre sur le détournement d’un avion en 1973 pour empêcher la sortie du film mythique \"Les Aventures de Rabbi Jacob\".",
+      "url": "https://www.franceinfo.fr/culture/spectacles/theatre/la-femme-qui-n-aimait-pas-rabbi-jacob-au-theatre-montparnasse-louis-de-funes-la-pirate-de-l-air-et-le-film-culte_7741042.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/yZpuZt6qnC3uYIg4zAE1LV7CRrQ/0x514:6113x3949/1500x843/2026/01/14/001-hd-69676554eaa7d686912554.jpg",
+      "publishedAt": "2026-01-17T13:08:45Z",
+      "content": "Est-ce vraiment opportun de mettre en scène aujourd'hui La femme qui n'aimait pas Rabbi Jacob alors que le conflit israélo-palestinien est encore exacerbé ? Si pour Jean-Philippe Daguerre la question… [+3383 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Watchgeneration.fr"
+      },
+      "author": "Félix Cattafesta",
+      "title": "WhisperPair : une faille de Fast Pair permet de détourner des casques et écouteurs, même sur iPhone",
+      "description": "Des chercheurs de l’université belge de KU Leuven ont découvert de sérieuses vulnérabilités dans le « Fast Pair » (Association express) de Google, qui permet de connecter rapidement des appareils audio à un téléphone Android. Baptisée WhisperPair, la faille p…",
+      "url": "https://www.watchgeneration.fr/audio/2026/01/whisperpair-une-faille-permet-de-detourner-des-casques-et-ecouteurs-meme-utilises-sur-iphone-19235",
+      "urlToImage": "https://cdn.mgig.fr/2026/01/mga-b8f3b1b2-w375-w1500-w750_accroche.jpg",
+      "publishedAt": "2026-01-16T16:13:00Z",
+      "content": "Des chercheurs de luniversité belge de KU Leuven ont découvert de sérieuses vulnérabilités dans le « Fast Pair » (Association express) de Google, qui permet de connecter rapidement des appareils audi… [+2812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Cyberinfo de la semaine du 16 janvier 2026",
+      "description": "Cyberinfo ZATAZ de la semaine du 16 janvier 2026 : hack, piratage et opérations internationales cyber....",
+      "url": "https://www.zataz.com/cyberinfo-de-la-semaine-du-16-janvier-2026/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/news-de-la-semaine-2026-150x150.jpg",
+      "publishedAt": "2026-01-16T14:47:58Z",
+      "content": "Bonjour à toutes et tous,\r\nCette semaine, l’alerte monte autour de Grok, la solution dIA dElon Musk, accusée davoir généré des deepfakes sexuels en masse. Une enquête internationale est en cours, ave… [+7850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Usine-digitale.fr"
+      },
+      "author": "Alice Vitard",
+      "title": "Mots de passe échangés par mail, fichiers exfiltrés : L’anatomie de la cyberattaque du ministère de l’Intérieur",
+      "description": "Auditionné par le Sénat, Laurent Nuñez a levé le voile sur les mécanismes précis de la cyberattaque qui a frappé son ministère. Il a ainsi détaillé la chronologie des faits, l’origine de la compromission ainsi que l’ampleur de l’exfiltration des données.",
+      "url": "https://www.usine-digitale.fr/cybersecurite/mots-de-passe-echanges-par-mail-fichiers-exfiltres-lanatomie-de-la-cyberattaque-du-ministere-de-linterieur.BHC6EJWYARH3VAPS5JW6MVSNAM.html",
+      "urlToImage": "https://www.usine-digitale.fr/resizer/v2/IY2CKM7HMJGYJFR45KFAHSNOYE.jpg?smart=true&auth=add7d60eda2d2b1ac7168e8ba199f5da195424c66f8690ea423c46b45847ff4c&width=1200&height=630",
+      "publishedAt": "2026-01-16T14:24:04Z",
+      "content": "Lors de son audition devant le Sénat, le ministre de lIntérieur Laurent Nuñez a livré un récit très détaillé de la cyberattaque ayant touché son ministère. Il a demblée précisé quune partie des infor… [+3667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Siècle Digital"
+      },
+      "author": "Frédéric Olivieri",
+      "title": "Copilot : une faille invisible siphonne vos données en un clic",
+      "description": "Si avec Copilot, Microsoft promet une interaction fluide et sécurisée entre l’utilisateur et son environnement Windows, cette relation de confiance peut aussi devenir un angle d’attaque. En effet, une découverte récente d’une vulnérabilité particulièrement so…",
+      "url": "https://siecledigital.fr/2026/01/16/copilot-une-faille-invisible-qui-siphonne-vos-donnees-en-un-clic/",
+      "urlToImage": "https://siecledigital.fr/wp-content/uploads/2026/01/copilot-2.jpg",
+      "publishedAt": "2026-01-16T10:16:53Z",
+      "content": "Si avec Copilot, Microsoft promet une interaction fluide et sécurisée entre l’utilisateur et son environnement Windows, cette relation de confiance peut aussi devenir un angle d’attaque.\r\nEn effet, u… [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "IPTV pirate : la justice française contraint Google et les VPN au blocage",
+      "description": "La justice française vient de frapper un grand coup contre le piratage. Le Tribunal judiciaire de Paris a ordonné à Google de bloquer l'accès à dix-neuf domaines de sites pirates via son résolveur DNS public. Cette décision, qui s'étend désormais aux grands f…",
+      "url": "https://www.generation-nt.com/actualites/streaming-vpn-illegal-piratage-iptv-2069140",
+      "urlToImage": "https://img.generation-nt.com/iptv_04B002A301695458.webp",
+      "publishedAt": "2026-01-16T10:10:01Z",
+      "content": "C’est une nouvelle phase qui s’engage dans la lutte contre le piratage sportif en France. Après avoir ciblé les fournisseurs d'accès, la justice s'attaque maintenant aux intermédiaires techniques qui… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Jérôme G.",
+      "title": "La faille WhisperPair expose des millions d'écouteurs Bluetooth à l'espionnage",
+      "description": "Une fonction conçue pour simplifier votre vie pourrait bien la compliquer sérieusement, en transformant vos écouteurs sans fil en un outil d'espionnage à la portée de n'importe qui. Une vulnérabilité critique en rapport avec Fast Pair de Google.",
+      "url": "https://www.generation-nt.com/actualites/whisperpair-google-fast-pair-faille-securite-bluetooth-piratage-ecouteurs-2069163",
+      "urlToImage": "https://img.generation-nt.com/google-pixel-buds-pro_04B002A301681580.webp",
+      "publishedAt": "2026-01-16T08:17:00Z",
+      "content": "Une équipe de chercheurs en sécurité de l'université belge KU Leuven a mis au jour une faille critique (CVE-2025-36911) affublée du petit nom de WhisperPair. Celle-ci est en lien avec Fast Pair de Go… [+2855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "L'Obs"
+      },
+      "author": "Véronique Groussard",
+      "title": "Enregistrement clandestin de Thomas Legrand : « Un cadre de la Bollosphère a donné l’ordre de nous espionner ! »",
+      "description": "La cellule investigation de Radio France a révélé que la direction d’Europe 1 a donné l’ordre à un de ses journalistes d’enregistrer clandestinement une conversation privée entre Laurence Bloch, ancienne patronne de France Inter et l’éditorialiste de Libérati…",
+      "url": "https://www.nouvelobs.com/economie/20260116.OBS111545/enregistrement-clandestin-de-thomas-legrand-un-cadre-de-la-bollosphere-a-donne-l-ordre-de-nous-espionner.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/12/19/0/0/6000/4000/1200/800/0/0/20c8075_upload-1-aerz5imhsqwi-000-88ke2gu.jpg",
+      "publishedAt": "2026-01-16T06:30:38Z",
+      "content": "Le journaliste Thomas Legrand DIMITAR DILKOFF / AFP\r\nCommenter\r\n Lire plus tard \r\nGoogle Actualités\r\nPartager\r\n Sabonner pour lire \r\nMi-décembre, un journaliste politique dEurope 1 révélait des propo… [+1141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lavenir.net"
+      },
+      "author": "Alexis Seny",
+      "title": "BD| Prince des pirates battant pavillon de l'humour, le Namurois Marcel \"Barbe-Noire\" Remacle aurait eu 100 ans, ce vendredi",
+      "description": "Marcel Remacle est né le samedi 16 janvier 1926 à Namur, dans l’avenue des combattants. Il a dessiné un boulevard pour les pirates désopilants dans le journal Spirou, près de 35 ans durant. ...",
+      "url": "https://www.lavenir.net/regions/namur/namur/2026/01/16/bd-prince-des-pirates-battant-pavillon-de-lhumour-le-namurois-marcel-barbe-noire-remacle-aurait-eu-100-ans-ce-vendredi-MOJBZL2DANC2VAE5VNU73KPZ3Q/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/BHMYMM2U3JBXLKYX6PN4PTQLR4.jpg?auth=2f590424a56825e5433b5d889b219464c07fc07e91fb152ad89ffe5453aa609e&width=1200&height=630&quality=85&focal=1073%2C676",
+      "publishedAt": "2026-01-16T06:30:00Z",
+      "content": "Le western prend l'eau\r\nLe Namurois a le pied à l'étrier et l'envie de chevauchées. Mais le créneau est pris par son idole, Morris, avec un cow-boy qui tire plus vite que son ombre. Cré Tonnerre ! Al… [+2277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Moctar Kane",
+      "title": "Sécurité pratique : comment protéger écouteurs et casques Bluetooth vulnérables aux attaques WhisperPair",
+      "description": "Le protocole Google Fast Pair permet une commodité d'appairage des accessoires audio en un seul clic, mais sa mise en œuvre inadéquate a créé un nouveau risque. Vérifiez si votre appareil a déjà été corrigé.",
+      "url": "https://www.zdnet.fr/pratique/securite-pratique-comment-proteger-ecouteurs-et-casques-bluetooth-vulnerables-aux-attaques-whisperpair-488265.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/whisperpair-attaque-bluetooth.jpg",
+      "publishedAt": "2026-01-16T04:01:31Z",
+      "content": "ZDNET\r\nLes Points essentiels à retenir pour protéger ses écouteurs et casques Bluetooth de WhisperPair\r\n<ul><li>Les vulnérabilités WhisperPair affectent un protocole utilisé pour connecter des appare… [+5357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phonandroid"
+      },
+      "author": "Alexandre Schmid",
+      "title": "Vos casques et écouteurs Bluetooth peuvent servir à vous espionner : une faille de sécurité critique mise au jour",
+      "description": "Google, Xiaomi, Sony, OnePlus, JBL, Jabra, Nothing… Les accessoires audio de nombreuses marques ayant recours à la fonction Fast Pair sont vulnérables. Ils peuvent être piratés pour vous suivre à la trace et prendre le contrôle total sur le casque...",
+      "url": "https://www.phonandroid.com/vos-casques-et-ecouteurs-bluetooth-peuvent-servir-a-vous-espionner-une-faille-de-securite-critique-mise-au-jour.html",
+      "urlToImage": "https://wp-pa.phonandroid.com/uploads/2025/09/sony-wh-1000xm6-test-10.jpg",
+      "publishedAt": "2026-01-15T18:56:07Z",
+      "content": "Google, Xiaomi, Sony, OnePlus, JBL, Jabra, Nothing… Les accessoires audio de nombreuses marques ayant recours à la fonction Fast Pair sont vulnérables. Ils peuvent être piratés pour vous suivre à la … [+4759 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Ulrich Rozier",
+      "title": "Sony, JBL, OnePlus, Pixel Buds, Jabra, Bose : mettez à jour vos écouteurs d’urgence pour bloquer « WhisperPair »",
+      "description": "Vous voyez cette petite fenêtre magique qui apparaît sur votre téléphone quand vous ouvrez vos écouteurs ? C'est génial. Sauf que des chercheurs viennent de prouver que cette \"magie\" permet à n'importe qui de prendre le contrôle de vos appareils en 15 seconde…",
+      "url": "https://www.frandroid.com/marques/2944505_sony-jbl-oneplus-pixel-buds-jabra-bose-mettez-a-jour-vos-ecouteurs-durgence-pour-bloquer-whisperpair",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/01/image-70-6.jpg?resize=1600,900&key=f5ae5fb6&watermark",
+      "publishedAt": "2026-01-15T16:53:48Z",
+      "content": "Vous voyez cette petite fenêtre magique qui apparaît sur votre téléphone quand vous ouvrez vos écouteurs ? C’est génial. Sauf que des chercheurs viennent de prouver que cette « magie » permet à n’imp… [+3030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lavenir.net"
+      },
+      "author": "Pierre-Yves Paque",
+      "title": "Après les rumeurs sur son état de santé et son hospitalisation à 97 ans, Line Renaud remet les pendules à l’heure",
+      "description": "L’ex-meneuse de revue au plus mal à 97 ans ? Line Renaud a tenu à remettre les pendules à l’heure concernant son état de santé. ...",
+      "url": "https://www.lavenir.net/actu/discover/2026/01/15/apres-les-rumeurs-sur-son-etat-de-sante-et-son-hospitalisation-a-97-ans-line-renaud-remet-les-pendules-a-lheure-JTZV2A3MR5HYXJOWLB5SI7UJBE/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/3NAWUVJ3OVDC3CFI5VBPARWTZQ.jpg?auth=ad081c0aea763189a8c19a5bda50b1f38550c7670e1590adbaad20695fce07ca&width=1200&height=630&quality=85&focal=1500%2C1000",
+      "publishedAt": "2026-01-15T15:31:30Z",
+      "content": "\"État préoccupant\", \"hospitalisation\", \"au plus mal\" La nonagénaire Line Renaud (97 ans) a tenu à réagir aux rumeurs qui circulent sur son état de santé.\r\nAprès avoir souhaité ses bons vux sur les ré… [+514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Julie Hay",
+      "title": "Avant le retour de The Boys, Karl Urban se la joue pirate des caraïbes impitoyable sur Prime Video",
+      "description": "Karl Urban va hisser les couleurs du sang sur Prime Video. En attendant le retour de Butcher avec la saison 5 de The Boys, l'acteur joue les bouchers et les forbans dans The Bluff. La bande-annonce promet du très lourd.",
+      "url": "https://www.journaldugeek.com/2026/01/15/avant-le-retour-de-the-boys-karl-urban-se-la-joue-pirate-des-caraibes-impitoyable-sur-prime-video/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2026/01/the-bluff-pirates-film-action-1600x900.jpg",
+      "publishedAt": "2026-01-15T14:04:43Z",
+      "content": "“L’âme des pirates jamais ne mourra”, mais ça fait quand même un petit moment qu’on avait pas vu une production du genre sur le petit ou le grand écran. Si Disney évalue encore le bienfondé d’un sixi… [+2006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "dh.be"
+      },
+      "author": "Pierre-Yves Paque",
+      "title": "”Faites-le savoir à tout le monde”: après les rumeurs sur son état de santé et son hospitalisation à 97 ans, Line Renaud brise le silence",
+      "description": "L’ex-meneuse de revue au plus mal à 97 ans ? Line Renaud a tenu à remettre les pendules à l’heure via le magazine Point de Vue. ...",
+      "url": "https://www.dhnet.be/lifestyle/people/2026/01/15/faites-le-savoir-a-tout-le-monde-apres-les-rumeurs-sur-son-etat-de-sante-et-son-hospitalisation-a-97-ans-line-renaud-brise-le-silence-FMZP2SJQWZDTPFUIXYADXY2TAE/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/3I4AOSAOMZCYVD76QERUQLAMLQ.jpg?auth=7fb8dfe88c8ad94182a3c11121659af2b2ad3542692e0f0ee01be503b54530cd&width=1200&height=630&quality=85&focal=3658%2C2488",
+      "publishedAt": "2026-01-15T12:28:25Z",
+      "content": "Depuis quelques mois, on ne compte plus les nouvelles circulant sur la santé de Line Renaud : \"état préoccupant\", \"hospitalisation\", \"au plus mal\".\r\nDes rumeurs auxquelles l'artiste de 97 ans a tenu … [+506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Florian Bayard",
+      "title": "Danger sur Windows : une faille de Microsoft Copilot permet de voler toutes vos données",
+      "description": "Une nouvelle menace se dessine sur Windows. Les chercheurs de Varonis ont découvert une nouvelle faille de sécurité au sein de Microsoft Copilot. Elle permet de siphonner vos données à votre insu…",
+      "url": "https://www.01net.com/actualites/faille-microsoft-copilot-permet-voler-toutes-donnees.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2025/06/copilot-microsoft-1600x900.jpg",
+      "publishedAt": "2026-01-15T09:23:50Z",
+      "content": "Une nouvelle menace se dessine sur Windows. Les chercheurs de Varonis ont découvert une nouvelle faille de sécurité au sein de Microsoft Copilot. Elle permet de siphonner vos données à votre insuUne … [+4797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Gabriel Thierry",
+      "title": "Cette erreur de « mot de passe » que nous faisons tous a permis de pirater la Place Beauvau",
+      "description": "Le locataire de la Place Beauvau, Laurent Nuñez, vient de détailler l’état des investigations dans une audition au Sénat.",
+      "url": "https://www.zdnet.fr/actualites/cette-erreur-de-mot-de-passe-que-nous-faisons-tous-a-permis-de-pirater-la-place-beauvau-488174.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/nahel-abdul-hadi-flha0kwrrrc-unsplash-scaled.jpg",
+      "publishedAt": "2026-01-15T08:50:36Z",
+      "content": "Les détails du piratage du ministère de lIntérieur commencent à émerger. Ce mardi 13 janvier, Laurent Nuñez, auditionné au Sénat\r\n, a en effet donné de nouveaux détails sur cette cyberattaque qui a s… [+3976 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Siècle Digital"
+      },
+      "author": "Frédéric Olivieri",
+      "title": "Comment un jeune hacker a mis la main sur des données ultra sensibles du ministère de l’Intérieur",
+      "description": "Un mois après une cyberattaque visant plusieurs systèmes informatiques du Ministère de l’Intérieur, l’heure est au retour d’expérience. Auditionné devant la commission des lois du Sénat, Laurent Nuñez est revenu sur les circonstances de cette intrusion. Au de…",
+      "url": "https://siecledigital.fr/2026/01/14/cyberattaque-a-beauvau-une-faille-humaine-mise-en-cause/",
+      "urlToImage": "https://siecledigital.fr/wp-content/uploads/2026/01/hacker.jpg",
+      "publishedAt": "2026-01-15T08:16:00Z",
+      "content": "Un mois après une cyberattaque visant plusieurs systèmes informatiques du Ministère de l’Intérieur, l’heure est au retour d’expérience.\r\nAuditionné devant la commission des lois du Sénat, Laurent Nuñ… [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Guillaume Serries",
+      "title": "RedVDS neutralisé : tout savoir sur la chute de l'empire du phishing low-cost",
+      "description": "Pour une vingtaine d’euros, réglés en Bitcoin ou Litecoin, les \"clients\" accédaient à des ordinateurs virtuels hébergés sur de multiples serveurs à travers la planète.",
+      "url": "https://www.zdnet.fr/actualites/redvds-neutralise-tout-savoir-sur-la-chute-de-lempire-du-phishing-low-cost-488254.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/phishing.jpg",
+      "publishedAt": "2026-01-15T07:01:40Z",
+      "content": "Cest un coup de filet majeur contre léconomie souterraine du numérique. Microsoft, en collaboration étroite avec Europol et les autorités allemandes, a annoncé hier la neutralisation complète de RedV… [+3341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Guillaume Serries",
+      "title": "Vos données Copilot pouvaient être piratées en un seul clic - voici comment",
+      "description": "La vulnérabilité Reprompt permettait aux pirates de contrôler Copilot et d'extraire vos données, même après la fermeture du chat.",
+      "url": "https://www.zdnet.fr/actualites/vos-donnees-copilot-pouvaient-etre-piratees-en-un-seul-clic-voici-comment-488246.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/gettyimages-2233012551.webp",
+      "publishedAt": "2026-01-15T05:01:29Z",
+      "content": "A retenir sur l'attaque Reprompt\r\n<ul><li>Baptisée « Reprompt », cette attaque utilisait un paramètre URL pour voler les données des utilisateurs.</li><li>Un simple clic suffisait pour déclencher tou… [+4940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tuxboard.com"
+      },
+      "author": "Victoria Bernard",
+      "title": "Arnaque : les pirates ont trouvé la solution pour vider vos comptes depuis votre smartphone",
+      "description": "Les smartphones représentent des outils indispensables à notre quotidien. Et le moins que l’on puisse dire, c’est qu’ils deviennent aussi...\nL’article Arnaque : les pirates ont trouvé la solution pour vider vos comptes depuis votre smartphone est apparu en pr…",
+      "url": "https://www.tuxboard.com/arnaque-les-pirates-ont-trouve-la-solution-pour-vider-vos-comptes-depuis-votre-smartphone/",
+      "urlToImage": "https://www.tuxboard.com/wp-content/uploads/2026/01/Arnaque-les-pirates-ont-trouve-la-solution-pour-vider-vos-comptes-depuis-votre-smartphone.jpg",
+      "publishedAt": "2026-01-14T18:00:21Z",
+      "content": "Une nouvelle arnaque terrible est actuellement en cours : des pirates ont trouvé la solution pour vider vos comptes bancaires !\r\nLes smartphones représentent des outils indispensables à notre quotidi… [+3999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Monde-diplomatique.fr"
+      },
+      "author": null,
+      "title": "Retour impérial des États-Unis en Amérique latine",
+      "description": "Le mercredi 21 janvier à 18 h 30, rencontre-débat en visioconférence avec Christophe Ventura, membre de la rédaction du Monde diplomatique autour de son article « M. Trump, pirate des Caraïbes » publié dans le numéro de janvier 2026. \nCaracas bombardée, le pr…",
+      "url": "https://www.amis.monde-diplomatique.fr/Retour-imperial-des-Etats-Unis-en-Amerique-latine.html",
+      "urlToImage": "https://www.amis.monde-diplomatique.fr/local/cache-gd2/2e/9be0e2b823c26cfd2ec99caa65f794.jpg?1767882490",
+      "publishedAt": "2026-01-14T17:35:03Z",
+      "content": "Le mercredi 21 janvier à 18 h 30, rencontre-débat en visioconférence avec Christophe Ventura, membre de la rédaction du Monde diplomatique autour de son article « M. Trump, pirate des Caraïbes » publ… [+710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Fuite massive de données Instagram exposées dans le darkweb",
+      "description": "Une fuite de données Instagram toucherait des millions d’utilisateurs, exploitée pour phishing et usurpation d’identité. ZATAZ avait alerté... en 2024 !...",
+      "url": "https://www.zataz.com/fuite-massive-de-donnees-instagram-exposees-dans-le-darkweb/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/insta-leak-150x150.jpg",
+      "publishedAt": "2026-01-14T16:30:14Z",
+      "content": "Dix-sept millions de comptes Instagram concernés par une fuite désormais publique, déjà diffusée librement sur des forums clandestins depuis 2024, relançant les craintes dabus à grande échelle via li… [+4136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Sirius",
+      "title": "Piratage du ministère de l’Intérieur : une faille de sécurité sidérante en cause",
+      "description": "Suite à une intrusion majeure, le ministre de l'Intérieur Laurent Nuñez a révélé que l'absence de double authentification a permis à un hacker de 22 ans d'accéder à des fichiers de police sensibles comme le TAJ et le FPR. Des mots de passe échangés en clair p…",
+      "url": "https://www.generation-nt.com/actualites/ministere-interieur-cyberattaque-securite-double-authentification-hacker-2069040",
+      "urlToImage": "https://img.generation-nt.com/cyberattaque_04B002A301660148.webp",
+      "publishedAt": "2026-01-14T16:30:01Z",
+      "content": "Le ministère de l'Intérieur a récemment été la cible d'une intrusion informatique qualifiée de « très grave » par Beauvau. Un jeune pirate de 22 ans, depuis arrêté, a réussi à s'introduire dans des s… [+2941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Vincent Paulin",
+      "title": "La CNIL inflige 42 millions d’euros d’amendes à Free et Free Mobile",
+      "description": "La CNIL reproche à Free et Free Mobile plusieurs manquements au RGPD, notamment en matière de sécurité des systèmes d’information et de protection des données personnelles des abonnés. \nL’article La CNIL inflige 42 millions d’euros d’amendes à Free et Free Mo…",
+      "url": "https://www.tomsguide.fr/la-cnil-inflige-42-millions-deuros-damendes-a-free-et-free-mobile/",
+      "urlToImage": "https://www.tomsguide.fr/content/uploads/sites/2/2024/06/Free-mobile-prix-option-Booster.png",
+      "publishedAt": "2026-01-14T16:00:00Z",
+      "content": "© Pixabay, Free Cyberattaque chez Free : la CNIL sanctionne sévèrement lopérateur\r\nÀ la suite dune importante fuite de données révélée à lautomne 2024, le groupe Iliad se retrouve sous le coup de lou… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Piège Pass Navigo, une arnaque SNCF bien rodée",
+      "description": "Une arnaque au faux Pass Navigo usurpant la SNCF collecte des données via un sondage piégé analysé par ZATAZ....",
+      "url": "https://www.zataz.com/piege-pass-navigo-une-arnaque-sncf-bien-rodee/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/sncf-navigo-piege-150x150.jpg",
+      "publishedAt": "2026-01-14T15:26:00Z",
+      "content": "Un message prétendument officiel promet un Pass Navigo mensuel. Derrière lapparence SNCF Connect, une mécanique de phishing vise données personnelles et habitudes numériques des voyageurs.\r\nUne campa… [+5926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Franceinfo.fr"
+      },
+      "author": "Luc Chagnon",
+      "title": "Trois fichiers sensibles consultés, une centaine de fiches extraites... Laurent Nuñez dresse le bilan de la cyberattaque contre le ministère de l'Intérieur",
+      "description": "Le jeune pirate informatique, mis en examen et placé en détention provisoire, est suspecté d'avoir pu consulter le Traitement d'antécédents judiciaires, le Fichier des personnes recherchées (FPR) et les fiches Interpol, selon le ministre de l'Intérieur.",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/trois-fichiers-sensibles-consultes-une-centaine-de-fiches-extraites-laurent-nunez-dresse-le-bilan-de-la-cyberattaque-contre-le-ministere-de-l-interieur_7740799.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/kFHHtLpm5qy4asOVFfeCxSHHjpw/0x0:1024x576/1500x843/2026/01/14/080-hl-quentindegroeve-3018973-696774f450ecc481867021.jpg",
+      "publishedAt": "2026-01-14T11:32:22Z",
+      "content": "On connaît encore un peu plus le périmètre de la cyberattaque qui a visé le ministère de l'Intérieur. Le ministre Laurent Nuñez a donné un nouveau bilan de l'intrusion inédite dans les serveurs du mi… [+2878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Franceinfo.fr"
+      },
+      "author": "Luc Chagnon",
+      "title": "Trois fichiers sensibles consultés, une centaine de fiches extraites... Laurent Nuñez dresse le bilan de la cyberattaque contre le ministère de l'Intérieur",
+      "description": "Le jeune pirate informatique, mis en examen et placé en détention provisoire, est suspecté d'avoir pu consulter le Traitement d'antécédents judiciaires, le Fichier des personnes recherchées (FPR) et les fiches Interpol, selon le ministre de l'Intérieur.",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/trois-fichiers-sensibles-consultes-une-centaine-de-fiches-extraites-laurent-nunez-dresse-le-bilan-de-la-cyberattaque-contre-le-ministere-de-l-interieur_7740799.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/kFHHtLpm5qy4asOVFfeCxSHHjpw/0x0:1024x576/1500x843/2026/01/14/080-hl-quentindegroeve-3018973-696774f450ecc481867021.jpg",
+      "publishedAt": "2026-01-14T11:32:22Z",
+      "content": "On connaît encore un peu plus le périmètre de la cyberattaque qui a visé le ministère de l'Intérieur. Le ministre Laurent Nuñez a donné un nouveau bilan de l'intrusion inédite dans les serveurs du mi… [+2878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Florian Bayard",
+      "title": "Cyberattaque contre le ministère de l’Intérieur : une incroyable négligence est à l'origine de l'intrusion",
+      "description": "Une incroyable négligence a ouvert les portes du ministère de l’Intérieur. L'absence de double authentification a permis à un jeune pirate de pénétrer dans des applications de police sensibles. Le ministre Laurent Nuñez parle d'« un défaut d’hygiène numérique…",
+      "url": "https://www.01net.com/actualites/cyberattaque-contre-ministere-interieur-incroyable-negligence-origine-intrusion.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2024/08/Design-sans-titre197.jpg",
+      "publishedAt": "2026-01-14T11:07:57Z",
+      "content": "Une incroyable négligence a ouvert les portes du ministère de lIntérieur. L’absence de double authentification a permis à un jeune pirate de pénétrer dans des applications de police sensibles. Le min… [+4729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Guillaume Serries",
+      "title": "Vous évitez la mise à jour iOS 26 ? 4 raisons pour lesquelles les utilisateurs d'iPhone devraient le faire - dès que possible",
+      "description": "De nombreux propriétaires d'iPhone pourraient être réticents à passer à iOS 26. Mais cette dernière version comporte d'importantes mises à jour de sécurité qui protégeront votre téléphone.",
+      "url": "https://www.zdnet.fr/actualites/vous-evitez-la-mise-a-jour-ios-26-4-raisons-pour-lesquelles-les-utilisateurs-diphone-devraient-le-faire-des-que-possible-488143.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/01/apple-iphone-ios-262.webp",
+      "publishedAt": "2026-01-14T10:53:49Z",
+      "content": "A retenir sur la mise à jour iOS 26.1\r\n<ul><li>iOS 26.1 vous permet de contrôler le design Liquid Glass.</li><li>iOS 26.2 offre une meilleure sécurité pour AirDrop.</li><li>Mais surtout, iOS 26 corri… [+4595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Robin Sabbadini",
+      "title": "Le ras-le-bol des Français entendu : Free vient d’être condamné à payer des millions pour sa dernière fuite de données personnelles",
+      "description": "Les Français n’en peuvent plus de voir leurs données personnelles atterrir dans de mauvaises au gré des piratages. Cette fois, c’est Free qui trinque avec la CNIL venant de lui infliger une amende record.",
+      "url": "https://www.journaldugeek.com/2026/01/14/le-ras-le-bol-des-francais-entendu-free-vient-detre-condamne-a-payer-des-millions-pour-sa-derniere-fuite-de-donnees-personnelles/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/03/Journal-du-Geek.jpg",
+      "publishedAt": "2026-01-14T10:22:43Z",
+      "content": "Ce 13 janvier 2026, la Commission nationale de linformatique et des libertés a rendu sa décision. Free Mobile écope de 27 millions deuros damende, et sa maison mère Free doit rajouter 15 millions. Un… [+4138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "20 Minutes"
+      },
+      "author": "20 Minutes avec AFP",
+      "title": "Vol de données : Free condamné à plus de 40 millions d’euros d’amende par la Cnil",
+      "description": "L’entreprise a jugé cette « décision d’une sévérité inédite » en matière de cyberattaque et a déposé un recours",
+      "url": "https://www.20minutes.fr/economie/4195965-20260114-vol-donnees-free-condamne-plus-40-millions-amende-cnil",
+      "urlToImage": "https://img.20mn.fr/OpNYNeezSC2-jON3aa7s6yk/1444x920_photo-illustration-logo-de-free-07allilimages-all5826-credit-mourad-allili-sipa-2410281636",
+      "publishedAt": "2026-01-14T09:32:33Z",
+      "content": "En 2024, Free a subi un vol massif de données confidentielles de clients. Selon une décision publiée ce mercredi sur Legifrance, la Commission nationale de linformatique et des libertés (Cnil) a infl… [+1225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Amandine Jonniaux",
+      "title": "Après le piratage de La Poste, cette arnaque a bien failli nous avoir",
+      "description": "Les récentes fuite de données chez La Poste alimentent des arnaques SMS, avec des modes opératoires de plus en plus sophistiqués.",
+      "url": "https://www.journaldugeek.com/2026/01/13/apres-le-piratage-de-la-poste-cette-arnaque-a-bien-failli-nous-avoir/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2026/01/sms-1600x900.jpg",
+      "publishedAt": "2026-01-13T15:00:44Z",
+      "content": "Un peu avant Noël, une cyberattaque massive avait paralysé les services de La Poste. L’attaque DDoS avait principalement eu pour effet de mettre en péril els services de livraison et les opérations b… [+2965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tuxboard.com"
+      },
+      "author": "Victoria Bernard",
+      "title": "WhatsApp vous invite à rejoindre un groupe via un contact : la nouvelle arnaque qui fait mal",
+      "description": "Les arnaques en ligne ne cessent d’évoluer. Et le moins que l’on puisse dire, c’est que les messageries instantanées ont...\nL’article WhatsApp vous invite à rejoindre un groupe via un contact : la nouvelle arnaque qui fait mal est apparu en premier sur Tuxboa…",
+      "url": "https://www.tuxboard.com/whatsapp-vous-invite-a-rejoindre-un-groupe-via-un-contact-la-nouvelle-arnaque-qui-fait-mal/",
+      "urlToImage": "https://www.tuxboard.com/wp-content/uploads/2026/01/WhatsApp-vous-invite-a-rejoindre-un-groupe-via-un-contact-la-nouvelle-arnaque-qui-fait-mal.jpg",
+      "publishedAt": "2026-01-13T11:05:54Z",
+      "content": "Il y a une nouvelle arnaque sur WhatsApp qui a vu le jour. Vous devez faire preuve d'une très grande prudence !\r\nLes arnaques en ligne ne cessent d’évoluer. Et le moins que l’on puisse dire, c’est qu… [+3905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphon.fr"
+      },
+      "author": "Tristan Carballeda",
+      "title": "« Changer votre mot de passe » attention à cette arnaque qui s’en prend à votre compte Instagram",
+      "description": "Si vous recevez ce genre de messages dans votre boîte mail, il vaut mieux l'ignorer pour le moment.",
+      "url": "https://www.iphon.fr/post/changer-votre-mot-de-passe-attention-a-cette-arnaque-qui-sen-prend-a-votre-compte-instagram",
+      "urlToImage": "https://www.iphon.fr/app/uploads/2025/09/instagram-reseau-social-1600x900.jpg",
+      "publishedAt": "2026-01-13T10:38:18Z",
+      "content": "Depuis quelques jours des centaines dutilisateurs disent recevoir des e-mails de la part d’Instagram leur demandant de réinitialiser leur mot de passe. Mais attention, il s’agit en réalité d’un piège… [+2431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Florian Bayard",
+      "title": "Pour pirater votre compte Facebook, les hackers ont une nouvelle tactique « presque impossible à détecter »",
+      "description": "Facebook reste le terrain de jeu préféré des cybercriminels. Pour pirater votre compte, les cybercriminels redoublent d'ingéniosité. Depuis quelques mois, les pirates s'appuient sur une nouvelle tactique de piratage qui est « presque impossible à détecter ». …",
+      "url": "https://www.01net.com/actualites/pour-pirater-votre-compte-facebook-les-hackers-ont-une-nouvelle-tactique-presque-impossible-a-detecter.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2025/06/facebook-linkedin-pubs-1600x900.jpg",
+      "publishedAt": "2026-01-13T09:02:24Z",
+      "content": "Facebook reste le terrain de jeu préféré des cybercriminels. Pour pirater votre compte, les cybercriminels redoublent d’ingéniosité. Depuis quelques mois, les pirates s’appuient sur une nouvelle tact… [+6687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Microsoft Edge : un correctif d'urgence pour une faille critique est déployé",
+      "description": "Microsoft a déployé en urgence une mise à jour pour son navigateur Edge le 10 janvier 2026. En cause, une faille de sécurité jugée de haute sévérité, localisée dans le moteur V8 de Chromium. L'alerte, relayée par le CERT-FR, souligne le risque d'exécution de …",
+      "url": "https://www.generation-nt.com/actualites/microsoft-edge-faille-securite-mise-jour-critique-chromium-2068880",
+      "urlToImage": "https://img.generation-nt.com/microsoft-edge-navigateur-ia_04B002A301713239.webp",
+      "publishedAt": "2026-01-13T08:10:01Z",
+      "content": "Microsoft a publié un correctif critique pour son navigateur Edge, confronté à une vulnérabilité majeure qui pourrait permettre à des attaquants de compromettre votre système. Cette mise à jour, publ… [+3191 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Aymeric Geoffre-Rouland",
+      "title": "Actualité : IPTV pirate : les sites de streaming tombent, Google DNS contraint de bloquer 19 domaines",
+      "description": "Le Tribunal judiciaire de Paris vient d'ordonner à Google de bloquer dix-neuf domaines de sites pirates via son résolveur DNS public. Une décision qui vise directement les diffusions illicites de la Ligue des champions, et qui ferme une porte de contournement…",
+      "url": "https://www.lesnumeriques.com/societe-numerique/iptv-pirate-les-sites-de-streaming-tombent-google-dns-contraint-de-bloquer-19-domaines-n249672.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/24/249672/09b11d77-iptv-pirate-les-sites-de-streaming-tombent-google-dns-contraint-de-bloquer-19-domaines__1200_678__0-235-6266-3524.jpg",
+      "publishedAt": "2026-01-13T08:00:00Z",
+      "content": "Avec 11 % des internautes français utilisant l'IPTV pirate, le tribunal parisien ordonne le blocage de 19 sites via Google DNS pour protéger les droits de diffusion de la Ligue des champions.\r\n© Prox… [+3026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gameblog"
+      },
+      "author": "KiKiToès",
+      "title": "Google pirate Apple et ajoute cette fonctionnalité ultra demandée à ses Pixel",
+      "description": "Google a brisé une barrière qui le séparait d'Apple grâce cette fonctionnalité très attendue et demandée. Ca plait déjà énormément aux utilisateurs et ce n'est pas fini.",
+      "url": "https://www.gameblog.fr/trends/google-pirate-apple-airdrop-709129",
+      "urlToImage": "https://cdn-uploads.gameblog.fr/img/trends/709129_6965e4238da35.webp",
+      "publishedAt": "2026-01-13T07:20:34Z",
+      "content": "Google a brisé une barrière qui le séparait d'Apple grâce cette fonctionnalité très attendue et demandée. Ca plait déjà énormément aux utilisateurs et ce n'est pas fini.On le sait, si les produits Ap… [+2345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Siècle Digital"
+      },
+      "author": "Frédéric Olivieri",
+      "title": "Une fuite de données massive chez Instagram déclenche une vague d’e-mails qui inquiète des millions d’utilisateurs",
+      "description": "Depuis plusieurs jours, de nombreux utilisateurs d’Instagram reçoivent un e-mail les invitant à réinitialiser leur mot de passe, sans en avoir fait la demande. À première vue, le message semble légitime : l’expéditeur correspond à une adresse officielle du ré…",
+      "url": "https://siecledigital.fr/2026/01/12/instagram-cible-par-une-nouvelle-fuite-de-donnees/",
+      "urlToImage": "https://siecledigital.fr/wp-content/uploads/2026/01/instagram-1.jpg",
+      "publishedAt": "2026-01-12T13:51:44Z",
+      "content": "Depuis plusieurs jours, de nombreux utilisateurs d’Instagram reçoivent un e-mail les invitant à réinitialiser leur mot de passe, sans en avoir fait la demande. À première vue, le message semble légit… [+2612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Corentin Béchade",
+      "title": "Instagram rassure tout le monde, la récente fuite de données n’en était pas une finalement",
+      "description": "Alors qu’un fichier promettant de contenir des informations personnelles sur 17,5 millions de comptes Instagram a émergé sur des recoins sombres du net, Meta tente de rassurer en expliquant qu’il n’y a pas eu d’accès frauduleux à ses données.",
+      "url": "https://www.frandroid.com/marques/meta/2938631_instagram-rassure-tout-le-monde-la-recente-fuite-de-donnees-nen-etait-pas-une-finalement",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2024/06/brett-jordan-fmqhtmu4ivu-unsplash-scaled.jpg?resize=1600,900&key=926a7ac8&watermark",
+      "publishedAt": "2026-01-12T07:14:33Z",
+      "content": "Alors qu’un fichier promettant de contenir des informations personnelles sur 17,5 millions de comptes Instagram a émergé sur des recoins sombres du net, Meta tente de rassurer en expliquant qu’il n’y… [+2767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Red Voltaire"
+      },
+      "author": "Alfredo Jalife-Rahme",
+      "title": "La Russie lance sa deuxième frappe Oreshnik contre l'Ukraine, et Martyanov publie une « carte du partage tripolaire », par Alfredo Jalife-Rahme",
+      "description": "La carte, publiée par Andrei Martyanov, proche de l'armée russe, laisse pantois. Les présidents Donald Trump, Vladimir Poutin et Xi Jinping se seraient partagés le monde lors de la conférence de Yalta-2 à Anchorage (Alaska), le 15 août 2025. Si les États-Unis…",
+      "url": "https://www.voltairenet.org/article223490.html",
+      "urlToImage": "https://www.voltairenet.org/IMG/logo/400_-_1_2_-331.jpg?1768196278",
+      "publishedAt": "2026-01-12T05:53:18Z",
+      "content": "Dans le contexte des tensions entre les trois superpuissances — les États-Unis, la Russie et la Chine — la porte-parole de la Maison-Blanche, Karoline Leavitt, catholique, a déclaré que malgré le dif… [+4988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Fuite massive sur Instagram : les données de 17,5 millions de comptes exposées",
+      "description": "Une fuite de données massive frappe Instagram. Les informations personnelles de 17,5 millions de comptes, incluant noms, emails, numéros de téléphone et adresses postales, ont été dérobées et circulent désormais sur le dark web. Cette situation expose les uti…",
+      "url": "https://www.generation-nt.com/actualites/instagram-piratage-fuite-donnees-cybersecurite-mot-passe-2068833",
+      "urlToImage": "https://img.generation-nt.com/instagram-ipad_04B002A301706974.webp",
+      "publishedAt": "2026-01-12T05:30:01Z",
+      "content": "C'est un nouveau coup dur pour la sécurité des réseaux sociaux. L'entreprise de cybersécurité Malwarebytes a sonné l'alarme le 9 janvier 2026 : des pirates ont mis la main sur les données sensibles d… [+4715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Nassim Chentouf",
+      "title": "Actualité : Si vous avez reçu ce message d'Instagram, votre compte a été touché par une fuite de données",
+      "description": "Ce sont des millions d'utilisateurs d'Instagram qui pourraient recevoir un message pour le moins suspect. Et pour cause : il leur demande de réinitialiser leur mot de passe ou de vérifier leur compte. Sauf qu'il s'agit là de tentatives d'hameçonnage suite à u…",
+      "url": "https://www.lesnumeriques.com/societe-numerique/si-vous-avez-recu-ce-message-d-instagram-votre-compte-a-ete-touche-par-une-fuite-de-donnees-n249572.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/24/249572/9464fe79-si-vous-avez-recu-ce-message-d-instagram-votre-compte-a-ete-touche-par-une-fuite-de-donnees__1200_678__0-625-5568-3548.jpg",
+      "publishedAt": "2026-01-11T20:15:00Z",
+      "content": "© Shutterstock/Charles-McClintock Wilson\r\nLa société de cybersécurité confirme que les informations personnelles de 17,5 millions de comptes Instagram ont été exposées. C'est lors de l'analyse de rou… [+2803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Un suspect interpellé après le piratage de la FFTir",
+      "description": "Piratage de la FFTir, interpellation d’un suspect de 18 ans et exploitation criminelle de données sensibles. Pendant ce temps, d'autres continuent le business...",
+      "url": "https://www.zataz.com/un-suspect-interpelle-apres-le-piratage-de-la-fftir/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/FFTir-busted-150x150.jpg",
+      "publishedAt": "2026-01-10T16:46:55Z",
+      "content": "À lautomne, le piratage massif de la Fédération française de tir a exposé près dun million dadhérents. Deux mois plus tard, lenquête cyber débouche sur linterpellation dun suspect majeur, au profil i… [+6358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Un “tueur d’EDR” proposé sur un forum russophone",
+      "description": "ZATAZ repère un \"EDR killer\" vendu sur un forum russophone, avec driver signé 2025, pour 3 000 $....",
+      "url": "https://www.zataz.com/un-tueur-dedr-propose-sur-un-forum-russophone/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/edr-killer-150x150.jpg",
+      "publishedAt": "2026-01-10T15:10:05Z",
+      "content": "La veille ZATAZ a repéré une annonce qui vise le cur des défenses dentreprise : un outil censé désactiver des antivirus et EDR majeurs. Le vendeur promet efficacité, discrétion et driver signé Micros… [+5619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Mamie trafique dans le darkweb !",
+      "description": "Une femme de 81 ans jugée pour avoir travaillé dans le dark web : 396 colis de drogue expédiés pour sa fille....",
+      "url": "https://www.zataz.com/mamie-trafique-dans-le-darkweb/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/mamie-darkweb-150x150.jpg",
+      "publishedAt": "2026-01-10T13:58:19Z",
+      "content": "Une femme de 81 ans condamnée pour trafic de stupéfiants na pas convaincu la justice quelle ignorait aider sa fille dans le darkweb.\r\nSouthsada Sananikone, 81 ans, habitante de Melbourne, a échoué à … [+4795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Édouard le Ricque",
+      "title": "Instagram a été piraté : 17,5 millions de comptes dans la nature, comment se protéger ?",
+      "description": "Une base de données contenant les informations personnelles de 17,5 millions d'utilisateurs d'Instagram circule actuellement sur le Dark Web. Si Meta n'a pas encore confirmé l'ampleur de l'incident, les experts en cybersécurité tirent la sonnette d'alarme : v…",
+      "url": "https://www.frandroid.com/marques/meta/2938259_instagram-a-ete-pirate-175-millions-de-comptes-dans-la-nature-comment-se-proteger",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/01/instagram-pirate.jpeg?resize=1600,900&key=ab9e37ee&watermark",
+      "publishedAt": "2026-01-10T10:39:07Z",
+      "content": "Une base de données contenant les informations personnelles de 17,5 millions d’utilisateurs d’Instagram circule actuellement sur le Dark Web. Si Meta n’a pas encore confirmé l’ampleur de l’incident, … [+3659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Arnaque « relation ambiguë », le piège de l’ex qui revient",
+      "description": "Relation ambiguë : des SMS minimalistes imitant un ex poussent à répondre, puis dérivent vers arnaque sentimentale et parfois crypto....",
+      "url": "https://www.zataz.com/arnaque-relation-ambigue-le-piege-de-lex-qui-revient/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/ex-hack-150x150.jpg",
+      "publishedAt": "2026-01-10T10:11:50Z",
+      "content": "De nouveaux messages jouent sur une corde intime : lidée quun ancien « presque couple » cherche à reprendre contact. Derrière le flou émotionnel, une mécanique dhameçonnage social qui vise la réponse… [+4684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "SantaStealer sort de l’ombre, un outil pirate qui a de la mémoire",
+      "description": "SantaStealer, infostealer MaaS “in-memory”, en location chez les pirates pour quelques dizaines d'euros....",
+      "url": "https://www.zataz.com/santastealer-sort-de-lombre-un-outil-pirate-qui-a-de-la-memoire/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/santastealer-150x150.jpg",
+      "publishedAt": "2026-01-10T09:49:24Z",
+      "content": "Repéré en promotion sur Telegram et de nombreux forums pirates, SantaStealer est désormais « production-ready ». Le risque de ce nouveau logiciel pirate tient à son modèle SaaS et à une exécution ent… [+4804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate.fr"
+      },
+      "author": "Théa Doulcet",
+      "title": "Une hackeuse utilise l'IA pour faire tomber le «Tinder des néonazis»",
+      "description": "Une hackeuse allemande connue sous le pseudonyme Martha Root a révélé comment elle a infiltré, exploité puis supprimé plusieurs plateformes de rencontres suprémacistes, mettant en lumière les failles béantes de ces réseaux extrémistes.",
+      "url": "https://www.slate.fr/tech-internet/hackeuse-intelligence-artificielle-attaque-tinder-nazis-sites-rencontre-supremacistes-blancs-pirate-extreme-droite",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271964/original_271964.jpg",
+      "publishedAt": "2026-01-10T05:55:01Z",
+      "content": "Après les sites de rencontres pour célébrités, gamers ou encore millionnaires, saviez-vous qu'il existe aussi des applications dédiées aux néonazis? Ces plateformes affichent un objectif clair: mettr… [+2540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Franceinfo.fr"
+      },
+      "author": "Laure Narlian",
+      "title": "VIDEOS. Dix ans sans David Bowie : dix performances live cultes de la star aux mille visages",
+      "description": "L'artiste caméléon disparaissait il y a dix ans déjà. L'occasion de le célébrer en revoyant quelques-unes de ses plus incroyables apparitions musicales filmées, en général pour des shows télévisés.",
+      "url": "https://www.franceinfo.fr/culture/musique/rock/videos-dix-ans-sans-david-bowie-dix-performances-live-cultes-de-la-star-aux-mille-visages_7726615.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/9iky-rA_RiwI6oiiGVpGx88NwcQ/288x126:2622x1440/1500x843/2026/01/07/maxpeoplefrfour014745-695ecb5bb3c77448019033.jpg",
+      "publishedAt": "2026-01-10T05:10:02Z",
+      "content": "Que reste-t-il de David Bowie dix ans après sa mort, survenue le 10 janvier 2016, deux jours après son 69e anniversaire ? Sa musique, son audace tous azimuts, sa liberté, son style. Avant-gardiste, i… [+8389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Sirius",
+      "title": "Un jeune hacker de 18 ans arrêté pour le piratage de la Fédération de Tir",
+      "description": "Après des mois d'enquête, la police a arrêté un jeune hacker de 18 ans suspecté d'avoir orchestré la cyberattaque contre la Fédération Française de Tir. Cette fuite de données avait exposé les informations de près d'un million de membres et conduit à une vagu…",
+      "url": "https://www.generation-nt.com/actualites/piratage-fftir-arrestation-cybercriminalite-donnees-personnelles-armes-2068809",
+      "urlToImage": "https://img.generation-nt.com/hacker_04B002A301704473.webp",
+      "publishedAt": "2026-01-09T17:50:01Z",
+      "content": "L'affaire avait secoué le monde du tir sportif et bien au-delà. En octobre 2025, une cyberattaque d'envergure touchait la Fédération Française de Tir, exposant les données personnelles de centaines d… [+2566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Vishing : un couple pirate de données bancaires arrêté",
+      "description": "Un couple arrêté pour vishing : usurpation de numéro bancaire, 14 victimes, 22 000 $ volés et 68 cartes-cadeaux saisies....",
+      "url": "https://www.zataz.com/vishing-un-couple-pirate-de-cb-arrete/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/vishing-couple-150x150.jpg",
+      "publishedAt": "2026-01-09T17:19:49Z",
+      "content": "Pendant deux mois, un duo originaire de Floride aurait orchestré une escroquerie téléphonique en usurpant lidentité de la sécurité bancaire. Leur arrestation met en lumière une fraude peu coûteuse, m… [+5045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "James : manifeste cyber et sidération informationnelle",
+      "description": "BreachForums, Shiny Hunters, James : analyse cyber d’un manifeste en ligne mêlant renseignement, intimidation informationnelle... et diffusion de la base de données de BreachForums....",
+      "url": "https://www.zataz.com/james-manifeste-cyber-et-sideration-informationnelle/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/james-breachforums-150x150.jpg",
+      "publishedAt": "2026-01-09T16:13:10Z",
+      "content": "Au mois d’octobre 2025, la base de données du forum pirate BreachForums réapparaissait dans le darkweb. Le site avait été stoppé par les autorités quelques mois auparavant. En ombre, des groupes pira… [+7891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Sirius",
+      "title": "Sega poursuit un fan pour avoir publié la bande-son de Persona 3 Reload sur Spotify",
+      "description": "Sega a engagé des poursuites judiciaires contre un individu connu sous le pseudonyme \"Ziodyne\". Ce dernier est accusé d'avoir utilisé le service DistroKid pour mettre en ligne et monétiser illégalement les bandes-son de Persona 3 Reload et Shin Megami Tensei:…",
+      "url": "https://www.generation-nt.com/actualites/sega-persona-3-reload-spotify-plainte-justice-droits-auteur-2068805",
+      "urlToImage": "https://img.generation-nt.com/spotify_04B002A301717994.webp",
+      "publishedAt": "2026-01-09T15:30:01Z",
+      "content": "L'éditeur de jeux vidéo a décidé de passer à l'offensive judiciaire. Dans une plainte déposée en Floride, la société vise un utilisateur connu sous le pseudonyme de \"Ziodyne\". La raison ? La mise en … [+2416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Gabriel Thierry",
+      "title": "Un basketteur russe accusé de piratage a été échangé contre le chercheur Laurent Vinatier",
+      "description": "Arrêté à la fin juin à Roissy, le Russe devait être extradé vers les États-Unis.",
+      "url": "https://www.zdnet.fr/actualites/un-basketteur-russe-accuse-de-piratage-a-ete-echange-contre-le-chercheur-laurent-vinatier-487888.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/07/daniil-kasatkin.jpg",
+      "publishedAt": "2026-01-09T10:20:48Z",
+      "content": "Cet automne, la justice française avait donné son aval à \r\nlextradition\r\n de Daniil Kasatkin, ce basketteur russe arrêté à Paris à la fin du mois de juin et accusé aux États-Unis davoir été lun des n… [+2734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "01net.com"
+      },
+      "author": "Florian Bayard",
+      "title": "Une arnaque à la carte bancaire vise votre smartphone : des pirates chinois ont trouvé le moyen de vider votre compte",
+      "description": "Une arnaque à la carte bancaire sévit actuellement sur les smartphones Android. Des cybercriminels chinois ont en effet trouvé le moyen de siphonner votre compte bancaire en toute impunité. Plus de 54 variantes de cette attaque « Ghost Tapped » ont été enregi…",
+      "url": "https://www.01net.com/actualites/arnaque-carte-bancaire-vise-votre-smartphone-pirates-chinois-trouve-moyen-vider-compte.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2023/10/Fraude-carte-bancaire.jpg",
+      "publishedAt": "2026-01-09T10:02:25Z",
+      "content": "Une arnaque à la carte bancaire sévit actuellement sur les smartphones Android. Des cybercriminels chinois ont en effet trouvé le moyen de siphonner votre compte bancaire en toute impunité. Plus de 5… [+4898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Faille Chrome : Google déploie une mise à jour critique pour 3 milliards d'utilisateurs",
+      "description": "Google lance une mise à jour d'urgence pour son navigateur Chrome (versions 143.0.7499.192/.193) afin de corriger la faille de sécurité critique CVE-2026-0628. Cette vulnérabilité dans le composant WebView peut permettre à des attaquants de contourner les res…",
+      "url": "https://www.generation-nt.com/actualites/chrome-faille-securite-webview-cve-2026-0628-mise-jour-2068745",
+      "urlToImage": "https://img.generation-nt.com/google-chrome-faille_04B002A301705342.webp",
+      "publishedAt": "2026-01-09T06:10:01Z",
+      "content": "Google a confirmé le déploiement d'un correctif de sécurité urgent pour son navigateur vedette, qui compte plus de trois milliards d'utilisateurs. En cause, une faille jugée de haute sévérité, identi… [+3886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "dh.be"
+      },
+      "author": "AFP -",
+      "title": "Euroligue: Monaco s'offre la place de leader et une victoire référence",
+      "description": "L'AS Monaco a confirmé son excellente santé ces dernières semaines en signant une cinquième victoire consécutive en Euroligue, jeudi dans la salle du coleader Valence (101-92) qu'il rejoint au classement après 21 journées. ...",
+      "url": "https://www.dhnet.be/sports/basket/2026/01/08/euroligue-monaco-soffre-la-place-de-leader-et-une-victoire-reference-KYOJ2MRPHRAQVJ7XW7X4MPZK6E/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/PD6STUXD2NB5DFZAFHW2344424.jpg?auth=f160a565a44e9da46395e2d74a6f055302f3f09ea0ff5d07ac36fb06f73bfd6f&width=1200&height=630&quality=85&focal=2309%2C1590",
+      "publishedAt": "2026-01-08T22:10:17Z",
+      "content": "Les Valencians ont à leur tour mordu la poussière, pris dans un premier temps à leur propre jeu, celui d'un basket au rythme échevelé, puis freinés par une équipe concernée en défense, qui a limité l… [+1395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lalibre.be"
+      },
+      "author": "Christopher Hooghe",
+      "title": "Qui est ce basketteur remis à la Russie et qui était incarcéré en France dans des conditions décriées par son avocat?",
+      "description": "Incarcéré depuis juin 2024 en Russie, le chercheur français Laurent Vinatier a pu rentrer chez lui en l’échange du basketteur russe Daniil Kasatkin, détenu en France depuis six mois. ...",
+      "url": "https://www.lalibre.be/international/europe/2026/01/08/qui-est-ce-basketteur-remis-a-la-russie-et-qui-etait-incarcere-en-france-dans-des-conditions-decriees-par-son-avocat-RJFI72XMHBDD3OAXA5B2VGEYSY/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/IKQFPZUKJJCNZFJIKMRLIRHKL4.jpg?auth=33c3749e3bbe98e57540b4a272c695f61752d9a67342968b91b2804f4ebc4d27&width=1200&height=630&quality=85&focal=2750%2C1547",
+      "publishedAt": "2026-01-08T17:47:39Z",
+      "content": "Un chercheur français libéré par la Russie contre monnaie d'échangePlus précisément, Kasatkin était soupçonné de faire partie d'un réseau de pirates informatiques qui aurait attaqué par rançongiciel … [+1292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Amine Baba Aissa",
+      "title": "La course folle pour sécuriser les LLM continue, ChatGPT doit colmater une brèche qu’on pensait réglée",
+      "description": "Les chercheurs de l’entreprise de cybersécurité Radware ont mis en garde, le 8 janvier 2026, contre une nouvelle attaque par injection indirecte visant ChatGPT.​ Cette offensive détourne une mécanique que l’on pensait réglée depuis quelques mois et cible spéc…",
+      "url": "https://www.numerama.com/cyberguerre/2156137-la-course-folle-pour-securiser-les-llm-continue-chatgpt-doit-colmater-une-breche-quon-pensait-reglee.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/10/mariia-shalabaieva-nysdjvd2ayo-unsplash.jpg?resize=1600,900&key=47b0f437&watermark",
+      "publishedAt": "2026-01-08T17:20:00Z",
+      "content": "Les chercheurs de l’entreprise de cybersécurité Radware ont mis en garde, le 8 janvier 2026, contre une nouvelle attaque par injection indirecte visant ChatGPT.​ Cette offensive détourne une mécaniqu… [+5103 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Le Monde avec AFP",
+      "title": "La justice ouvre une enquête après la revendication d’une fuite de millions de données de l’Office de l’immigration et de l’intégration",
+      "description": "L’enquête fait suite à la revendication d’un internaute sur BreachForums de la mise en vente de 2,1 millions de lignes de données de l’OFII, a précisé le parquet de Paris.",
+      "url": "https://www.lemonde.fr/societe/article/2026/01/08/la-justice-ouvre-une-enquete-apres-la-revendication-d-une-fuite-de-millions-de-donnees-de-l-office-de-l-immigration-et-de-l-integration_6661043_3224.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/08/0/0/6000/4000/1440/960/60/0/8b67e3b_upload-1-tplw7j6zwxzx-000-33ud2ey.jpg",
+      "publishedAt": "2026-01-08T16:54:52Z",
+      "content": "Des agents de lOffice français de limmigration et de lintégration (OFII) à laéroport Paris - Charles-de-Gaulle, à Roissy-en-France (Val-dOise), le 4 septembre 2023. GEOFFROY VAN DER HASSELT/AFP\r\nLe p… [+1124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "dh.be"
+      },
+      "author": "Christopher Hooghe",
+      "title": "Qui est Daniil Kasatkin, basketteur russe et “pirate informatique”, qui a servi de monnaie d’échange entre la France et la Russie ?",
+      "description": "Incarcéré depuis juin 2024 en Russie, le chercheur français Laurent Vinatier a pu rentrer chez lui en l’échange du basketteur russe Daniil Kasatkin, détenu en France depuis six mois. ...",
+      "url": "https://www.dhnet.be/actu/monde/2026/01/08/qui-est-daniil-kasatkin-basketteur-russe-et-pirate-informatique-qui-a-servi-de-monnaie-dechange-entre-la-france-et-la-russie-4TU4QBPWRVC63DPNZGY5T4DAKE/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/CSTUCUSP4RCYVP3EBWEJ73LDEE.jpg?auth=cc4985e585ec967957e519bc8cd36e5c197f8cea8c1213b293fd7d4ecc5ac359&width=1200&height=630&quality=85&focal=1024%2C682",
+      "publishedAt": "2026-01-08T16:22:48Z",
+      "content": "Plus précisément, Kasatkin était soupçonné de faire partie d'un réseau de pirates informatiques qui aurait attaqué par rançongiciel quelque 900 entreprises, associations et institutions gouvernementa… [+1374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "L'Express"
+      },
+      "author": "Audrey Parmentier",
+      "title": "Plusieurs hauts responsables du Congrès américain victimes d’une cyberattaque chinoise",
+      "description": "Pékin a piraté les messageries électroniques utilisées par le personnel de plusieurs commissions clés du Congrès américain, selon le Financial Times.",
+      "url": "https://www.lexpress.fr/monde/amerique/plusieurs-hauts-responsables-du-congres-americain-victimes-dune-cyberattaque-chinoise-GSP4LYXRQFHENC7MZA6EGB4GKE/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/TPIKEWDCQRAWBDMA76VSHIOIUM.JPG?auth=dc4ab50b0e4e35e25168c7fc9964f756fed0c345d608a23270ae1f0664d1bdc1&width=1200&height=630&quality=85&focal=2693%2C1725",
+      "publishedAt": "2026-01-08T12:53:28Z",
+      "content": "La Chine a piraté les messageries électroniques utilisées par le personnel de plusieurs commissions influentes de la Chambre des représentants américaine, dans le cadre dune vaste campagne de cyberes… [+4093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "L'Express"
+      },
+      "author": "Emmanuel Chiva",
+      "title": "Anticiper, c’est penser hors du cadre pour ne pas subir, par Emmanuel Chiva",
+      "description": "Invasion de l'Ukraine, guerre des drones, essor de l'IA... Trop souvent, le futur est impensé, alors qu’il est indispensable de se poser la question du long terme.",
+      "url": "https://www.lexpress.fr/monde/europe/anticiper-cest-penser-hors-du-cadre-pour-ne-pas-subir-par-emmanuel-chiva-WB7PXRR3D5EVLJ22KMWM7NV3ZQ/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/ASO2XXHI4FE4LMFVU4FS44CU54.jpg?auth=de1e97e7b337c5e7acc17a259bad3b4304735aac4dbbc23408726a0e11fcc124&width=1200&height=630&quality=85&focal=836%2C882",
+      "publishedAt": "2026-01-08T11:00:00Z",
+      "content": "Voici le premier numéro dune chronique dans laquelle je vais mattacher à vous donner quelques clés dans le domaine de linnovation de défense, des technologies et des enjeux géopolitiques qui en décou… [+4942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphon.fr"
+      },
+      "author": "Pierre L. Duval",
+      "title": "Le meilleur des jeux iPhone et iPad de 2025 par iPhon.fr",
+      "description": "Les 34 jeux qui nous ont le plus plu en 2025 sur iPhone.",
+      "url": "https://www.iphon.fr/post/meilleurs-jeux-iphone-ipad-2025",
+      "urlToImage": "https://www.iphon.fr/app/uploads/2026/01/manette-et-jeu-iphone-1600x900.jpg",
+      "publishedAt": "2026-01-08T10:27:40Z",
+      "content": "L’année dernière, des centaines de jeux ont débarqué sur l’App Store iPhone. Difficile de s’y retrouver, tant les sorties ont été nombreuses. D’autant plus que, hormis les recommandations d’Apple dan… [+10672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Inrocks"
+      },
+      "author": "Nelly Kaprièlian",
+      "title": "“Pluribus” : une romancière peut-elle sauver le monde ?",
+      "description": "Heureux·ses que les “fêtes” soient passées ? Oui, mais moins d’avoir terminé la première saison de la brillantissime série Pluribus, bingée pendant les vacances. Comme toute science-fiction, il s’agit d’une satire de notre époque, et ce n’est pas un hasard si…",
+      "url": "https://www.lesinrocks.com/livres/pluribus-une-romanciere-peut-elle-sauver-le-monde-687100-08-01-2026/",
+      "urlToImage": "https://www.lesinrocks.com/wp-content/thumbnails/uploads/2026/01/Capture-decran-2026-01-07-a-16.33.50-t-3066x1754.jpg",
+      "publishedAt": "2026-01-08T05:07:00Z",
+      "content": "Heureux·ses que les fêtes soient passées ? Oui, mais moins davoir terminé la première saison de la brillantissime série Pluribus, bingée pendant les vacances. Comme toute science-fiction, il sagit du… [+2074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Le remake d'Assassin's Creed Black Flag refait surface avec un nom de domaine explicite",
+      "description": "Le remake tant attendu d'Assassin's Creed IV: Black Flag, probablement nommé \"Resynced\", semble se confirmer de manière quasi officielle. L'enregistrement d'un nom de domaine par une société proche d'Ubisoft et une classification PEGI ont ravivé les espoirs d…",
+      "url": "https://www.generation-nt.com/actualites/remake-assassin-creed-black-flag-nom-domaine-ubisoft-2068583",
+      "urlToImage": "https://img.generation-nt.com/assassin-creed-iv-black-flag-c_04B002A301520022.webp",
+      "publishedAt": "2026-01-07T10:10:01Z",
+      "content": "C'est le secret le moins bien gardé de l'industrie du jeu vidéo. Le retour d'Edward Kenway dans une version modernisée d'Assassin's Creed Black Flag n'est plus une simple rumeur, mais une quasi-certi… [+3708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Jean-Yves Alric",
+      "title": "Windows : c’est quoi cette nouvelle arnaque à l’écran bleu de la mort qui fait des ravages ?",
+      "description": "Une cyberattaque particulièrement sournoise qui se déploie en Europe.",
+      "url": "https://www.presse-citron.net/windows-cest-quoi-cette-nouvelle-arnaque-a-lecran-bleu-de-la-mort-qui-fait-des-ravages/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2025/06/Erreur-Windows-1600x900.jpg",
+      "publishedAt": "2026-01-07T09:57:05Z",
+      "content": "Cest une cyberattaque très vicieuse que viennent de dévoiler les chercheurs de Securonix. Les experts évoquent ainsi une campagne qui vise principalement le secteur de lhôtellerie européen avec des c… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "VVotre WhatsApp est-il vraiment privé ? Une faille de sécurité persiste malgré le correctif de Meta.",
+      "description": "Meta a récemment déployé un correctif pour une faille de sécurité dans WhatsApp qui permettait d'identifier le système d'exploitation des utilisateurs. Cependant, des chercheurs alertent : la correction est incomplète et la fuite de métadonnées persiste, faci…",
+      "url": "https://www.generation-nt.com/actualites/whatsapp-faille-securite-meta-metadonnees-fingerprinting-2068584",
+      "urlToImage": "https://img.generation-nt.com/whatsapp_04B002A301682395.webp",
+      "publishedAt": "2026-01-07T07:10:01Z",
+      "content": "Une vulnérabilité majeure au cœur de WhatsApp vient de connaître un développement en demi-teinte. Meta, la maison mère de l'application aux trois milliards d'utilisateurs, a discrètement corrigé une … [+3896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smallbusinessbranding.com"
+      },
+      "author": "Sean M Kelly",
+      "title": "Sharky : Amusement avec outil vers avec quick hit jeu donné un brin avec Novomatic",
+      "description": "Ravi Quick hit jeu – Verso annexes GoldSpin Salle de jeu : Cet gracieux pourboire salle de jeu de 2025 […]",
+      "url": "https://www.smallbusinessbranding.com/26223/sharky-amusement-avec-outil-vers-avec-quick-hit-jeu-donne-un-brin-avec-novomatic/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-07T02:22:06Z",
+      "content": "Ayant cette finale, il faudra gouvernement rencontrer un élevé la plupart des quick hit jeu plaisir proposés il nous a des planchettes sauf que planchettes. Les meilleures réunion sont ergonomiques ,… [+7358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Jérôme G.",
+      "title": "Anna’s Archive perd son .org. Une suite du piratage de Spotify ?",
+      "description": "Si la plateforme demeure accessible via des adresses alternatives, le nom de domaine principal en .org d'Anna's Archive a été suspendu. Le collectif avait fait parler de lui fin 2025 avec le piratage de Spotify.",
+      "url": "https://www.generation-nt.com/actualites/annas-archive-domaine-suspension-org-piratage-spotify-2068569",
+      "urlToImage": "https://img.generation-nt.com/drapeau-pirate_04B002A301685085.webp",
+      "publishedAt": "2026-01-06T17:50:01Z",
+      "content": "Anna's Archive a vu son nom de domaine principal en .org devenir subitement inaccessible. Le domaine a été placé sous le statut serverHold par le registre de noms de domaine, Public Interest Registry… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Amine Baba Aissa",
+      "title": "Déguisée en Power Ranger, elle pirate en direct un « Tinder pour Nazis »",
+      "description": "Lors d’une conférence tenue en marge du Chaos Communication Congress, à Hambourg fin 2025, une hackeuse a supprimé en direct trois sites web détenus par la même personne, tous dédiés à la mise en relation de suprémacistes blancs. Toutes les héroïnes ne porten…",
+      "url": "https://www.numerama.com/cyberguerre/2153749-deguisee-en-power-ranger-elle-pirate-en-direct-un-tinder-pour-nazis.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/01/design-sans-titre-2026-01-06t103926488.jpg?resize=1600,900&key=584c4812&watermark",
+      "publishedAt": "2026-01-06T13:10:25Z",
+      "content": "Lors d’une conférence tenue en marge du Chaos Communication Congress, à Hambourg fin 2025, une hackeuse a supprimé en direct trois sites web détenus par la même personne, tous dédiés à la mise en rel… [+5023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Sirius",
+      "title": "L'Office français de l'immigration confirme une fuite de données massive via un de ses sous-traitants",
+      "description": "L'Office français de l'immigration et de l'intégration (OFII) est au cœur d'une nouvelle affaire de fuite de données. Un pirate informatique a mis en vente une base de données d'un gigaoctet, revendiquant deux millions de lignes d'informations personnelles se…",
+      "url": "https://www.generation-nt.com/actualites/fuite-donnees-ofii-cyberattaque-prestataire-etrangers-2068546",
+      "urlToImage": "https://img.generation-nt.com/hacker_04B002A301704473.webp",
+      "publishedAt": "2026-01-06T11:45:01Z",
+      "content": "Une base de données particulièrement sensible, contenant des noms, prénoms, coordonnées complètes, numéros de dossiers et même les motifs de séjour, se retrouve désormais proposée à la vente sur des … [+3580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Julien Lausson",
+      "title": "Anna’s Archive perd son adresse .org : une riposte après le piratage de Spotify ?",
+      "description": "Anna's Archive, célèbre moteur de recherche permettant de trouver des bibliothèques clandestines, et donc des contenus littéraires piratés, a vu une de ses adresses se faire suspendre début janvier 2026. Le timing interroge, car cette désactivation survient d…",
+      "url": "https://www.numerama.com/tech/2153813-annas-archive-perd-son-adresse-org-une-riposte-apres-le-piratage-de-spotify.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/01/org-domaine-ndd.jpg?resize=1600,900&key=a61342a5&watermark",
+      "publishedAt": "2026-01-06T11:27:23Z",
+      "content": "Anna’s Archive, célèbre moteur de recherche permettant de trouver des bibliothèques clandestines, et donc des contenus littéraires piratés, a vu une de ses adresses se faire suspendre début janvier 2… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Doctolib accusé à tort : la vérité sur la fuite des données de 150 000 patients !",
+      "description": "Plus de 150 000 dossiers de patients se retrouvent sur le dark web suite à une fuite massive. Si la plateforme de rendez-vous médicaux a d'abord été pointée du doigt, elle est finalement mise hors de cause. La faille provient de deux établissements de santé, …",
+      "url": "https://www.generation-nt.com/actualites/doctolib-fuite-donnees-patients-sante-cybersecurite-2068489",
+      "urlToImage": "https://img.generation-nt.com/doctolib_04B002A301680444.webp",
+      "publishedAt": "2026-01-06T11:10:01Z",
+      "content": "Un pirate informatique, connu sous le pseudonyme \"host1337\", a publié sur le forum criminel BreachForums une base de données contenant les informations de 152 808 personnes ce 4 janvier 2026. Les don… [+4046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "L'Obs"
+      },
+      "author": "Matthieu Aron",
+      "title": "Coline Costes, figure du cinéma pirate marseillais : « Tous les samedis, on passait mon film sur la télé du PMU »",
+      "description": "Installée à Marseille depuis trois ans, Coline Costes dynamite les codes du documentaire et des festivals. Entre archives de quartier improvisées et projections sauvages dans les bars-tabacs, portrait d’une réalisatrice qui veut faire du réel un art.",
+      "url": "https://www.nouvelobs.com/cinema/20260106.OBS111232/coline-costes-figure-du-cinema-pirate-marseillais-tous-les-samedis-on-passait-mon-film-sur-la-tele-du-pmu.html",
+      "urlToImage": "https://focus.nouvelobs.com/2026/01/05/1/0/1024/682/1200/800/0/0/0822ac4_upload-1-yjwymsa1yaxe-coline-min-1024x684.jpg",
+      "publishedAt": "2026-01-06T06:30:35Z",
+      "content": "La réalisatrice Coline Costes du collectif Le Crabe Films, créatrice du FID off, un festival pirate clin dil au Festival international de Marseille. LA CINÉ FABRIQUE\r\nCommenter\r\n Lire plus tard \r\nGoo… [+983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Mathieu M.",
+      "title": "Fausse alerte chez NordVPN : les données volées n'étaient qu'un leurre !",
+      "description": "Un pirate informatique a affirmé avoir volé des données sensibles de NordVPN, incluant des clés Salesforce et Jira. L'entreprise a rapidement démenti, précisant que les informations provenaient d'un environnement de test tiers, isolé et rempli de données fact…",
+      "url": "https://www.generation-nt.com/actualites/nordvpn-fuite-donnees-securite-test-dementi-2068504",
+      "urlToImage": "https://img.generation-nt.com/hacker_04B002A301661121.webp",
+      "publishedAt": "2026-01-06T06:10:01Z",
+      "content": "L'affaire a fait grand bruit ce week-end. Un pirate, se présentant sous le pseudonyme \"1011\", a revendiqué sur un forum du dark web le piratage d'un serveur de développement de NordVPN.\r\nÀ la clé, un… [+3554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pluralistic.net"
+      },
+      "author": null,
+      "title": "The Post-American Internet",
+      "description": "Comments",
+      "url": "https://pluralistic.net/2026/01/01/39c3/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-06T05:20:40Z",
+      "content": "Today's links\r\nThe Post-American Internet (permalink)\r\nOn December 28th, I delivered a speech entitled \"A post-American, enshittification-resistant internet\" for 39C3, the 39th Chaos Communications C… [+55706 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Olivier Clairouin, Florian Reynaud",
+      "title": "L’Office français de l’immigration et de l’intégration victime d’une fuite de données",
+      "description": "Un pirate a publié plusieurs extraits, dont un contenant les informations personnelles de ressortissants israéliens sur le sol français. L’OFII confirme le vol, mais affirme que l’intrusion est liée à un sous-traitant.",
+      "url": "https://www.lemonde.fr/pixels/article/2026/01/05/l-office-francais-de-l-immigration-et-de-l-integration-victime-d-une-fuite-de-donnees_6660632_4408996.html",
+      "urlToImage": "https://img.lemde.fr/2024/10/10/1/0/3008/2005/1440/960/60/0/5aa9a14_1728546855706-papier-271-43.jpg",
+      "publishedAt": "2026-01-05T15:07:25Z",
+      "content": "Des données personnelles de ressortissants étrangers sur le territoire français ont été mises en ligne, jeudi 1er janvier, par un hackeur revendiquant une attaque à but lucratif. Linternaute affirme,… [+2116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Monde-diplomatique.fr"
+      },
+      "author": "Benoît Bréville & Pierre Rimbert",
+      "title": "Éloge du papier à l'heure du déluge numérique",
+      "description": "Comment dissiper le brouillard de données, de nouvelles, d'images qui grésille sans trêve sur nos écrans ? Une méthode révolutionnaire, quoique vieille de deux millénaires, pourrait bien offrir un asile aux déserteurs de la guerre de l'attention. Ses vertus s…",
+      "url": "https://www.monde-diplomatique.fr/2026/01/BREVILLE/69172",
+      "urlToImage": "https://www.monde-diplomatique.fr/IMG/logo/img012.jpg",
+      "publishedAt": "2026-01-05T14:44:16Z",
+      "content": "Attention, voici un texte hors du temps, des flux et du tourbillon numérique. Sa construction nobéit pas aux nouvelles règles adoptées par les journalistes, blogueurs, influenceurs, éditeurs pour ten… [+26328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Amine Baba Aissa",
+      "title": "NordVPN piraté ? Le géant nie les rumeurs de faille interne et expose sa version des faits",
+      "description": "Depuis le 4 janvier 2025, un hacker affirme sur un forum du dark web détenir des données sensibles appartenant au géant des fournisseurs de réseaux privés virtuels, NordVPN. Contactée par Numerama, l’entreprise dément formellement toute intrusion et dévoile l…",
+      "url": "https://www.numerama.com/cyberguerre/2152987-nordvpn-pirate-le-geant-nie-les-rumeurs-de-faille-interne-et-expose-sa-version-des-faits.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2022/02/nordvpn.jpg?resize=1600,900&key=fba2fd87&watermark",
+      "publishedAt": "2026-01-05T13:15:58Z",
+      "content": "Depuis le 4 janvier 2025, un hacker affirme sur un forum du dark web détenir des données sensibles appartenant au géant des fournisseurs de réseaux privés virtuels, NordVPN. Contactée par Numerama, l… [+4432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Gabriel Thierry",
+      "title": "L’ESA piratée, une violation visant des activités « non classifiées »",
+      "description": "Le piratage avait été revendiqué sur un forum de fuite de données.",
+      "url": "https://www.zdnet.fr/actualites/lesa-piratee-une-violation-visant-des-activites-non-classifiees-487484.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/06/muha-ajjan-sl2brr1cuvm-unsplash-scaled.jpg",
+      "publishedAt": "2026-01-05T03:01:56Z",
+      "content": "Lannée 2025 se termine mal pour lAgence spatiale européenne (ESA). Mais cela aurait pu être pire, remarque lorganisation intergouvernementale fondée en 1975 et basée à Paris. Comme elle lindique en e… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Les cybercriminels achètent de plus en plus des accés d’employés",
+      "description": "Alerte sur l’achat d’insiders : des employés payés par des pirates pour offrir leur accés professionnel....",
+      "url": "https://www.zataz.com/les-cybercriminels-achetent-de-de-plus-en-plus-dinsiders/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/insider-money-150x150.jpg",
+      "publishedAt": "2026-01-05T00:32:47Z",
+      "content": "Un basculement chez les pirates ? Plutôt que dattaquer de lextérieur, les groupes criminels tentent dacheter laccès en recrutant des employés. Le risque devient humain, donc plus difficile à filtrer.… [+5452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Nouvelle fuite de données chez Adecco ?",
+      "description": "Nouvelle fuite Adecco en décembre 2025 ? Un pirate parle d'un accés et l'exfiltration de 750.000 CV....",
+      "url": "https://www.zataz.com/nouvelle-fuite-de-donnees-chez-adecco/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/annonce-blackmarket-150x150.jpg",
+      "publishedAt": "2026-01-04T23:12:25Z",
+      "content": "Une base de données attribuée à Adecco, agence dintérim, a été mise en vente dans un blackmarket repérée par le Service de Veille ZATAZ. Le pirate indique une infiltration datée du 20 au 22 décembre … [+8246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "L'Obs"
+      },
+      "author": "Matthieu Aron",
+      "title": "« Une ville où des ados de cité se retrouvent dans des séries Netflix » : à Marseille, la Nouvelle Vague du cinéma",
+      "description": "Depuis cinq ans, la ville de Marcel Pagnol et Robert Guédiguian s’est muée en gigantesque plateau de tournage. Mais derrière les grosses productions Netflix et les plans de soutien gouvernementaux, une autre histoire s’écrit : celle d’un cinéma « pirate », fa…",
+      "url": "https://www.nouvelobs.com/cinema/20260104.OBS111191/une-ville-ou-des-ados-de-cite-se-retrouvent-dans-des-series-netflix-a-marseille-la-nouvelle-vague-du-cinema.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/12/11/126/0/3000/2000/1200/800/0/0/ef1c189_upload-1-hxjv0ihjcod0-cine-ma-obs-9.jpg",
+      "publishedAt": "2026-01-04T15:30:14Z",
+      "content": "Commenter\r\n Lire plus tard \r\nGoogle Actualités\r\nPartager\r\n Sabonner pour lire \r\nPour aller plus loin\r\nMarseille a toujours eu le cinéma dans le sang. Bien avant que les caméras de Netflix ne se posen… [+823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Courrier International"
+      },
+      "author": "Guillermo Pérez Flórez",
+      "title": "Donald Trump, le pirate des Caraïbes",
+      "description": "L’interventionnisme de Donald Trump en Amérique latine fait dire à ce chroniqueur colombien du quotidien “El País América” que nous assistons à un nouveau partage du monde, semblable à celui qui fut scellé à Yalta en 1945. Un article écrit fin octobre 2025 av…",
+      "url": "https://www.courrierinternational.com/article/dans-nos-archives-donald-trump-le-pirate-des-caraibes_237431_1",
+      "urlToImage": "https://focus.courrierinternational.com/2025/11/19/74/0/1860/1240/1200/630/60/0/65c8501_upload-1-ofn1nnrkimg2-p-26-horsch.jpg",
+      "publishedAt": "2026-01-04T10:37:47Z",
+      "content": "Le président [des États-Unis], Donald Trump, semble décidé à utiliser la force militaire pour semparer des Caraïbes, que Washington considère depuis la première moitié du XXe siècle comme son pré car… [+1060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "20 Minutes"
+      },
+      "author": "Jean-Loup Delmas",
+      "title": "Faut-il craindre pour votre argent en cas de cyberattaque contre votre banque ?",
+      "description": "Les cyberattaques contre les banques se sont multipliées ce dernier mois, et devraient encore rythmer une partie de l’année 2026. Pour les usagers, y a-t-il un risque à voir son argent se volatiliser de son compte à la suite d’une cyberattaque ?",
+      "url": "https://www.20minutes.fr/economie/4194078-20260104-faut-craindre-argent-cas-cyberattaque-contre-banque",
+      "urlToImage": "https://img.20mn.fr/cMzrMK35RReaEorAbkV9Kik/1444x920_photo-illustration-cyberattaque-groupe-la-poste-greuezfrancois-0g4a9250-credit-francois-greuez-sipa-2512231530",
+      "publishedAt": "2026-01-04T06:02:37Z",
+      "content": "2026 commence comme 2025 avait fini : par une cyberattaque contre la Poste. Si les services ont été remis en ordre en fin de journée pour le 1er de lan, lannée devrait être encore marquée par de nomb… [+3727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Franceinfo.fr"
+      },
+      "author": "Mathilde Texier, Tom Hollmann",
+      "title": "\"Personne n'est assez protégé\" : comment la France fait face à la hausse des cyberattaques",
+      "description": "Services publics, entreprises, organisations... Les atteintes numériques se multiplient ces derniers mois. En cinq ans, elles ont augmenté de 74%, selon le ministère de l'Intérieur.",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/personne-n-est-assez-protege-comment-la-france-fait-face-a-la-hausse-des-cyberattaques_7711093.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/jZU2Xp96tlJwB80h3G0IDRpJe5s/0x53:1024x629/1500x843/2026/01/02/043-dpa-pa-251216-99-940198-dpai-1-6957cc96e91c7122066592.jpg",
+      "publishedAt": "2026-01-04T05:53:08Z",
+      "content": "Services publics, entreprises, organisations... Les atteintes numériques se multiplient ces derniers mois. En cinq ans, elles ont augmenté de 74%, selon le ministère de l'Intérieur.\r\nLe ministère de … [+10012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Cyberinfo de la semaine du 03 janvier 2026",
+      "description": "Les actualités cyber de cette premiére semaine de l'année 2026 : piratage, hacking, action judiciaire, découvertes zataz et un easter egg :)...",
+      "url": "https://www.zataz.com/cyberinfo-de-la-semaine-du-03-janvier-2026/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/ZATAZ-IA-actus-150x150.jpg",
+      "publishedAt": "2026-01-03T11:34:26Z",
+      "content": "Pour cette nouvelle année, lactualité cyber a été marquée par des attaques qui perturbent des services du quotidien et des infrastructures critiques : un géant du streaming a suspendu ses lives après… [+12174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zataz.com"
+      },
+      "author": "Damien Bancal",
+      "title": "Le Nigeria arrête un suspect clé du kit pirate RaccoonO365",
+      "description": "Un développeur présumé d’un kit de phishing \"as a service\" RaccoonO365 arrêté après des renseignements venus de Microsoft et d’agences américaines. Derrière l’interpellation, une économie criminelle structurée....",
+      "url": "https://www.zataz.com/le-nigeria-arrete-un-suspect-cle-du-kit-pirate-raccoono365/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/raccoono365-neger-150x150.jpg",
+      "publishedAt": "2026-01-02T16:20:10Z",
+      "content": "Un développeur présumé dun kit de phishing « as a service » RaccoonO365 arrêté après des renseignements venus de Microsoft et dagences américaines. Derrière linterpellation, une économie criminelle s… [+6084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Numerama"
+      },
+      "author": "Amine Baba Aissa",
+      "title": "La PS5 est-elle vraiment au bord d’un piratage ultime ? Voici ce que cette fuite pourrait coûter à Sony",
+      "description": "Depuis quelques jours, les détenteurs d'une PlayStation 5 voient défiler les promesses d’un jailbreak complet de la console. La source de ces rumeurs ? La publication, sur un forum spécialisé, d’un document contenant supposément les clés ROM de la machine. Si…",
+      "url": "https://www.numerama.com/cyberguerre/2151865-la-ps5-est-elle-vraiment-au-bord-dun-piratage-ultime-voici-ce-que-cette-fuite-pourrait-couter-a-sony.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2016/04/psn-courte-maintenance-30-juin-image-2.jpeg?resize=1600,900&key=93f943fe&watermark",
+      "publishedAt": "2026-01-02T15:07:09Z",
+      "content": "Depuis quelques jours, les détenteurs d’une PlayStation 5 voient défiler les promesses d’un jailbreak complet de la console. La source de ces rumeurs ? La publication, sur un forum spécialisé, d’un d… [+6530 chars]"
+    }
+  ]
+}

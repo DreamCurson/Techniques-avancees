@@ -1,1 +1,556 @@
-{"status":"ok","totalResults":55,"articles":[{"source":{"id":"hacker-news","name":"Hacker News"},"author":null,"title":"Ask HN: How to make my website exist for 100 years?","description":"Comments","url":"https://news.ycombinator.com/item?id=46642372","urlToImage":null,"publishedAt":"2026-01-16T02:39:12Z","content":"You might be interested in Arweave or IPFS:Arweave network is like Bitcoin, but for data: A permanent and decentralized web inside an open ledger. [0]\r\nThe InterPlanetary File System (IPFS) is a dece… [+276 chars]"},{"source":{"id":null,"name":"Korben.info"},"author":"Korben","title":"5 ans de prison pour avoir codé un portefeuille Bitcoin un peu trop respectueux de la vie privée","description":"Keonne Rodriguez, le développeur derrière Samourai Wallet, vient de se prendre 5 ans de taule pour avoir créé un portefeuille Bitcoin qui protégeait un peu trop bien l'anonymat de ses utilisateurs.\nSamourai Wallet, c'était un portefeuille Bitcoin open source …","url":"https://korben.info/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr.html","urlToImage":"https://korben.info/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr-1.png","publishedAt":"2025-12-21T08:35:49Z","content":"Keonne Rodriguez, le développeur derrière Samourai Wallet, vient de se prendre 5 ans de taule pour avoir créé un portefeuille Bitcoin qui protégeait un peu trop bien l'anonymat de ses utilisateurs.\r\n… [+2733 chars]"},{"source":{"id":null,"name":"Korben.info"},"author":"Korben","title":"OrbStack - L'alternative légère à Docker Desktop sur Mac","description":"Si vous utilisez Docker Desktop sur Mac et que vous en avez marre de voir votre ventilateur s'emballer dès que vous lancez trois conteneurs, j'ai peut-être la solution à vos problèmes.\n\nOrbStack\n, c'est une app native Swift qui remplace Docker Desktop et qui …","url":"https://korben.info/orbstack-alternative-docker-desktop-macos.html","urlToImage":"https://korben.info/orbstack-alternative-docker-desktop-macos/orbstack-alternative-docker-desktop-macos-1.webp","publishedAt":"2026-01-02T07:27:31Z","content":"Si vous utilisez Docker Desktop sur Mac et que vous en avez marre de voir votre ventilateur s'emballer dès que vous lancez trois conteneurs, j'ai peut-être la solution à vos problèmes.\r\nOrbStack, c'e… [+2357 chars]"},{"source":{"id":null,"name":"Journal du geek"},"author":"Olivier","title":"Les clients de Ledger à nouveau exposés aux arnaques et aux extorsions","description":"Ledger, spécialiste français des portefeuilles de cryptomonnaies, est confronté à une nouvelle fuite de données touchant des clients ayant passé commande sur son site. En cause, un incident de sécurité chez un prestataire externe. Si les actifs numériques ne …","url":"https://www.journaldugeek.com/2026/01/10/les-clients-de-ledger-a-nouveau-exposes-aux-arnaques-et-aux-extorsions/","urlToImage":"https://www.journaldugeek.com/app/uploads/2022/01/meilleur-wallet-portefeuille-crypto-monnaies.jpg","publishedAt":"2026-01-10T10:01:15Z","content":"Ledger a confirmé auprès de 01net avoir été informé dun incident de sécurité touchant lun de ses partenaires commerciaux, Global-e, une plateforme de commerce en ligne utilisée par de nombreuses marq… [+2738 chars]"},{"source":{"id":null,"name":"Numerama"},"author":"Eitanite Bellaiche","title":"Missiles contre Bitcoin : la nouvelle stratégie de l’Iran pour se moquer des sanctions","description":"L'Iran court-circuite le système bancaire international en proposant son arsenal militaire contre des cryptoactifs, révèle le Financial Times. Via son agence Mindex, le régime réinvente le marché de l'armement sous sanctions, malgré une surveillance accrue de…","url":"https://www.numerama.com/tech/2152289-missiles-contre-bitcoin-la-nouvelle-strategie-de-liran-pour-se-moquer-des-sanctions.html","urlToImage":"https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/06/design-sans-titre-28.jpg?resize=1600,900&key=6f5b8405&watermark","publishedAt":"2026-01-02T16:57:37Z","content":"L’Iran court-circuite le système bancaire international en proposant son arsenal militaire contre des cryptoactifs, révèle le Financial Times. Via son agence Mindex, le régime réinvente le marché de … [+2719 chars]"},{"source":{"id":null,"name":"Korben.info"},"author":"Korben","title":"Iran - La chasse aux sorcières version Starlink s'intensifie","description":"Bon, on savait que c’était tendu en Iran pour chopper un peu d’Internet libre, mais là on passe clairement au niveau supérieur dans la traque technologique.\nEn effet, si vous pensiez que poser une antenne Starlink sur votre toit en scred suffisait pour échapp…","url":"https://korben.info/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie.html","urlToImage":"https://korben.info/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie-1.png","publishedAt":"2026-01-14T06:24:13Z","content":"Bon, on savait que cétait tendu en Iran pour chopper un peu dInternet libre, mais là on passe clairement au niveau supérieur dans la traque technologique.\r\nEn effet, si vous pensiez que poser une ant… [+6780 chars]"},{"source":{"id":null,"name":"Journal du geek"},"author":"Robin Sabbadini","title":"Micromania plus que jamais au bord du game over, GameStop ferme 400 magasins","description":"Alors que l’enseigne française attend désespérément un repreneur depuis bientôt un an, sa maison-mère GameStop vient de claquer la porte de 400 magasins supplémentaires","url":"https://www.journaldugeek.com/2026/01/12/micromania-plus-que-jamais-au-bord-du-game-over-gamestop-ferme-400-magasins/","urlToImage":"https://www.journaldugeek.com/app/uploads/2025/02/micromania-vente-1500x900.jpg","publishedAt":"2026-01-12T10:02:37Z","content":"Débute dannée 2026 très morose pour les employés de GameStop aux USA. Des centaines dentre eux ont découvert que leur magasin fermait ses portes en arrivant au travail. Pas de réunion, pas demail per… [+4506 chars]"},{"source":{"id":null,"name":"Zataz.com"},"author":"Damien Bancal","title":"ShinyHunters menace Pornhub : chantage aux clients premium","description":"ShinyHunters menace de divulguer des clients premium de Pornhub et réclame une rançon en bitcoin, sur fond d’incident Mixpanel....","url":"https://www.zataz.com/shinyhunters-menace-pornhub-chantage-aux-clients-premium/","urlToImage":null,"publishedAt":"2025-12-21T14:11:03Z","content":"Le groupe ShinyHunters menace de publier des données attribuées à danciens clients premium, payants, de Pornhub si le site ne paie pas une rançon en bitcoin. Les pirates disent avoir volé ces informa… [+9084 chars]"},{"source":{"id":"le-monde","name":"Le Monde"},"author":"Arnaud Leparmentier","title":"Des milliardaires californiens fuient face à une potentielle taxe ponctuelle de 5 % sur le patrimoine","description":"En Californie, qui comptait 255 milliardaires en 2024, soit plus que tout autre Etat, une proposition de loi pour imposer les plus riches pourrait être soumise au vote à l’automne 2026.","url":"https://www.lemonde.fr/economie/article/2026/01/11/des-milliardaires-californiens-fuient-face-a-une-potentielle-taxe-ponctuelle-de-5-sur-le-patrimoine_6661378_3234.html","urlToImage":"https://img.lemde.fr/2026/01/09/0/0/5472/3648/1440/960/60/0/3997a91_upload-1-gnvmcosv6ueb-063-1175129147.jpg","publishedAt":"2026-01-11T10:00:12Z","content":"Peter Thiel, cofondateur de PayPal et de Palantir Technologies, lors de la conférence Bitcoin 2022, au Miami Beach Convention Center, à Miami, le 7 avril 2022. CHANDAN KHANNA / AFP\r\nCe nest quune pro… [+1342 chars]"},{"source":{"id":null,"name":"Courrier International"},"author":null,"title":"Attention, une bulle (IA) peut en cacher une autre (cryptos, protéines, or)","description":"Le mensuel économique “Bloomberg Businessweek” propose pour entamer 2026 un “guide de survie” parmi les écueils financiers. Les marchés ne jouent-ils pas à se faire peur, en alertant sur la trop grande spéculation autour de l’intelligence artificielle ?","url":"https://www.courrierinternational.com/une/une-du-jour-attention-une-bulle-ia-peut-en-cacher-une-autre-cryptos-proteines-or_239266","urlToImage":"https://focus.courrierinternational.com/2026/01/12/196/0/565/376/1200/630/60/0/798860e_upload-1-skmx1zovafr3-bloombergbusinessweek-couv.jpg","publishedAt":"2026-01-13T10:57:14Z","content":"Sur la couverture deBloomberg Businessweek, une bulle translucide prend toute la place nétait une toute petite épingle à tête rouge qui vient souligner le titre : Gare à la bulle, guide de survie pou… [+2079 chars]"},{"source":{"id":null,"name":"Frandroid"},"author":"Clément Gareau","title":"Hausse des prix, délais rallongés et pénurie : tout ce qu’il faut comprendre de la crise de la RAM","description":"Vous entendez partout sans peut-être réellement comprendre les enjeux. La mémoire RAM s'arrache à prix d'or en ce moment et certains acteurs délaissent même le marché grand public. Une situation qui concerne en premier lieu les PC, mais pourrait par capillari…","url":"https://www.frandroid.com/produits-android/2912661_hausse-des-prix-delais-rallonges-et-penurie-tout-ce-quil-faut-comprendre-de-la-crise-de-la-ram","urlToImage":"https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/12/penurie-de-ram.jpg?resize=1600,900&key=0656e47e&watermark","publishedAt":"2025-12-20T11:00:00Z","content":"Vous entendez partout sans peut-être réellement comprendre les enjeux. La mémoire RAM s’arrache à prix d’or en ce moment et certains acteurs délaissent même le marché grand public. Une situation qui … [+8395 chars]"},{"source":{"id":null,"name":"Challenges"},"author":"Damien Pelé","title":"« C’est une performance équivalente à celle du bitcoin dans ses grandes heures » : l’irréfrénable hausse du cours de l’or et de l’argent","description":"INFOGRAPHIE - L’or et l’argent ont brillé de mille feux sur les marchés l’an dernier. Leur statut de valeur refuge a joué à plein dans un contexte économique et géopolitique mondial de plus en plus tendu.","url":"https://www.challenges.fr/argent-et-placements/cest-une-performance-equivalente-a-celle-du-bitcoin-dans-ses-grandes-heures-lirrefrenable-hausse-du-cours-de-lor-et-de-largent_636088","urlToImage":"https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/46993.HR.jpg%3FVersionId=mR.LxtVH3gGIN1RM6ITYkmlrUhljxwsE","publishedAt":"2026-01-09T11:55:00Z","content":"Quelle a été la classe dactifs la plus rentable lan dernier ? Les actions (notamment les technologiques américaines), limmobilier, les cryptomonnaies ? Perdu, ce qui a le mieux performé en 2025, ce s… [+2358 chars]"},{"source":{"id":null,"name":"ZDNet France"},"author":"Guillaume Serries","title":"RedVDS neutralisé : tout savoir sur la chute de l'empire du phishing low-cost","description":"Pour une vingtaine d’euros, réglés en Bitcoin ou Litecoin, les \"clients\" accédaient à des ordinateurs virtuels hébergés sur de multiples serveurs à travers la planète.","url":"https://www.zdnet.fr/actualites/redvds-neutralise-tout-savoir-sur-la-chute-de-lempire-du-phishing-low-cost-488254.htm","urlToImage":"https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/phishing.jpg","publishedAt":"2026-01-15T07:01:40Z","content":"Cest un coup de filet majeur contre léconomie souterraine du numérique. Microsoft, en collaboration étroite avec Europol et les autorités allemandes, a annoncé hier la neutralisation complète de RedV… [+3341 chars]"},{"source":{"id":null,"name":"Lalibre.be"},"author":"Belga Belga","title":"Un membre de gang condamné à plus de 1000 ans de prison : \"Des peines exemplaires\"","description":"La justice du Salvador, où le président Nayib Bukele a déclaré la \"guerre\" aux gangs, a condamné des dizaines de membres de la Mara Salvatrucha (MS-13) à plusieurs siècles de prison, dont un à plus de mille ans d'emprisonnement, a annoncé dimanche le parquet.…","url":"https://www.lalibre.be/international/amerique/2025/12/22/un-membre-de-gang-condamne-a-plus-de-1000-ans-de-prison-des-peines-exemplaires-RFPFVHA3ZVEF7GJT6OMNQFJZGY/","urlToImage":"https://www.lalibre.be/resizer/v2/LWNBGNUT6VGCDGAK34IOL6WCMQ.jpg?auth=f2d4aece51ed71982a71062c8774c011f32c2b09542a7f388c5dc9c9f9cf5154&width=1200&height=630&quality=85&focal=3360%2C2240","publishedAt":"2025-12-22T07:36:39Z","content":"L'un d'eux a été condamné à 1.335 ans de prison, quand dix autres se sont vu infliger des peines allant de 463 à 958 ans de réclusion, selon le parquet.\r\nLe Salvador enregistre 381 millions d'euros g… [+734 chars]"},{"source":{"id":null,"name":"Challenges"},"author":"Partenaire de Challenges","title":"L’Investisseur Résilient : faire grandir son épargne et se protéger des risques actuels","description":"Inflation persistante, incertitudes monétaires, marchés financiers volatils, pression fiscale. Pour Nicolas Chalain, fondateur de l’Institut de l’Épargne, la plupart des stratégies financières se trompent de point de départ. Sa newsletter L’Investisseur Résil…","url":"https://www.challenges.fr/entreprise/banque-et-assurance/linvestisseur-resilient-faire-grandir-son-epargne-et-se-proteger-des-risques-actuels_635678","urlToImage":"https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/46628.HR.jpg%3FVersionId=6BzFS.0zs424woimnkRtz32Z1F7EG87O","publishedAt":"2026-01-05T09:48:00Z","content":"Chaque semaine, plus de 110 000 lecteurs francophones reçoivent la newsletter gratuite LInvestisseur Résilient. Sa singularité tient à son prisme danalyse. Là où de nombreuses chroniques financières … [+5235 chars]"},{"source":{"id":null,"name":"Numerama"},"author":"Julien Lausson","title":"Wikipédia a 25 ans : voici 25 faits étonnants que vous ignorez peut-être sur l’encyclopédie","description":"C'était il y a 25 ans : le 15 janvier 2001, Wikipédia voyait le jour. Pour célébrer cet anniversaire, Numerama vous fait découvrir 25 faits que vous ignorez peut-être sur l'encyclopédie libre et gratuite en ligne. C'est en 2001 que Wikipédia a été lancé, comm…","url":"https://www.numerama.com/politique/680085-wikipedia-a-25-ans-voici-25-faits-etonnants-que-vous-ignorez-peut-etre-sur-lencyclopedie.html","urlToImage":"https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/01/wikipedia-anniversaire.jpg?resize=1600,900&key=ba8bb73f&watermark","publishedAt":"2026-01-15T10:23:50Z","content":"C’était il y a 25 ans : le 15 janvier 2001, Wikipédia voyait le jour. Pour célébrer cet anniversaire, Numerama vous fait découvrir 25 faits que vous ignorez peut-être sur l’encyclopédie libre et grat… [+21534 chars]"},{"source":{"id":null,"name":"La Tribune.fr"},"author":"Maxime Heuze","title":"Plombés par la baisse du bitcoin, des mineurs de cryptomonnaies se tournent vers l’intelligence artificielle","description":"Malgré la baisse récente du cours du bitcoin, les sociétés de minage voient leur valorisation boursière s'envoler. Ce paradoxe s'explique par une diversification stratégique vers l'IA, les mineurs louant leurs infrastructures énergétiques aux géants du calcul…","url":"https://www.latribune.fr/article/entreprises-finance/energie-environnement/46392033275568/plombes-par-la-baisse-du-bitcoin-des-mineurs-de-cryptomonnaies-se-tournent-vers-l-intelligence-artificielle","urlToImage":"https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/12/09/file-photo-representation-of-bitcoin-cryptocurrency-in-this-illustration-taken-september-10-2025-reu-1765292483_dd7641e543296328641e5432976864v_.jpg","publishedAt":"2025-12-24T13:55:01Z","content":"2025 a été une année pleine de rebondissements dans le secteur des cryptomonnaies. Et ce, encore davantage pour les mineurs de bitcoins, des entreprises qui utilisent une immense puissance de calcul … [+842 chars]"},{"source":{"id":null,"name":"Challenges"},"author":"Céline Antonin","title":"Stablecoins, l’autre hégémonie américaine","description":"La souveraineté monétaire des Etats est menacée. L’Union européenne doit accélérer le développement d’un euro numérique de banque centrale.","url":"https://www.challenges.fr/idees/stablecoins-lautre-hegemonie-americaine_636453","urlToImage":"https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/47257.HR.jpg%3FVersionId=XTtKyf9Efpl8PThqqvu0ZF3R123Tt3ZM","publishedAt":"2026-01-14T05:15:00Z","content":"Présentés comme des ponts entre finance traditionnelle et lunivers des cryptoactifs, les stablecoins dits de paiement désignent des jetons numériques censés offrir une valeur plus stable que les cryp… [+4760 chars]"},{"source":{"id":null,"name":"Lavenir.net"},"author":"Céline Demelenne","title":"De l’émergence d’Internet à l’intelligence artificielle : faut-il craindre l’explosion d’une nouvelle bulle pour clôturer ce quart de siècle ?","description":"Ces 25 dernières années ont été marquées par plusieurs crises, dont celle des subprimes, à l’échelle mondiale ou des dettes souveraines en Europe. Entre 2000 et 2025, le monde a aussi été confronté à la formation de plusieurs bulles spéculatives. Coup d’œil d…","url":"https://www.lavenir.net/actu/2025/12/24/de-lemergence-dinternet-a-lintelligence-artificielle-faut-il-craindre-lexplosion-dune-nouvelle-bulle-pour-cloturer-ce-quart-de-siecle-5Q5W6WQTVZDGZLJHDSLOLK7DAY/","urlToImage":"https://www.lavenir.net/resizer/v2/OKKAJNTGLBEDZDZJCECHTJVUDE.jpeg?auth=f619a6f98cf19a0db63d42c1f87df749d3e1e5b8b71da46152b3e926c8a83751&width=1200&height=630&quality=85&focal=3000%2C2000","publishedAt":"2025-12-24T11:00:00Z","content":"2002: Adoption de l'euro, la monnaie unique\r\nLe 1er janvier 2002, les billets et pièces en euro sont mis en circulation dans douze pays membres de l'Union européenne, dont la Belgique. Un bouleversem… [+4399 chars]"},{"source":{"id":null,"name":"Lalibre.be"},"author":"Robin Gille","title":"Interdire les distributeurs de cryptomonnaies ? Le débat s’enflamme aux États-Unis après de nombreuses escroqueries","description":"Face à une explosion des escroqueries liées à ces machines, plusieurs villes et États américains envisagent de restreindre, voire d’interdire, les distributeurs de cryptomonnaies. ...","url":"https://www.lalibre.be/economie/digital/2026/01/13/interdire-les-distributeurs-de-cryptomonnaies-le-debat-senflamme-aux-etats-unis-apres-de-nombreuses-escroqueries-SXQLJQLKGRHJ3ON2BDERWQ5YJ4/","urlToImage":"https://www.lalibre.be/resizer/v2/AKXK6XO5EZBOXDDRO3SIYO6D7A.jpg?auth=e3e0d67d583f3b4fe58d690e4f918e98b264ce558fc7940a44650de999a9ae0e&width=1200&height=630&quality=85&focal=2723%2C1825","publishedAt":"2026-01-13T10:08:34Z","content":"Des centaines de millions de dollars escroqués\r\nLe FBI estime que ces fraudes ont déjà coûté 240 millions de dollars aux Américains au cours des six premiers mois de 2025, presque autant que sur tout… [+3630 chars]"},{"source":{"id":"le-monde","name":"Le Monde"},"author":"Marc Angrand","title":"Les stablecoins, des cryptoactifs au service de la domination du dollar","description":"Initialement utilisés comme passerelle entre « cryptos » et monnaies traditionnelles, les stablecoins servent aussi aux paiements ou aux transferts internationaux entre entreprises ou particuliers. Un marché qui pèse plus de 300 milliards de dollars et reste …","url":"https://www.lemonde.fr/idees/article/2026/01/08/les-stablecoins-des-cryptoactifs-au-service-de-la-domination-du-dollar_6661056_3232.html","urlToImage":"https://img.lemde.fr/2025/12/12/0/0/3499/2333/1440/960/60/0/7424063_ftp-1-gcfby2n5rjlg-2025-12-12t203150z-1484095814-rc22pgaydaz8-rtrmadp-3-juventus-fc-m-a-tether.JPG","publishedAt":"2026-01-08T18:00:12Z","content":"Ils sont moins spectaculaires quune opération militaire en Amérique latine, mais leur essor en fait lun des enjeux-clés de la bataille financière entre les Etats-Unis et leurs grands rivaux. Les stab… [+1832 chars]"},{"source":{"id":null,"name":"Theartblog.org"},"author":"Leah Koontz","title":"Notre Avis sur Betify Casino – Partie 148","description":"L’innovation technologique repousse continuellement les limites du possible, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 148 examine les caractéristiques structurantes de cette plateforme dans un contexte compétitif exigeant. L’accès…","url":"https://www.theartblog.org/2025/12/p-notre-avis-sur-betify-casino-partie-148-p/","urlToImage":"https://www.theartblog.org/wp-content/themes/artblog/img/artblog-meta-image-1200x630.jpg","publishedAt":"2025-12-26T09:30:22Z","content":"L’innovation technologique repousse continuellement les limites du possible, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 148 examine les caractéristiques structurantes de ce… [+10577 chars]"},{"source":{"id":null,"name":"Biztoc.com"},"author":"coindesk.com","title":"Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations","description":"","url":"https://biztoc.com/x/c051ee8de605f5cd","urlToImage":"https://biztoc.com/cdn/c051ee8de605f5cd_s.webp","publishedAt":"2025-12-18T21:53:35Z","content":"{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump Media merging with a nuclear fusion company? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did delayed… [+799 chars]"},{"source":{"id":"fortune","name":"Fortune"},"author":"Jeff John Roberts","title":"DeFi has earned a seat at the grown-ups table—now comes the hard part","description":"Hyperliquid’s rapid rise poses a test for decentralization.","url":"https://fortune.com/crypto/2026/01/12/hyperliquid-jeff-yan-defi-perpetuals-perps-decentralization-growing-up/","urlToImage":"https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2237640344-e1768219770781.jpg?resize=1200,600","publishedAt":"2026-01-12T12:56:51Z","content":"One of the many remarkable features of crypto is how often upstarts appear out of nowhere and, in a year or less, become one of the industrys top dogs. This happened in 2016 when Binance exploded on … [+4959 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"Bitget Limited","title":"À sa clôture de novembre, Bitget enregistre des volumes propres aux contrats à terme sur actions supérieurs à 10 milliards de dollars et comptabilise 34 000 BTC de réserves, parallèlement à une forte dynamique axée bourse universelle","description":"VICTORIA, Seychelles,  31 déc. 2025  (GLOBE NEWSWIRE) -- Bitget, première bourse universelle au monde (ou UEX, de l’anglais Universal Exchange pour...","url":"https://www.globenewswire.com/news-release/2025/12/31/3211780/0/fr/%C3%80-sa-cl%C3%B4ture-de-novembre-Bitget-enregistre-des-volumes-propres-aux-contrats-%C3%A0-terme-sur-actions-sup%C3%A9rieurs-%C3%A0-10-milliards-de-dollars-et-comptabilise-34-000-BTC-de-r%C3%A9serves-parall%C3%A8l.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9","publishedAt":"2025-12-31T13:27:00Z","content":"VICTORIA, Seychelles, 31 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, première bourse universelle au monde (ou UEX, de langlais Universal Exchange pour plateforme déchange universelle) publie son Transparen… [+8782 chars]"},{"source":{"id":null,"name":"Smallbusinessbranding.com"},"author":"Sean M Kelly","title":"Betify Casino Exploré: Rapport 223","description":"L'évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s'inscrit dans cette évolution. Cette analyse numéro 223 examine","url":"https://www.smallbusinessbranding.com/10203/p-betify-casino-explore-rapport-223-p/","urlToImage":null,"publishedAt":"2025-12-25T13:31:28Z","content":"L’évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 223 examine les caractéristiques structurantes de cet… [+10764 chars]"},{"source":{"id":null,"name":"Smallbusinessbranding.com"},"author":"Sean M Kelly","title":"Betify Casino: Revue Experte 53","description":"L'évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s'inscrit dans cette évolution. Cette analyse numéro 53 examine","url":"https://www.smallbusinessbranding.com/10234/p-betify-casino-revue-experte-53-p/","urlToImage":null,"publishedAt":"2025-12-26T09:31:35Z","content":"L’évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 53 examine les caractéristiques structurantes de cett… [+10690 chars]"},{"source":{"id":null,"name":"Lalibre.be"},"author":"Juliette Vandestraete","title":"Des missiles payés en Bitcoin ? La stratégie risquée de l’Iran pour contourner les sanctions occidentales","description":"Missiles, drones et navires de guerre pourront être payés en cryptomonnaies, alors que l’Iran cherche à échapper aux sanctions occidentales. ...","url":"https://www.lalibre.be/economie/2026/01/02/des-missiles-payes-en-bitcoin-la-strategie-risquee-de-liran-pour-contourner-les-sanctions-occidentales-BRTEJZL3GZCYXJO5EHEDR4H2JI/","urlToImage":"https://www.lalibre.be/resizer/v2/EOLRBZCY6VEMROKCCHRKGFNXII.jpg?auth=1a68dd5b4759a6995546ac5f2f0cc62cee12b72bd55420b7e1bc356bfcec5487&width=1200&height=630&quality=85&focal=1250%2C649","publishedAt":"2026-01-02T13:34:37Z","content":"Theo Francken au Bourget : \"Avec les frappes d'Israël en Iran, on voit que le F-35 est largement supérieur aux autres avions\"Quels types d'armes ?\r\nSelon le Centre d'exportation de la Défense iranien… [+2696 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"Bitget Limited","title":"Bitget sʼassocie au groupe Google Developer sur le campus de lʼETH de Zurich en vue dʼaccélérer lʼacquisition de compétences dans les domaines du Web3 et de lʼIA chez les étudiants","description":"VICTORIA, Seychelles, 19 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, la première Bourse Universelle (UEX) au monde, annonce avec enthousiasme sa collaboration annuelle avec le groupe Google Developer sur le campus de lʼETH de Zurich (GDGoC). Dans le cadre de son in…","url":"https://www.globenewswire.com/news-release/2025/12/19/3208509/0/fr/Bitget-s%CA%BCassocie-au-groupe-Google-Developer-sur-le-campus-de-l%CA%BCETH-de-Zurich-en-vue-d%CA%BCacc%C3%A9l%C3%A9rer-l%CA%BCacquisition-de-comp%C3%A9tences-dans-les-domaines-du-Web3-et-de-l%CA%BCIA-chez-les-%C3%A9tudiants.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9","publishedAt":"2025-12-19T14:00:00Z","content":"VICTORIA, Seychelles, 19 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, la première Bourse Universelle (UEX) au monde, annonce avec enthousiasme sa collaboration annuelle avec le groupe Google Developer sur l… [+6532 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"Bitget Limited","title":"Bitget renforce sa collaboration avec Ondo grâce à l’ajout de 98 nouvelles actions et ETF américains","description":"VICTORIA, Seychelles, 10 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a annoncé la cotation de 98 nouvelles actions et fonds négociés en bourse (ETF) américains, élargissant ainsi l’accès aux marchés traditionnels t…","url":"https://www.globenewswire.com/news-release/2026/01/10/3216411/0/fr/Bitget-renforce-sa-collaboration-avec-Ondo-gr%C3%A2ce-%C3%A0-l-ajout-de-98-nouvelles-actions-et-ETF-am%C3%A9ricains.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9","publishedAt":"2026-01-10T06:33:00Z","content":"VICTORIA, Seychelles, 10 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a annoncé la cotation de 98 nouvelles actions et fonds négociés en bourse (ETF) améri… [+6467 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"Bitget Limited","title":"Bitget TradFi dépasse les 2 milliards de dollars de volume quotidien grâce à la forte augmentation des transactions sur l’or","description":"VICTORIA, Seychelles, 09 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a enregistré plus de 2 milliards de dollars de volume de trading quotidien sur Bitget TradFi, marquant une étape majeure depuis son lancement pub…","url":"https://www.globenewswire.com/news-release/2026/01/09/3215913/0/fr/Bitget-TradFi-d%C3%A9passe-les-2-milliards-de-dollars-de-volume-quotidien-gr%C3%A2ce-%C3%A0-la-forte-augmentation-des-transactions-sur-l-or.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9","publishedAt":"2026-01-09T07:43:00Z","content":"VICTORIA, Seychelles, 09 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a enregistré plus de 2 milliards de dollars de volume de trading quotidien sur Bitget… [+6083 chars]"},{"source":{"id":null,"name":"L'Obs"},"author":"Claude Soula","title":"Euro numérique : la nouvelle bataille stratégique de la monnaie européenne","description":"Aurons-nous bientôt une devise numérique sur nos smartphones ? Le projet de la Banque centrale européenne, visant à préserver sa souveraineté monétaire et à faciliter les transactions, se heurte à l’hostilité du monde financier. Explications.","url":"https://www.nouvelobs.com/economie/20260106.OBS111231/euro-numerique-la-nouvelle-bataille-strategique-de-la-monnaie-europeenne.html","urlToImage":"https://focus.nouvelobs.com/2025/12/17/3/0/6016/4010/1200/800/0/0/5e7a79e_upload-1-2tpsibmbxjed-euro-nume-rique-rea11011131.jpg","publishedAt":"2026-01-06T06:30:18Z","content":"Prévu dici 2029, leuro numérique aura le même statut que les billets et les pièces. KERMALO/REA\r\nCommenter\r\n Lire plus tard \r\nGoogle Actualités\r\nPartager\r\n Sabonner pour lire \r\n« La monnaie évolue co… [+1671 chars]"},{"source":{"id":null,"name":"Framablog.org"},"author":"Stéphane Bortzmeyer","title":"Qui suis-je et quelle est mon identité ?","description":"On parle souvent dans le monde numérique, par exemple à propos de l'Internet, d'identité. Un ministre annonce qu'on va avoir une « identité numérique ». Un article dans les médias dit qu'un harceleur en ligne utilisait « une fausse identité ». On vous expliqu…","url":"https://framablog.org/2025/12/20/qui-suis-je-et-quelle-est-mon-identite/","urlToImage":"https://framablog.org/wp-content/uploads/2025/12/Moldova_Identity_Card_Front_2013_series.jpeg","publishedAt":"2025-12-20T12:00:48Z","content":"On parle souvent dans le monde numérique, par exemple à propos de l’Internet, d’identité. Un ministre annonce qu’on va avoir une « identité numérique ». Un article dans les médias dit qu’un harceleur… [+14650 chars]"},{"source":{"id":null,"name":"GlobeNewswire"},"author":"Bitget Limited","title":"Bitget publie une mise à jour majeure de son application réunissant les marchés crypto, actions, on-chain et TradFi au cœur d’une seule interface au service de 120 millions d’utilisateurs","description":"VICTORIA, Seychelles,  26 déc. 2025  (GLOBE NEWSWIRE) -- BITGET-LIMITED -- Bitget, première bourse universelle du monde (ou UEX, de l’anglais...","url":"https://www.globenewswire.com/news-release/2025/12/26/3210513/0/fr/Bitget-publie-une-mise-%C3%A0-jour-majeure-de-son-application-r%C3%A9unissant-les-march%C3%A9s-crypto-actions-on-chain-et-TradFi-au-c%C5%93ur-d-une-seule-interface-au-service-de-120-millions-d-utilisa.html","urlToImage":"https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9","publishedAt":"2025-12-26T10:00:00Z","content":"VICTORIA, Seychelles, 26 déc. 2025 (GLOBE NEWSWIRE) -- BITGET-LIMITED -- Bitget, première bourse universelle du monde (ou UEX, de langlais Universal Exchange), a procédé à une intégrale refonte graph… [+7711 chars]"},{"source":{"id":null,"name":"Smallbusinessbranding.com"},"author":"Sean M Kelly","title":"Annotation Leurs Parieurs Du jeu d’action Pour Salle de jeu Spinata 88 fortunes 1 $ de dépôt Grande","description":"Content Hein procurer une ballade de pourboire du spinata éminent | 88 fortunes 1 $ de dépôt Casino PayPal : […]","url":"https://www.smallbusinessbranding.com/26357/annotation-leurs-parieurs-du-jeu-daction-pour-salle-de-jeu-spinata-88-fortunes-1-de-depot-grande/","urlToImage":null,"publishedAt":"2026-01-07T03:20:43Z","content":"Nos goussets binaires sauf que leurs cartables tactiles sont de l’assistance en compagnie de bourse virtuel où vous pourrez uploader et annihiler quelques dépenses pour , ! il existe, le montant une … [+6740 chars]"},{"source":{"id":null,"name":"L'Express"},"author":"Muriel Breiman, Maxime Recoquillé","title":"L’Iran face aux sanctions, le grand contournement : \"Les cryptos ont détrôné les valises de cash\"","description":"Les cryptomonnaies, et a fortiori les stablecoins, facilitent les transactions illégales. Explications avec Hélène Rey, professeur d'économie à la London Business School.","url":"https://www.lexpress.fr/economie/liran-face-aux-sanctions-le-grand-contournement-les-cryptos-ont-detrone-les-valises-de-cash-WCDJEA46RZE2PNLIQRKEHDBC6A/","urlToImage":"https://www.lexpress.fr/resizer/v2/ZSPFWJJ4RJHRHAFCRCSQVK4PHM.jpg?auth=5cdf3fe9f669fd3be0911b52b7b0460eebdd6576e5b2322484f1ee103c0a26ee&width=1200&height=630&quality=85&smart=true","publishedAt":"2026-01-17T10:45:00Z","content":"Alors que la rue iranienne gronde de nouveau contre le pouvoir, le régime des mollahs joue sa survie sur un terrain inattendu : la blockchain. Récemment, Téhéran a proposé de vendre drones et missile… [+6829 chars]"},{"source":{"id":null,"name":"Smallbusinessbranding.com"},"author":"Sean M Kelly","title":"Top 2 s en france","description":"Les bénéfices nos tours gratis sont ordinairement abdiquai aux différents belles conditions pour mise. Afin de nous précipiter pour abriter leurs","url":"https://www.smallbusinessbranding.com/38741/top-2-s-en-france/","urlToImage":null,"publishedAt":"2026-01-09T21:44:28Z","content":"Les bénéfices nos tours gratis sont ordinairement abdiquai aux différents belles conditions pour mise. Afin de nous précipiter pour abriter leurs comptabilités, il y a ordinairement des options de ac… [+11128 chars]"},{"source":{"id":null,"name":"Camer.be"},"author":"Kemta","title":"MONDE ENTIER :: Investissements florissants dans la puissance de calcul de l'IA :: WORLD","description":"DLMining en tête de la nouvelle stratégie anti-inflationniste de\nWall Street, le contrat de Noël fait plus que doubler les profits.\n\n \t* ÉVOLUTION DU MARCHÉ :PU...","url":"https://www.camer.be/91806/11:1/monde-entier-investissements-florissants-dans-la-puissance-de-calcul-de-lia-world.html","urlToImage":"https://www.camer.be/storage/photos/shares/Monde/Daily_Check_In26122025.jpg","publishedAt":"2025-12-26T10:40:46Z","content":"DLMining en tête de la nouvelle stratégie anti-inflationniste de Wall Street, le contrat de Noël fait plus que doubler les profits.\r\n<ol><li> Évolution du marché :Puissance de calcul de l'IAÉmerge co… [+5096 chars]"},{"source":{"id":null,"name":"Le Dauphiné Libéré"},"author":"Alexandra Simard","title":"Sécurité. Cryptomonnaies : pourquoi les enlèvements se sont multipliés en France cette année ?","description":"Le monde de la cryptomonnaie tremble, confronté depuis le début de l’année à une succession d’enlèvements avec demande de rançon. La semaine dernière, un couple a été séquestré en Charente-Maritime et contraint de verser 8 millions d’euros aux malfaiteurs. Le…","url":"https://www.ledauphine.com/faits-divers-justice/2025/12/22/cryptomonnaies-pourquoi-les-enlevements-se-sont-multiplies-en-france-cette-annee","urlToImage":"https://cdn-s-www.ledauphine.com/images/8CCD3DBA-7035-419F-8C25-9221C325E3EF/FB1200/photo-1766330788.jpg","publishedAt":"2025-12-22T05:45:00Z","content":"Cest une année noire pour la cryptomonnaie, marquée par une série de rapts. Ces enlèvements  ou tentatives denlèvement  dacteurs du monde de la crypto et de leurs proches se sont multipliés cette ann… [+5339 chars]"},{"source":{"id":null,"name":"La Tribune.fr"},"author":"La Tribune - Rédaction","title":"Yuan numérique : Pékin va rémunérer les dépôts pour que les usagers délaissent Alipay et WeChat","description":"Le 1er janvier marquera un tournant pour le e-CNY. En rémunérant les dépôts en monnaie numérique, la Banque populaire de Chine lance une offensive pour briser le duopole privé et reprendre le contrôle total des flux de données financières.","url":"https://www.latribune.fr/article/banques-finance/33842885611649/yuan-numerique-pekin-va-remunerer-les-depots-pour-que-les-usagers-delaissent-alipay-et-wechat","urlToImage":"https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/12/29/pekin-lance-loffensive-contre-les-systemes-de-paiement-prives-des-le-1er-janvier-le-e-yuan-sera-remu-1767017799_f7d59c07825961cd59c078259dfd59v_.jpg","publishedAt":"2025-12-29T14:16:40Z","content":"Sur les marchés à Pékin, le QR code est roi depuis longtemps : cest ainsi que les habitants payent majoritairement ce quils achètent. Mais jusqualors, cétaient les logos vert de WeChat et bleu dAlipa… [+4491 chars]"},{"source":{"id":null,"name":"Jeune Afrique"},"author":"Quentin Velluet","title":"Nelly Chatue-Diop, pionnière de la crypto pour tous en Afrique, est morte","description":"La cofondatrice de la start-up Ejara, qui permet d’investir dans les cryptomonnaies en Afrique, est décédée le 8 janvier.","url":"https://www.jeuneafrique.com/1755437/economie-entreprises/nelly-chatue-diop-pionniere-de-la-crypto-pour-tous-en-afrique-est-morte/","urlToImage":"https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/01/09/jad20260109-ass-cameroun-techno-deces-nelly-chatue-diop.jpg","publishedAt":"2026-01-10T07:05:04Z","content":"Éduquer les Africains et leurs différentes diasporas à la finance en utilisant la cryptomonnaie : cétait lambitieux pari que sétait fixé la Franco-Camerounaise Nelly Chatue-Diop dès 2019. La cofondat… [+2517 chars]"},{"source":{"id":null,"name":"L'Express"},"author":"L’Express","title":"Placements : pourquoi les cryptos sont de plus en plus accessibles","description":"Les banques s’emparent du sujet et la réglementation s’assouplit.","url":"https://www.lexpress.fr/argent/placements/placements-pourquoi-les-cryptos-sont-de-plus-en-plus-accessibles-XWVLLWNTYZDNDA42IU3XJ5HGAQ/","urlToImage":"https://www.lexpress.fr/resizer/v2/YN74JNZ46JDKNM6EE5TYWUF27M.jpg?auth=38388df3b503c05437535f9ed097ca5fd609181d084f8b4aa9a39a356c8199e4&width=1200&height=630&quality=85&focal=3839%2C2700","publishedAt":"2025-12-27T09:00:00Z","content":"Farouchement opposée aux cryptoactifs à leurs débuts, lindustrie financière fait sa mue. Reconnaissant lintérêt des investisseurs pour ces produits, plusieurs acteurs travaillent à des offres alors q… [+2574 chars]"},{"source":{"id":null,"name":"Génération NT"},"author":"Mathieu M.","title":"Le Bhoutan sacrifie ses bitcoins pour sa jeunesse et son avenir économique","description":"Le royaume du Bhoutan annonce un plan ambitieux : allouer jusqu'à 10 000 bitcoins, soit près d'un milliard de dollars, pour financer la \"Gelephu Mindfulness City\". Ce projet vise à créer un hub économique pour freiner l'exil de sa jeunesse et diversifier son …","url":"https://www.generation-nt.com/actualites/bhoutan-bitcoin-ville-gelephu-economie-crypto-2068083","urlToImage":"https://img.generation-nt.com/pieces-cryptomonnaie-bitcoin_04B002A301674045.webp","publishedAt":"2025-12-19T16:10:01Z","content":"Niché entre la Chine et l'Inde, le Bhoutan, célèbre pour son concept de \"bonheur national brut\", fait face à une réalité brutale : un exode massif de sa jeunesse. Pour enrayer cette fuite des cerveau… [+3788 chars]"},{"source":{"id":null,"name":"The Conversation Africa"},"author":"Annie Lecompte, Associate professor, Département des sciences comptables, Université du Québec à Montréal (UQAM)","title":"Les stablecoins présentent des risques. Il faut rapidement les encadrer","description":"Les stablecoins promettent stabilité et agilité numérique. Mais leur essor soulève des questions urgentes : le Canada peut-il les encadrer assez vite pour éviter une domination étrangère ?","url":"https://theconversation.com/les-stablecoins-presentent-des-risques-il-faut-rapidement-les-encadrer-265832","urlToImage":"https://images.theconversation.com/files/712186/original/file-20260113-56-ywb9xc.JPG?ixlib=rb-4.1.0&rect=0%2C464%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop","publishedAt":"2026-01-13T14:33:02Z","content":"Les stablecoins ambitionnent de combiner le meilleur des deux mondes : l’agilité du numérique et la stabilité d’une devise nationale. La percée au pays de différents stablecoins alignés au dollar can… [+8978 chars]"},{"source":{"id":null,"name":"Franceinfo.fr"},"author":"franceinfo","title":"Ces technologies qui ont révolutionné le premier quart de siècle","description":"Facebook, Bitcoin, ChatGPT... Retour en arrière sur ces innovations qui ont révolutionné notre quotidien depuis le début du siècle.","url":"https://www.franceinfo.fr/sciences/high-tech/ces-technologies-qui-ont-revolutionne-le-premier-quart-de-siecle_7716838.html","urlToImage":"https://www.franceinfo.fr/pictures/rItBCh4sSM0MOdwpP9FXdqIGs_o/0x0:1080x1920/fit-in/1500x843/filters:upscale():fill(black)/2026/01/02/miniat-vierge-6957fbefea711002415553.png","publishedAt":"2026-01-02T17:15:29Z","content":"Facebook, Bitcoin, ChatGPT... Retour en arrière sur ces innovations qui ont révolutionné notre quotidien depuis le début du siècle."},{"source":{"id":null,"name":"L'Express"},"author":"Anne Cagan","title":"\"Entre la bulle IA et les cryptos, les Etats-Unis deviennent un pari risqué\" : l’alerte du PDG de Saxo Bank","description":"Pour le PDG de la banque d’investissement danoise, l’Europe a les ressources pour traverser la période à haut risque actuelle. Mais il lui faut mieux choisir ses combats.","url":"https://www.lexpress.fr/economie/high-tech/entre-la-bulle-ia-et-les-cryptos-les-etats-unis-deviennent-un-pari-risque-lalerte-du-pdg-de-saxo-DTZYTFG3NRBEFA6A63CO3RML4M/","urlToImage":"https://www.lexpress.fr/resizer/v2/N4ZEGPV6TFEYNHNMEY5CFMHQKY.jpg?auth=1beb56943e04ae67d3d5796229d0b2244672624b35ac629b16ae75127fc7b90c&width=1200&height=630&quality=85&focal=2401%2C1117","publishedAt":"2025-12-28T16:00:00Z","content":"Le cours de Bourse des stars de lIA affole les observateurs. Celui du Bitcoin pique du nez. Sur les marchés, la transition de 2025 à 2026 est tumultueuse. Dautant que la menace russe ne sest en rien … [+10749 chars]"},{"source":{"id":null,"name":"Socialsciencespace.com"},"author":"Karl Wilding","title":"Betify Casino: Revue Experte 69","description":"La mondialisation du marché crée des opportunités et des défis inédits, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 69 […]\nThe post Betify Casino: Revue Experte 69 appeared first on Social Science Space.","url":"https://www.socialsciencespace.com/2025/12/p-betify-casino-revue-experte-69-p/","urlToImage":"https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png","publishedAt":"2025-12-25T13:26:13Z","content":"La mondialisation du marché crée des opportunités et des défis inédits, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 69 examine les caractéristiques structurantes de cette pl… [+10469 chars]"},{"source":{"id":null,"name":"Socialsciencespace.com"},"author":"Karl Wilding","title":"Betify Casino: Guide Détaillé 155","description":"L’engagement client devient multidimensionnel. C’est dans ce contexte que Betify Casino développe son offre, cherchant à se démarquer par des choix spécifiques. […]\nThe post Betify Casino: Guide Détaillé 155 appeared first on Social Science Space.","url":"https://www.socialsciencespace.com/2025/12/p-betify-casino-guide-detaille-155-p/","urlToImage":"https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png","publishedAt":"2025-12-26T11:31:30Z","content":"L’engagement client devient multidimensionnel. C’est dans ce contexte que Betify Casino développe son offre, cherchant à se démarquer par des choix spécifiques. Cette évaluation numéro 155 explore ce… [+10394 chars]"},{"source":{"id":null,"name":"Socialsciencespace.com"},"author":"Karl Wilding","title":"Analyse Complète de Betify Casino – Revue 144","description":"La confiance constitue le socle de toute relation durable dans le gaming en ligne, et Betify Casino s’inscrit dans cette évolution. Cette […]\nThe post Analyse Complète de Betify Casino – Revue 144 appeared first on Social Science Space.","url":"https://www.socialsciencespace.com/2025/12/p-analyse-complete-de-betify-casino-revue-144-p/","urlToImage":"https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png","publishedAt":"2025-12-26T11:39:44Z","content":"La confiance constitue le socle de toute relation durable dans le gaming en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 144 examine les caractéristiques structurantes… [+10494 chars]"},{"source":{"id":null,"name":"La Tribune.fr"},"author":"Jeanne Dussueil","title":"Cryptos et stablecoins : quelles chances pour l’Europe face à la domination américaine ?","description":"REGARDS CROISÉS. Une bataille silencieuse se joue entre les États et des acteurs privés, celle de la suprématie monétaire. Monnaies numériques de banque centrale, stablecoins, bitcoin… Les points de vue d’Agnès Bénassy-Quéré, sous-gouverneure à la Banque de F…","url":"https://www.latribune.fr/article/banques-finance/44170159599769/cryptos-et-stablecoins-quelles-chances-pour-l-europe-face-a-la-domination-americaine","urlToImage":"https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2026/01/12/agnes-benassy-quere-vice-gouverneur-a-la-banque-de-france-et-nathalie-janson-economiste-1768217096_847aac2c41696787aac2c41693c7aav_.jpg","publishedAt":"2026-01-12T11:24:57Z","content":"« Privatisation de la monnaie » Les mots sont lâchés en octobre dernier par Agnès Bénassy-Quéré, économiste, sous-gouverneure à la Banque de France. Et pour cause : désormais, « plus de la moitié des… [+969 chars]"},{"source":{"id":null,"name":"Les Numériques"},"author":"Nassim Chentouf","title":"Actualité : 53 % des cryptomonnaies lancées depuis 2021 sont mortes, le marché se porte plus mal que jamais","description":"Le marché des cryptomonnaie se porte plus mal que jamais. Selon une analyse de CoinGecko, le dernier trimestre de 2025 concentre à lui seul 7,7 millions d'échecs de projets de monnaies virtuelles.","url":"https://www.lesnumeriques.com/cryptomonnaie/53-des-cryptomonnaies-lancees-depuis-2021-sont-mortes-le-marche-se-porte-plus-mal-que-jamais-n250045.html","urlToImage":"https://cdn.lesnumeriques.com/optim/news/25/250045/38d8985d-53-des-cryptomonnaies-lancees-depuis-2021-sont-mortes-mais-qui-s-y-interesse-encore__1200_678__0-916-4942-3510.jpg","publishedAt":"2026-01-18T11:00:00Z","content":"On parle d'environ 35 % de l'ensemble des disparitions depuis 2021. Et 2025 fut très noire pour les amateurs de cryptomonnaies. Sur les quelque 20,2 millions de jetons répertoriés par GeckoTerminal e… [+1760 chars]"},{"source":{"id":null,"name":"Socialsciencespace.com"},"author":"Karl Wilding","title":"Explorer millionz casino code promo : analyse détaillée","description":"La multiplication des plateformes de casino en ligne offre certes un choix considérable aux joueurs, mais complique également l’identification d’un opérateur fiable […]\nThe post Explorer millionz casino code promo : analyse détaillée appeared first on Social …","url":"https://www.socialsciencespace.com/2025/12/explorer-millionz-casino-code-promo-analyse-detaillee/","urlToImage":"https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png","publishedAt":"2025-12-30T16:33:25Z","content":"La multiplication des plateformes de casino en ligne offre certes un choix considérable aux joueurs, mais complique également l’identification d’un opérateur fiable et adapté. millionz casino code pr… [+17714 chars]"},{"source":{"id":null,"name":"Génération NT"},"author":"Sirius","title":"Vague de kidnappings crypto en France : la violence monte d'un cran depuis début janvier","description":"La France connaît une recrudescence alarmante d'enlèvements et de séquestrations visant les détenteurs de cryptomonnaies. Trois agressions violentes ont eu lieu en quelques jours en janvier 2026 à Manosque, Cholet et Verneuil-sur-Seine. Cette tendance, déjà o…","url":"https://www.generation-nt.com/actualites/crypto-enlevement-france-sequestration-securite-2068907","urlToImage":"https://img.generation-nt.com/crypto-monnaie-bitcoin-ethereum_04B002A301705522.webp","publishedAt":"2026-01-12T20:10:01Z","content":"Une véritable vague d'agressions ultra-violentes cible directement les investisseurs en cryptomonnaies sur le territoire français. En l'espace de quelques jours à peine au début du mois de janvier 20… [+3599 chars]"},{"source":{"id":null,"name":"Synthmedia.fr"},"author":"Synth","title":"Freedom Cities : au Vénézuela et au Groenland, l'enjeu d'un néocolonialisme tech","description":"Zoom sur les « Freedom Cities » et le « Network State », laboratoires d'un néocolonialisme tech au Vénézuela et au Groenland.","url":"https://synthmedia.fr/etats-unis/freedom-cities-venezuela-groenland-neocolonialisme-tech/","urlToImage":"https://synthmedia.fr/wp-content/uploads/2026/01/Freedom-cities-2.jpg","publishedAt":"2026-01-13T11:24:06Z","content":"EN UN COUP D’OEIL \r\n<ul><li>Colonisation 2.0 : Les élites techno-financières profitent des annexions de Trump pour tester des modèles de souveraineté privée.</li><li>Des laboratoires post-démocratiqu… [+8851 chars]"},{"source":{"id":null,"name":"01net.com"},"author":"Mickaël Bazoge","title":"01net morning : la FFT victime d'une cyberattaque, Gemini dans la tête de Siri, de l’IA souveraine chez Dassault","description":"Bonjour à tous, voici la matinale de 01net ! Qu’avez-vous manqué hier ? Retrouvez toute l’actu à connaitre pour démarrer la journée du bon pied !","url":"https://www.01net.com/actualites/01net-morning-la-fft-victime-dune-cyberattaque-gemini-dans-la-tete-de-siri-de-lia-souveraine-chez-dassault.html","urlToImage":"https://www.01net.com/app/uploads/2026/01/01net-Morning-5-1600x900.jpg","publishedAt":"2026-01-13T06:29:18Z","content":"Bonjour à tous, voici la matinale de 01net ! Quavez-vous manqué hier ? Retrouvez toute lactu à connaitre pour démarrer la journée du bon pied !À retenir dans l’actu\r\nUne cyberattaque a touché les sys… [+2402 chars]"}]}
+{
+  "status": "ok",
+  "totalResults": 55,
+  "articles": [
+    {
+      "source": { "id": "hacker-news", "name": "Hacker News" },
+      "author": null,
+      "title": "Ask HN: How to make my website exist for 100 years?",
+      "description": "Comments",
+      "url": "https://news.ycombinator.com/item?id=46642372",
+      "urlToImage": null,
+      "publishedAt": "2026-01-16T02:39:12Z",
+      "content": "You might be interested in Arweave or IPFS:Arweave network is like Bitcoin, but for data: A permanent and decentralized web inside an open ledger. [0]\r\nThe InterPlanetary File System (IPFS) is a dece… [+276 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Korben.info" },
+      "author": "Korben",
+      "title": "5 ans de prison pour avoir codé un portefeuille Bitcoin un peu trop respectueux de la vie privée",
+      "description": "Keonne Rodriguez, le développeur derrière Samourai Wallet, vient de se prendre 5 ans de taule pour avoir créé un portefeuille Bitcoin qui protégeait un peu trop bien l'anonymat de ses utilisateurs.\nSamourai Wallet, c'était un portefeuille Bitcoin open source …",
+      "url": "https://korben.info/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr.html",
+      "urlToImage": "https://korben.info/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr/keonne-rodriguez-samourai-wallet-prison-bitcoin-pr-1.png",
+      "publishedAt": "2025-12-21T08:35:49Z",
+      "content": "Keonne Rodriguez, le développeur derrière Samourai Wallet, vient de se prendre 5 ans de taule pour avoir créé un portefeuille Bitcoin qui protégeait un peu trop bien l'anonymat de ses utilisateurs.\r\n… [+2733 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Korben.info" },
+      "author": "Korben",
+      "title": "OrbStack - L'alternative légère à Docker Desktop sur Mac",
+      "description": "Si vous utilisez Docker Desktop sur Mac et que vous en avez marre de voir votre ventilateur s'emballer dès que vous lancez trois conteneurs, j'ai peut-être la solution à vos problèmes.\n\nOrbStack\n, c'est une app native Swift qui remplace Docker Desktop et qui …",
+      "url": "https://korben.info/orbstack-alternative-docker-desktop-macos.html",
+      "urlToImage": "https://korben.info/orbstack-alternative-docker-desktop-macos/orbstack-alternative-docker-desktop-macos-1.webp",
+      "publishedAt": "2026-01-02T07:27:31Z",
+      "content": "Si vous utilisez Docker Desktop sur Mac et que vous en avez marre de voir votre ventilateur s'emballer dès que vous lancez trois conteneurs, j'ai peut-être la solution à vos problèmes.\r\nOrbStack, c'e… [+2357 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Olivier",
+      "title": "Les clients de Ledger à nouveau exposés aux arnaques et aux extorsions",
+      "description": "Ledger, spécialiste français des portefeuilles de cryptomonnaies, est confronté à une nouvelle fuite de données touchant des clients ayant passé commande sur son site. En cause, un incident de sécurité chez un prestataire externe. Si les actifs numériques ne …",
+      "url": "https://www.journaldugeek.com/2026/01/10/les-clients-de-ledger-a-nouveau-exposes-aux-arnaques-et-aux-extorsions/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2022/01/meilleur-wallet-portefeuille-crypto-monnaies.jpg",
+      "publishedAt": "2026-01-10T10:01:15Z",
+      "content": "Ledger a confirmé auprès de 01net avoir été informé dun incident de sécurité touchant lun de ses partenaires commerciaux, Global-e, une plateforme de commerce en ligne utilisée par de nombreuses marq… [+2738 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Numerama" },
+      "author": "Eitanite Bellaiche",
+      "title": "Missiles contre Bitcoin : la nouvelle stratégie de l’Iran pour se moquer des sanctions",
+      "description": "L'Iran court-circuite le système bancaire international en proposant son arsenal militaire contre des cryptoactifs, révèle le Financial Times. Via son agence Mindex, le régime réinvente le marché de l'armement sous sanctions, malgré une surveillance accrue de…",
+      "url": "https://www.numerama.com/tech/2152289-missiles-contre-bitcoin-la-nouvelle-strategie-de-liran-pour-se-moquer-des-sanctions.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2025/06/design-sans-titre-28.jpg?resize=1600,900&key=6f5b8405&watermark",
+      "publishedAt": "2026-01-02T16:57:37Z",
+      "content": "L’Iran court-circuite le système bancaire international en proposant son arsenal militaire contre des cryptoactifs, révèle le Financial Times. Via son agence Mindex, le régime réinvente le marché de … [+2719 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Korben.info" },
+      "author": "Korben",
+      "title": "Iran - La chasse aux sorcières version Starlink s'intensifie",
+      "description": "Bon, on savait que c’était tendu en Iran pour chopper un peu d’Internet libre, mais là on passe clairement au niveau supérieur dans la traque technologique.\nEn effet, si vous pensiez que poser une antenne Starlink sur votre toit en scred suffisait pour échapp…",
+      "url": "https://korben.info/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie.html",
+      "urlToImage": "https://korben.info/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie/iran-la-chasse-aux-sorcieres-version-starlink-sintensifie-1.png",
+      "publishedAt": "2026-01-14T06:24:13Z",
+      "content": "Bon, on savait que cétait tendu en Iran pour chopper un peu dInternet libre, mais là on passe clairement au niveau supérieur dans la traque technologique.\r\nEn effet, si vous pensiez que poser une ant… [+6780 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Robin Sabbadini",
+      "title": "Micromania plus que jamais au bord du game over, GameStop ferme 400 magasins",
+      "description": "Alors que l’enseigne française attend désespérément un repreneur depuis bientôt un an, sa maison-mère GameStop vient de claquer la porte de 400 magasins supplémentaires",
+      "url": "https://www.journaldugeek.com/2026/01/12/micromania-plus-que-jamais-au-bord-du-game-over-gamestop-ferme-400-magasins/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/02/micromania-vente-1500x900.jpg",
+      "publishedAt": "2026-01-12T10:02:37Z",
+      "content": "Débute dannée 2026 très morose pour les employés de GameStop aux USA. Des centaines dentre eux ont découvert que leur magasin fermait ses portes en arrivant au travail. Pas de réunion, pas demail per… [+4506 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Zataz.com" },
+      "author": "Damien Bancal",
+      "title": "ShinyHunters menace Pornhub : chantage aux clients premium",
+      "description": "ShinyHunters menace de divulguer des clients premium de Pornhub et réclame une rançon en bitcoin, sur fond d’incident Mixpanel....",
+      "url": "https://www.zataz.com/shinyhunters-menace-pornhub-chantage-aux-clients-premium/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-21T14:11:03Z",
+      "content": "Le groupe ShinyHunters menace de publier des données attribuées à danciens clients premium, payants, de Pornhub si le site ne paie pas une rançon en bitcoin. Les pirates disent avoir volé ces informa… [+9084 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Arnaud Leparmentier",
+      "title": "Des milliardaires californiens fuient face à une potentielle taxe ponctuelle de 5 % sur le patrimoine",
+      "description": "En Californie, qui comptait 255 milliardaires en 2024, soit plus que tout autre Etat, une proposition de loi pour imposer les plus riches pourrait être soumise au vote à l’automne 2026.",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/11/des-milliardaires-californiens-fuient-face-a-une-potentielle-taxe-ponctuelle-de-5-sur-le-patrimoine_6661378_3234.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/09/0/0/5472/3648/1440/960/60/0/3997a91_upload-1-gnvmcosv6ueb-063-1175129147.jpg",
+      "publishedAt": "2026-01-11T10:00:12Z",
+      "content": "Peter Thiel, cofondateur de PayPal et de Palantir Technologies, lors de la conférence Bitcoin 2022, au Miami Beach Convention Center, à Miami, le 7 avril 2022. CHANDAN KHANNA / AFP\r\nCe nest quune pro… [+1342 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": null,
+      "title": "Attention, une bulle (IA) peut en cacher une autre (cryptos, protéines, or)",
+      "description": "Le mensuel économique “Bloomberg Businessweek” propose pour entamer 2026 un “guide de survie” parmi les écueils financiers. Les marchés ne jouent-ils pas à se faire peur, en alertant sur la trop grande spéculation autour de l’intelligence artificielle ?",
+      "url": "https://www.courrierinternational.com/une/une-du-jour-attention-une-bulle-ia-peut-en-cacher-une-autre-cryptos-proteines-or_239266",
+      "urlToImage": "https://focus.courrierinternational.com/2026/01/12/196/0/565/376/1200/630/60/0/798860e_upload-1-skmx1zovafr3-bloombergbusinessweek-couv.jpg",
+      "publishedAt": "2026-01-13T10:57:14Z",
+      "content": "Sur la couverture deBloomberg Businessweek, une bulle translucide prend toute la place nétait une toute petite épingle à tête rouge qui vient souligner le titre : Gare à la bulle, guide de survie pou… [+2079 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Frandroid" },
+      "author": "Clément Gareau",
+      "title": "Hausse des prix, délais rallongés et pénurie : tout ce qu’il faut comprendre de la crise de la RAM",
+      "description": "Vous entendez partout sans peut-être réellement comprendre les enjeux. La mémoire RAM s'arrache à prix d'or en ce moment et certains acteurs délaissent même le marché grand public. Une situation qui concerne en premier lieu les PC, mais pourrait par capillari…",
+      "url": "https://www.frandroid.com/produits-android/2912661_hausse-des-prix-delais-rallonges-et-penurie-tout-ce-quil-faut-comprendre-de-la-crise-de-la-ram",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/12/penurie-de-ram.jpg?resize=1600,900&key=0656e47e&watermark",
+      "publishedAt": "2025-12-20T11:00:00Z",
+      "content": "Vous entendez partout sans peut-être réellement comprendre les enjeux. La mémoire RAM s’arrache à prix d’or en ce moment et certains acteurs délaissent même le marché grand public. Une situation qui … [+8395 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Challenges" },
+      "author": "Damien Pelé",
+      "title": "« C’est une performance équivalente à celle du bitcoin dans ses grandes heures » : l’irréfrénable hausse du cours de l’or et de l’argent",
+      "description": "INFOGRAPHIE - L’or et l’argent ont brillé de mille feux sur les marchés l’an dernier. Leur statut de valeur refuge a joué à plein dans un contexte économique et géopolitique mondial de plus en plus tendu.",
+      "url": "https://www.challenges.fr/argent-et-placements/cest-une-performance-equivalente-a-celle-du-bitcoin-dans-ses-grandes-heures-lirrefrenable-hausse-du-cours-de-lor-et-de-largent_636088",
+      "urlToImage": "https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/46993.HR.jpg%3FVersionId=mR.LxtVH3gGIN1RM6ITYkmlrUhljxwsE",
+      "publishedAt": "2026-01-09T11:55:00Z",
+      "content": "Quelle a été la classe dactifs la plus rentable lan dernier ? Les actions (notamment les technologiques américaines), limmobilier, les cryptomonnaies ? Perdu, ce qui a le mieux performé en 2025, ce s… [+2358 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ZDNet France" },
+      "author": "Guillaume Serries",
+      "title": "RedVDS neutralisé : tout savoir sur la chute de l'empire du phishing low-cost",
+      "description": "Pour une vingtaine d’euros, réglés en Bitcoin ou Litecoin, les \"clients\" accédaient à des ordinateurs virtuels hébergés sur de multiples serveurs à travers la planète.",
+      "url": "https://www.zdnet.fr/actualites/redvds-neutralise-tout-savoir-sur-la-chute-de-lempire-du-phishing-low-cost-488254.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/04/phishing.jpg",
+      "publishedAt": "2026-01-15T07:01:40Z",
+      "content": "Cest un coup de filet majeur contre léconomie souterraine du numérique. Microsoft, en collaboration étroite avec Europol et les autorités allemandes, a annoncé hier la neutralisation complète de RedV… [+3341 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lalibre.be" },
+      "author": "Belga Belga",
+      "title": "Un membre de gang condamné à plus de 1000 ans de prison : \"Des peines exemplaires\"",
+      "description": "La justice du Salvador, où le président Nayib Bukele a déclaré la \"guerre\" aux gangs, a condamné des dizaines de membres de la Mara Salvatrucha (MS-13) à plusieurs siècles de prison, dont un à plus de mille ans d'emprisonnement, a annoncé dimanche le parquet.…",
+      "url": "https://www.lalibre.be/international/amerique/2025/12/22/un-membre-de-gang-condamne-a-plus-de-1000-ans-de-prison-des-peines-exemplaires-RFPFVHA3ZVEF7GJT6OMNQFJZGY/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/LWNBGNUT6VGCDGAK34IOL6WCMQ.jpg?auth=f2d4aece51ed71982a71062c8774c011f32c2b09542a7f388c5dc9c9f9cf5154&width=1200&height=630&quality=85&focal=3360%2C2240",
+      "publishedAt": "2025-12-22T07:36:39Z",
+      "content": "L'un d'eux a été condamné à 1.335 ans de prison, quand dix autres se sont vu infliger des peines allant de 463 à 958 ans de réclusion, selon le parquet.\r\nLe Salvador enregistre 381 millions d'euros g… [+734 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Challenges" },
+      "author": "Partenaire de Challenges",
+      "title": "L’Investisseur Résilient : faire grandir son épargne et se protéger des risques actuels",
+      "description": "Inflation persistante, incertitudes monétaires, marchés financiers volatils, pression fiscale. Pour Nicolas Chalain, fondateur de l’Institut de l’Épargne, la plupart des stratégies financières se trompent de point de départ. Sa newsletter L’Investisseur Résil…",
+      "url": "https://www.challenges.fr/entreprise/banque-et-assurance/linvestisseur-resilient-faire-grandir-son-epargne-et-se-proteger-des-risques-actuels_635678",
+      "urlToImage": "https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/46628.HR.jpg%3FVersionId=6BzFS.0zs424woimnkRtz32Z1F7EG87O",
+      "publishedAt": "2026-01-05T09:48:00Z",
+      "content": "Chaque semaine, plus de 110 000 lecteurs francophones reçoivent la newsletter gratuite LInvestisseur Résilient. Sa singularité tient à son prisme danalyse. Là où de nombreuses chroniques financières … [+5235 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Numerama" },
+      "author": "Julien Lausson",
+      "title": "Wikipédia a 25 ans : voici 25 faits étonnants que vous ignorez peut-être sur l’encyclopédie",
+      "description": "C'était il y a 25 ans : le 15 janvier 2001, Wikipédia voyait le jour. Pour célébrer cet anniversaire, Numerama vous fait découvrir 25 faits que vous ignorez peut-être sur l'encyclopédie libre et gratuite en ligne. C'est en 2001 que Wikipédia a été lancé, comm…",
+      "url": "https://www.numerama.com/politique/680085-wikipedia-a-25-ans-voici-25-faits-etonnants-que-vous-ignorez-peut-etre-sur-lencyclopedie.html",
+      "urlToImage": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2021/01/wikipedia-anniversaire.jpg?resize=1600,900&key=ba8bb73f&watermark",
+      "publishedAt": "2026-01-15T10:23:50Z",
+      "content": "C’était il y a 25 ans : le 15 janvier 2001, Wikipédia voyait le jour. Pour célébrer cet anniversaire, Numerama vous fait découvrir 25 faits que vous ignorez peut-être sur l’encyclopédie libre et grat… [+21534 chars]"
+    },
+    {
+      "source": { "id": null, "name": "La Tribune.fr" },
+      "author": "Maxime Heuze",
+      "title": "Plombés par la baisse du bitcoin, des mineurs de cryptomonnaies se tournent vers l’intelligence artificielle",
+      "description": "Malgré la baisse récente du cours du bitcoin, les sociétés de minage voient leur valorisation boursière s'envoler. Ce paradoxe s'explique par une diversification stratégique vers l'IA, les mineurs louant leurs infrastructures énergétiques aux géants du calcul…",
+      "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/46392033275568/plombes-par-la-baisse-du-bitcoin-des-mineurs-de-cryptomonnaies-se-tournent-vers-l-intelligence-artificielle",
+      "urlToImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/12/09/file-photo-representation-of-bitcoin-cryptocurrency-in-this-illustration-taken-september-10-2025-reu-1765292483_dd7641e543296328641e5432976864v_.jpg",
+      "publishedAt": "2025-12-24T13:55:01Z",
+      "content": "2025 a été une année pleine de rebondissements dans le secteur des cryptomonnaies. Et ce, encore davantage pour les mineurs de bitcoins, des entreprises qui utilisent une immense puissance de calcul … [+842 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Challenges" },
+      "author": "Céline Antonin",
+      "title": "Stablecoins, l’autre hégémonie américaine",
+      "description": "La souveraineté monétaire des Etats est menacée. L’Union européenne doit accélérer le développement d’un euro numérique de banque centrale.",
+      "url": "https://www.challenges.fr/idees/stablecoins-lautre-hegemonie-americaine_636453",
+      "urlToImage": "https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/47257.HR.jpg%3FVersionId=XTtKyf9Efpl8PThqqvu0ZF3R123Tt3ZM",
+      "publishedAt": "2026-01-14T05:15:00Z",
+      "content": "Présentés comme des ponts entre finance traditionnelle et lunivers des cryptoactifs, les stablecoins dits de paiement désignent des jetons numériques censés offrir une valeur plus stable que les cryp… [+4760 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lavenir.net" },
+      "author": "Céline Demelenne",
+      "title": "De l’émergence d’Internet à l’intelligence artificielle : faut-il craindre l’explosion d’une nouvelle bulle pour clôturer ce quart de siècle ?",
+      "description": "Ces 25 dernières années ont été marquées par plusieurs crises, dont celle des subprimes, à l’échelle mondiale ou des dettes souveraines en Europe. Entre 2000 et 2025, le monde a aussi été confronté à la formation de plusieurs bulles spéculatives. Coup d’œil d…",
+      "url": "https://www.lavenir.net/actu/2025/12/24/de-lemergence-dinternet-a-lintelligence-artificielle-faut-il-craindre-lexplosion-dune-nouvelle-bulle-pour-cloturer-ce-quart-de-siecle-5Q5W6WQTVZDGZLJHDSLOLK7DAY/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/OKKAJNTGLBEDZDZJCECHTJVUDE.jpeg?auth=f619a6f98cf19a0db63d42c1f87df749d3e1e5b8b71da46152b3e926c8a83751&width=1200&height=630&quality=85&focal=3000%2C2000",
+      "publishedAt": "2025-12-24T11:00:00Z",
+      "content": "2002: Adoption de l'euro, la monnaie unique\r\nLe 1er janvier 2002, les billets et pièces en euro sont mis en circulation dans douze pays membres de l'Union européenne, dont la Belgique. Un bouleversem… [+4399 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lalibre.be" },
+      "author": "Robin Gille",
+      "title": "Interdire les distributeurs de cryptomonnaies ? Le débat s’enflamme aux États-Unis après de nombreuses escroqueries",
+      "description": "Face à une explosion des escroqueries liées à ces machines, plusieurs villes et États américains envisagent de restreindre, voire d’interdire, les distributeurs de cryptomonnaies. ...",
+      "url": "https://www.lalibre.be/economie/digital/2026/01/13/interdire-les-distributeurs-de-cryptomonnaies-le-debat-senflamme-aux-etats-unis-apres-de-nombreuses-escroqueries-SXQLJQLKGRHJ3ON2BDERWQ5YJ4/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/AKXK6XO5EZBOXDDRO3SIYO6D7A.jpg?auth=e3e0d67d583f3b4fe58d690e4f918e98b264ce558fc7940a44650de999a9ae0e&width=1200&height=630&quality=85&focal=2723%2C1825",
+      "publishedAt": "2026-01-13T10:08:34Z",
+      "content": "Des centaines de millions de dollars escroqués\r\nLe FBI estime que ces fraudes ont déjà coûté 240 millions de dollars aux Américains au cours des six premiers mois de 2025, presque autant que sur tout… [+3630 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Marc Angrand",
+      "title": "Les stablecoins, des cryptoactifs au service de la domination du dollar",
+      "description": "Initialement utilisés comme passerelle entre « cryptos » et monnaies traditionnelles, les stablecoins servent aussi aux paiements ou aux transferts internationaux entre entreprises ou particuliers. Un marché qui pèse plus de 300 milliards de dollars et reste …",
+      "url": "https://www.lemonde.fr/idees/article/2026/01/08/les-stablecoins-des-cryptoactifs-au-service-de-la-domination-du-dollar_6661056_3232.html",
+      "urlToImage": "https://img.lemde.fr/2025/12/12/0/0/3499/2333/1440/960/60/0/7424063_ftp-1-gcfby2n5rjlg-2025-12-12t203150z-1484095814-rc22pgaydaz8-rtrmadp-3-juventus-fc-m-a-tether.JPG",
+      "publishedAt": "2026-01-08T18:00:12Z",
+      "content": "Ils sont moins spectaculaires quune opération militaire en Amérique latine, mais leur essor en fait lun des enjeux-clés de la bataille financière entre les Etats-Unis et leurs grands rivaux. Les stab… [+1832 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Theartblog.org" },
+      "author": "Leah Koontz",
+      "title": "Notre Avis sur Betify Casino – Partie 148",
+      "description": "L’innovation technologique repousse continuellement les limites du possible, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 148 examine les caractéristiques structurantes de cette plateforme dans un contexte compétitif exigeant. L’accès…",
+      "url": "https://www.theartblog.org/2025/12/p-notre-avis-sur-betify-casino-partie-148-p/",
+      "urlToImage": "https://www.theartblog.org/wp-content/themes/artblog/img/artblog-meta-image-1200x630.jpg",
+      "publishedAt": "2025-12-26T09:30:22Z",
+      "content": "L’innovation technologique repousse continuellement les limites du possible, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 148 examine les caractéristiques structurantes de ce… [+10577 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Biztoc.com" },
+      "author": "coindesk.com",
+      "title": "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+      "description": "",
+      "url": "https://biztoc.com/x/c051ee8de605f5cd",
+      "urlToImage": "https://biztoc.com/cdn/c051ee8de605f5cd_s.webp",
+      "publishedAt": "2025-12-18T21:53:35Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump Media merging with a nuclear fusion company? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did delayed… [+799 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Jeff John Roberts",
+      "title": "DeFi has earned a seat at the grown-ups table—now comes the hard part",
+      "description": "Hyperliquid’s rapid rise poses a test for decentralization.",
+      "url": "https://fortune.com/crypto/2026/01/12/hyperliquid-jeff-yan-defi-perpetuals-perps-decentralization-growing-up/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2237640344-e1768219770781.jpg?resize=1200,600",
+      "publishedAt": "2026-01-12T12:56:51Z",
+      "content": "One of the many remarkable features of crypto is how often upstarts appear out of nowhere and, in a year or less, become one of the industrys top dogs. This happened in 2016 when Binance exploded on … [+4959 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Bitget Limited",
+      "title": "À sa clôture de novembre, Bitget enregistre des volumes propres aux contrats à terme sur actions supérieurs à 10 milliards de dollars et comptabilise 34 000 BTC de réserves, parallèlement à une forte dynamique axée bourse universelle",
+      "description": "VICTORIA, Seychelles,  31 déc. 2025  (GLOBE NEWSWIRE) -- Bitget, première bourse universelle au monde (ou UEX, de l’anglais Universal Exchange pour...",
+      "url": "https://www.globenewswire.com/news-release/2025/12/31/3211780/0/fr/%C3%80-sa-cl%C3%B4ture-de-novembre-Bitget-enregistre-des-volumes-propres-aux-contrats-%C3%A0-terme-sur-actions-sup%C3%A9rieurs-%C3%A0-10-milliards-de-dollars-et-comptabilise-34-000-BTC-de-r%C3%A9serves-parall%C3%A8l.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "publishedAt": "2025-12-31T13:27:00Z",
+      "content": "VICTORIA, Seychelles, 31 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, première bourse universelle au monde (ou UEX, de langlais Universal Exchange pour plateforme déchange universelle) publie son Transparen… [+8782 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Smallbusinessbranding.com" },
+      "author": "Sean M Kelly",
+      "title": "Betify Casino Exploré: Rapport 223",
+      "description": "L'évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s'inscrit dans cette évolution. Cette analyse numéro 223 examine",
+      "url": "https://www.smallbusinessbranding.com/10203/p-betify-casino-explore-rapport-223-p/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-25T13:31:28Z",
+      "content": "L’évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 223 examine les caractéristiques structurantes de cet… [+10764 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Smallbusinessbranding.com" },
+      "author": "Sean M Kelly",
+      "title": "Betify Casino: Revue Experte 53",
+      "description": "L'évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s'inscrit dans cette évolution. Cette analyse numéro 53 examine",
+      "url": "https://www.smallbusinessbranding.com/10234/p-betify-casino-revue-experte-53-p/",
+      "urlToImage": null,
+      "publishedAt": "2025-12-26T09:31:35Z",
+      "content": "L’évolution des technologies mobiles bouleverse les usages du jeu en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 53 examine les caractéristiques structurantes de cett… [+10690 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lalibre.be" },
+      "author": "Juliette Vandestraete",
+      "title": "Des missiles payés en Bitcoin ? La stratégie risquée de l’Iran pour contourner les sanctions occidentales",
+      "description": "Missiles, drones et navires de guerre pourront être payés en cryptomonnaies, alors que l’Iran cherche à échapper aux sanctions occidentales. ...",
+      "url": "https://www.lalibre.be/economie/2026/01/02/des-missiles-payes-en-bitcoin-la-strategie-risquee-de-liran-pour-contourner-les-sanctions-occidentales-BRTEJZL3GZCYXJO5EHEDR4H2JI/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/EOLRBZCY6VEMROKCCHRKGFNXII.jpg?auth=1a68dd5b4759a6995546ac5f2f0cc62cee12b72bd55420b7e1bc356bfcec5487&width=1200&height=630&quality=85&focal=1250%2C649",
+      "publishedAt": "2026-01-02T13:34:37Z",
+      "content": "Theo Francken au Bourget : \"Avec les frappes d'Israël en Iran, on voit que le F-35 est largement supérieur aux autres avions\"Quels types d'armes ?\r\nSelon le Centre d'exportation de la Défense iranien… [+2696 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Bitget Limited",
+      "title": "Bitget sʼassocie au groupe Google Developer sur le campus de lʼETH de Zurich en vue dʼaccélérer lʼacquisition de compétences dans les domaines du Web3 et de lʼIA chez les étudiants",
+      "description": "VICTORIA, Seychelles, 19 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, la première Bourse Universelle (UEX) au monde, annonce avec enthousiasme sa collaboration annuelle avec le groupe Google Developer sur le campus de lʼETH de Zurich (GDGoC). Dans le cadre de son in…",
+      "url": "https://www.globenewswire.com/news-release/2025/12/19/3208509/0/fr/Bitget-s%CA%BCassocie-au-groupe-Google-Developer-sur-le-campus-de-l%CA%BCETH-de-Zurich-en-vue-d%CA%BCacc%C3%A9l%C3%A9rer-l%CA%BCacquisition-de-comp%C3%A9tences-dans-les-domaines-du-Web3-et-de-l%CA%BCIA-chez-les-%C3%A9tudiants.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "publishedAt": "2025-12-19T14:00:00Z",
+      "content": "VICTORIA, Seychelles, 19 déc. 2025 (GLOBE NEWSWIRE) -- Bitget, la première Bourse Universelle (UEX) au monde, annonce avec enthousiasme sa collaboration annuelle avec le groupe Google Developer sur l… [+6532 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Bitget Limited",
+      "title": "Bitget renforce sa collaboration avec Ondo grâce à l’ajout de 98 nouvelles actions et ETF américains",
+      "description": "VICTORIA, Seychelles, 10 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a annoncé la cotation de 98 nouvelles actions et fonds négociés en bourse (ETF) américains, élargissant ainsi l’accès aux marchés traditionnels t…",
+      "url": "https://www.globenewswire.com/news-release/2026/01/10/3216411/0/fr/Bitget-renforce-sa-collaboration-avec-Ondo-gr%C3%A2ce-%C3%A0-l-ajout-de-98-nouvelles-actions-et-ETF-am%C3%A9ricains.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "publishedAt": "2026-01-10T06:33:00Z",
+      "content": "VICTORIA, Seychelles, 10 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a annoncé la cotation de 98 nouvelles actions et fonds négociés en bourse (ETF) améri… [+6467 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Bitget Limited",
+      "title": "Bitget TradFi dépasse les 2 milliards de dollars de volume quotidien grâce à la forte augmentation des transactions sur l’or",
+      "description": "VICTORIA, Seychelles, 09 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a enregistré plus de 2 milliards de dollars de volume de trading quotidien sur Bitget TradFi, marquant une étape majeure depuis son lancement pub…",
+      "url": "https://www.globenewswire.com/news-release/2026/01/09/3215913/0/fr/Bitget-TradFi-d%C3%A9passe-les-2-milliards-de-dollars-de-volume-quotidien-gr%C3%A2ce-%C3%A0-la-forte-augmentation-des-transactions-sur-l-or.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "publishedAt": "2026-01-09T07:43:00Z",
+      "content": "VICTORIA, Seychelles, 09 janv. 2026 (GLOBE NEWSWIRE) -- Bitget, la plus grande bourse universelle (UEX) au monde, a enregistré plus de 2 milliards de dollars de volume de trading quotidien sur Bitget… [+6083 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Obs" },
+      "author": "Claude Soula",
+      "title": "Euro numérique : la nouvelle bataille stratégique de la monnaie européenne",
+      "description": "Aurons-nous bientôt une devise numérique sur nos smartphones ? Le projet de la Banque centrale européenne, visant à préserver sa souveraineté monétaire et à faciliter les transactions, se heurte à l’hostilité du monde financier. Explications.",
+      "url": "https://www.nouvelobs.com/economie/20260106.OBS111231/euro-numerique-la-nouvelle-bataille-strategique-de-la-monnaie-europeenne.html",
+      "urlToImage": "https://focus.nouvelobs.com/2025/12/17/3/0/6016/4010/1200/800/0/0/5e7a79e_upload-1-2tpsibmbxjed-euro-nume-rique-rea11011131.jpg",
+      "publishedAt": "2026-01-06T06:30:18Z",
+      "content": "Prévu dici 2029, leuro numérique aura le même statut que les billets et les pièces. KERMALO/REA\r\nCommenter\r\n Lire plus tard \r\nGoogle Actualités\r\nPartager\r\n Sabonner pour lire \r\n« La monnaie évolue co… [+1671 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Framablog.org" },
+      "author": "Stéphane Bortzmeyer",
+      "title": "Qui suis-je et quelle est mon identité ?",
+      "description": "On parle souvent dans le monde numérique, par exemple à propos de l'Internet, d'identité. Un ministre annonce qu'on va avoir une « identité numérique ». Un article dans les médias dit qu'un harceleur en ligne utilisait « une fausse identité ». On vous expliqu…",
+      "url": "https://framablog.org/2025/12/20/qui-suis-je-et-quelle-est-mon-identite/",
+      "urlToImage": "https://framablog.org/wp-content/uploads/2025/12/Moldova_Identity_Card_Front_2013_series.jpeg",
+      "publishedAt": "2025-12-20T12:00:48Z",
+      "content": "On parle souvent dans le monde numérique, par exemple à propos de l’Internet, d’identité. Un ministre annonce qu’on va avoir une « identité numérique ». Un article dans les médias dit qu’un harceleur… [+14650 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GlobeNewswire" },
+      "author": "Bitget Limited",
+      "title": "Bitget publie une mise à jour majeure de son application réunissant les marchés crypto, actions, on-chain et TradFi au cœur d’une seule interface au service de 120 millions d’utilisateurs",
+      "description": "VICTORIA, Seychelles,  26 déc. 2025  (GLOBE NEWSWIRE) -- BITGET-LIMITED -- Bitget, première bourse universelle du monde (ou UEX, de l’anglais...",
+      "url": "https://www.globenewswire.com/news-release/2025/12/26/3210513/0/fr/Bitget-publie-une-mise-%C3%A0-jour-majeure-de-son-application-r%C3%A9unissant-les-march%C3%A9s-crypto-actions-on-chain-et-TradFi-au-c%C5%93ur-d-une-seule-interface-au-service-de-120-millions-d-utilisa.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
+      "publishedAt": "2025-12-26T10:00:00Z",
+      "content": "VICTORIA, Seychelles, 26 déc. 2025 (GLOBE NEWSWIRE) -- BITGET-LIMITED -- Bitget, première bourse universelle du monde (ou UEX, de langlais Universal Exchange), a procédé à une intégrale refonte graph… [+7711 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Smallbusinessbranding.com" },
+      "author": "Sean M Kelly",
+      "title": "Annotation Leurs Parieurs Du jeu d’action Pour Salle de jeu Spinata 88 fortunes 1 $ de dépôt Grande",
+      "description": "Content Hein procurer une ballade de pourboire du spinata éminent | 88 fortunes 1 $ de dépôt Casino PayPal : […]",
+      "url": "https://www.smallbusinessbranding.com/26357/annotation-leurs-parieurs-du-jeu-daction-pour-salle-de-jeu-spinata-88-fortunes-1-de-depot-grande/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-07T03:20:43Z",
+      "content": "Nos goussets binaires sauf que leurs cartables tactiles sont de l’assistance en compagnie de bourse virtuel où vous pourrez uploader et annihiler quelques dépenses pour , ! il existe, le montant une … [+6740 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Express" },
+      "author": "Muriel Breiman, Maxime Recoquillé",
+      "title": "L’Iran face aux sanctions, le grand contournement : \"Les cryptos ont détrôné les valises de cash\"",
+      "description": "Les cryptomonnaies, et a fortiori les stablecoins, facilitent les transactions illégales. Explications avec Hélène Rey, professeur d'économie à la London Business School.",
+      "url": "https://www.lexpress.fr/economie/liran-face-aux-sanctions-le-grand-contournement-les-cryptos-ont-detrone-les-valises-de-cash-WCDJEA46RZE2PNLIQRKEHDBC6A/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/ZSPFWJJ4RJHRHAFCRCSQVK4PHM.jpg?auth=5cdf3fe9f669fd3be0911b52b7b0460eebdd6576e5b2322484f1ee103c0a26ee&width=1200&height=630&quality=85&smart=true",
+      "publishedAt": "2026-01-17T10:45:00Z",
+      "content": "Alors que la rue iranienne gronde de nouveau contre le pouvoir, le régime des mollahs joue sa survie sur un terrain inattendu : la blockchain. Récemment, Téhéran a proposé de vendre drones et missile… [+6829 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Smallbusinessbranding.com" },
+      "author": "Sean M Kelly",
+      "title": "Top 2 s en france",
+      "description": "Les bénéfices nos tours gratis sont ordinairement abdiquai aux différents belles conditions pour mise. Afin de nous précipiter pour abriter leurs",
+      "url": "https://www.smallbusinessbranding.com/38741/top-2-s-en-france/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-09T21:44:28Z",
+      "content": "Les bénéfices nos tours gratis sont ordinairement abdiquai aux différents belles conditions pour mise. Afin de nous précipiter pour abriter leurs comptabilités, il y a ordinairement des options de ac… [+11128 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Camer.be" },
+      "author": "Kemta",
+      "title": "MONDE ENTIER :: Investissements florissants dans la puissance de calcul de l'IA :: WORLD",
+      "description": "DLMining en tête de la nouvelle stratégie anti-inflationniste de\nWall Street, le contrat de Noël fait plus que doubler les profits.\n\n \t* ÉVOLUTION DU MARCHÉ :PU...",
+      "url": "https://www.camer.be/91806/11:1/monde-entier-investissements-florissants-dans-la-puissance-de-calcul-de-lia-world.html",
+      "urlToImage": "https://www.camer.be/storage/photos/shares/Monde/Daily_Check_In26122025.jpg",
+      "publishedAt": "2025-12-26T10:40:46Z",
+      "content": "DLMining en tête de la nouvelle stratégie anti-inflationniste de Wall Street, le contrat de Noël fait plus que doubler les profits.\r\n<ol><li> Évolution du marché :Puissance de calcul de l'IAÉmerge co… [+5096 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le Dauphiné Libéré" },
+      "author": "Alexandra Simard",
+      "title": "Sécurité. Cryptomonnaies : pourquoi les enlèvements se sont multipliés en France cette année ?",
+      "description": "Le monde de la cryptomonnaie tremble, confronté depuis le début de l’année à une succession d’enlèvements avec demande de rançon. La semaine dernière, un couple a été séquestré en Charente-Maritime et contraint de verser 8 millions d’euros aux malfaiteurs. Le…",
+      "url": "https://www.ledauphine.com/faits-divers-justice/2025/12/22/cryptomonnaies-pourquoi-les-enlevements-se-sont-multiplies-en-france-cette-annee",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/8CCD3DBA-7035-419F-8C25-9221C325E3EF/FB1200/photo-1766330788.jpg",
+      "publishedAt": "2025-12-22T05:45:00Z",
+      "content": "Cest une année noire pour la cryptomonnaie, marquée par une série de rapts. Ces enlèvements  ou tentatives denlèvement  dacteurs du monde de la crypto et de leurs proches se sont multipliés cette ann… [+5339 chars]"
+    },
+    {
+      "source": { "id": null, "name": "La Tribune.fr" },
+      "author": "La Tribune - Rédaction",
+      "title": "Yuan numérique : Pékin va rémunérer les dépôts pour que les usagers délaissent Alipay et WeChat",
+      "description": "Le 1er janvier marquera un tournant pour le e-CNY. En rémunérant les dépôts en monnaie numérique, la Banque populaire de Chine lance une offensive pour briser le duopole privé et reprendre le contrôle total des flux de données financières.",
+      "url": "https://www.latribune.fr/article/banques-finance/33842885611649/yuan-numerique-pekin-va-remunerer-les-depots-pour-que-les-usagers-delaissent-alipay-et-wechat",
+      "urlToImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/12/29/pekin-lance-loffensive-contre-les-systemes-de-paiement-prives-des-le-1er-janvier-le-e-yuan-sera-remu-1767017799_f7d59c07825961cd59c078259dfd59v_.jpg",
+      "publishedAt": "2025-12-29T14:16:40Z",
+      "content": "Sur les marchés à Pékin, le QR code est roi depuis longtemps : cest ainsi que les habitants payent majoritairement ce quils achètent. Mais jusqualors, cétaient les logos vert de WeChat et bleu dAlipa… [+4491 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Jeune Afrique" },
+      "author": "Quentin Velluet",
+      "title": "Nelly Chatue-Diop, pionnière de la crypto pour tous en Afrique, est morte",
+      "description": "La cofondatrice de la start-up Ejara, qui permet d’investir dans les cryptomonnaies en Afrique, est décédée le 8 janvier.",
+      "url": "https://www.jeuneafrique.com/1755437/economie-entreprises/nelly-chatue-diop-pionniere-de-la-crypto-pour-tous-en-afrique-est-morte/",
+      "urlToImage": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=720,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/01/09/jad20260109-ass-cameroun-techno-deces-nelly-chatue-diop.jpg",
+      "publishedAt": "2026-01-10T07:05:04Z",
+      "content": "Éduquer les Africains et leurs différentes diasporas à la finance en utilisant la cryptomonnaie : cétait lambitieux pari que sétait fixé la Franco-Camerounaise Nelly Chatue-Diop dès 2019. La cofondat… [+2517 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Express" },
+      "author": "L’Express",
+      "title": "Placements : pourquoi les cryptos sont de plus en plus accessibles",
+      "description": "Les banques s’emparent du sujet et la réglementation s’assouplit.",
+      "url": "https://www.lexpress.fr/argent/placements/placements-pourquoi-les-cryptos-sont-de-plus-en-plus-accessibles-XWVLLWNTYZDNDA42IU3XJ5HGAQ/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/YN74JNZ46JDKNM6EE5TYWUF27M.jpg?auth=38388df3b503c05437535f9ed097ca5fd609181d084f8b4aa9a39a356c8199e4&width=1200&height=630&quality=85&focal=3839%2C2700",
+      "publishedAt": "2025-12-27T09:00:00Z",
+      "content": "Farouchement opposée aux cryptoactifs à leurs débuts, lindustrie financière fait sa mue. Reconnaissant lintérêt des investisseurs pour ces produits, plusieurs acteurs travaillent à des offres alors q… [+2574 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Génération NT" },
+      "author": "Mathieu M.",
+      "title": "Le Bhoutan sacrifie ses bitcoins pour sa jeunesse et son avenir économique",
+      "description": "Le royaume du Bhoutan annonce un plan ambitieux : allouer jusqu'à 10 000 bitcoins, soit près d'un milliard de dollars, pour financer la \"Gelephu Mindfulness City\". Ce projet vise à créer un hub économique pour freiner l'exil de sa jeunesse et diversifier son …",
+      "url": "https://www.generation-nt.com/actualites/bhoutan-bitcoin-ville-gelephu-economie-crypto-2068083",
+      "urlToImage": "https://img.generation-nt.com/pieces-cryptomonnaie-bitcoin_04B002A301674045.webp",
+      "publishedAt": "2025-12-19T16:10:01Z",
+      "content": "Niché entre la Chine et l'Inde, le Bhoutan, célèbre pour son concept de \"bonheur national brut\", fait face à une réalité brutale : un exode massif de sa jeunesse. Pour enrayer cette fuite des cerveau… [+3788 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Conversation Africa" },
+      "author": "Annie Lecompte, Associate professor, Département des sciences comptables, Université du Québec à Montréal (UQAM)",
+      "title": "Les stablecoins présentent des risques. Il faut rapidement les encadrer",
+      "description": "Les stablecoins promettent stabilité et agilité numérique. Mais leur essor soulève des questions urgentes : le Canada peut-il les encadrer assez vite pour éviter une domination étrangère ?",
+      "url": "https://theconversation.com/les-stablecoins-presentent-des-risques-il-faut-rapidement-les-encadrer-265832",
+      "urlToImage": "https://images.theconversation.com/files/712186/original/file-20260113-56-ywb9xc.JPG?ixlib=rb-4.1.0&rect=0%2C464%2C4800%2C2400&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-01-13T14:33:02Z",
+      "content": "Les stablecoins ambitionnent de combiner le meilleur des deux mondes : l’agilité du numérique et la stabilité d’une devise nationale. La percée au pays de différents stablecoins alignés au dollar can… [+8978 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Franceinfo.fr" },
+      "author": "franceinfo",
+      "title": "Ces technologies qui ont révolutionné le premier quart de siècle",
+      "description": "Facebook, Bitcoin, ChatGPT... Retour en arrière sur ces innovations qui ont révolutionné notre quotidien depuis le début du siècle.",
+      "url": "https://www.franceinfo.fr/sciences/high-tech/ces-technologies-qui-ont-revolutionne-le-premier-quart-de-siecle_7716838.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/rItBCh4sSM0MOdwpP9FXdqIGs_o/0x0:1080x1920/fit-in/1500x843/filters:upscale():fill(black)/2026/01/02/miniat-vierge-6957fbefea711002415553.png",
+      "publishedAt": "2026-01-02T17:15:29Z",
+      "content": "Facebook, Bitcoin, ChatGPT... Retour en arrière sur ces innovations qui ont révolutionné notre quotidien depuis le début du siècle."
+    },
+    {
+      "source": { "id": null, "name": "L'Express" },
+      "author": "Anne Cagan",
+      "title": "\"Entre la bulle IA et les cryptos, les Etats-Unis deviennent un pari risqué\" : l’alerte du PDG de Saxo Bank",
+      "description": "Pour le PDG de la banque d’investissement danoise, l’Europe a les ressources pour traverser la période à haut risque actuelle. Mais il lui faut mieux choisir ses combats.",
+      "url": "https://www.lexpress.fr/economie/high-tech/entre-la-bulle-ia-et-les-cryptos-les-etats-unis-deviennent-un-pari-risque-lalerte-du-pdg-de-saxo-DTZYTFG3NRBEFA6A63CO3RML4M/",
+      "urlToImage": "https://www.lexpress.fr/resizer/v2/N4ZEGPV6TFEYNHNMEY5CFMHQKY.jpg?auth=1beb56943e04ae67d3d5796229d0b2244672624b35ac629b16ae75127fc7b90c&width=1200&height=630&quality=85&focal=2401%2C1117",
+      "publishedAt": "2025-12-28T16:00:00Z",
+      "content": "Le cours de Bourse des stars de lIA affole les observateurs. Celui du Bitcoin pique du nez. Sur les marchés, la transition de 2025 à 2026 est tumultueuse. Dautant que la menace russe ne sest en rien … [+10749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialsciencespace.com" },
+      "author": "Karl Wilding",
+      "title": "Betify Casino: Revue Experte 69",
+      "description": "La mondialisation du marché crée des opportunités et des défis inédits, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 69 […]\nThe post Betify Casino: Revue Experte 69 appeared first on Social Science Space.",
+      "url": "https://www.socialsciencespace.com/2025/12/p-betify-casino-revue-experte-69-p/",
+      "urlToImage": "https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png",
+      "publishedAt": "2025-12-25T13:26:13Z",
+      "content": "La mondialisation du marché crée des opportunités et des défis inédits, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 69 examine les caractéristiques structurantes de cette pl… [+10469 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialsciencespace.com" },
+      "author": "Karl Wilding",
+      "title": "Betify Casino: Guide Détaillé 155",
+      "description": "L’engagement client devient multidimensionnel. C’est dans ce contexte que Betify Casino développe son offre, cherchant à se démarquer par des choix spécifiques. […]\nThe post Betify Casino: Guide Détaillé 155 appeared first on Social Science Space.",
+      "url": "https://www.socialsciencespace.com/2025/12/p-betify-casino-guide-detaille-155-p/",
+      "urlToImage": "https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png",
+      "publishedAt": "2025-12-26T11:31:30Z",
+      "content": "L’engagement client devient multidimensionnel. C’est dans ce contexte que Betify Casino développe son offre, cherchant à se démarquer par des choix spécifiques. Cette évaluation numéro 155 explore ce… [+10394 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialsciencespace.com" },
+      "author": "Karl Wilding",
+      "title": "Analyse Complète de Betify Casino – Revue 144",
+      "description": "La confiance constitue le socle de toute relation durable dans le gaming en ligne, et Betify Casino s’inscrit dans cette évolution. Cette […]\nThe post Analyse Complète de Betify Casino – Revue 144 appeared first on Social Science Space.",
+      "url": "https://www.socialsciencespace.com/2025/12/p-analyse-complete-de-betify-casino-revue-144-p/",
+      "urlToImage": "https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png",
+      "publishedAt": "2025-12-26T11:39:44Z",
+      "content": "La confiance constitue le socle de toute relation durable dans le gaming en ligne, et Betify Casino s’inscrit dans cette évolution. Cette analyse numéro 144 examine les caractéristiques structurantes… [+10494 chars]"
+    },
+    {
+      "source": { "id": null, "name": "La Tribune.fr" },
+      "author": "Jeanne Dussueil",
+      "title": "Cryptos et stablecoins : quelles chances pour l’Europe face à la domination américaine ?",
+      "description": "REGARDS CROISÉS. Une bataille silencieuse se joue entre les États et des acteurs privés, celle de la suprématie monétaire. Monnaies numériques de banque centrale, stablecoins, bitcoin… Les points de vue d’Agnès Bénassy-Quéré, sous-gouverneure à la Banque de F…",
+      "url": "https://www.latribune.fr/article/banques-finance/44170159599769/cryptos-et-stablecoins-quelles-chances-pour-l-europe-face-a-la-domination-americaine",
+      "urlToImage": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2026/01/12/agnes-benassy-quere-vice-gouverneur-a-la-banque-de-france-et-nathalie-janson-economiste-1768217096_847aac2c41696787aac2c41693c7aav_.jpg",
+      "publishedAt": "2026-01-12T11:24:57Z",
+      "content": "« Privatisation de la monnaie » Les mots sont lâchés en octobre dernier par Agnès Bénassy-Quéré, économiste, sous-gouverneure à la Banque de France. Et pour cause : désormais, « plus de la moitié des… [+969 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Nassim Chentouf",
+      "title": "Actualité : 53 % des cryptomonnaies lancées depuis 2021 sont mortes, le marché se porte plus mal que jamais",
+      "description": "Le marché des cryptomonnaie se porte plus mal que jamais. Selon une analyse de CoinGecko, le dernier trimestre de 2025 concentre à lui seul 7,7 millions d'échecs de projets de monnaies virtuelles.",
+      "url": "https://www.lesnumeriques.com/cryptomonnaie/53-des-cryptomonnaies-lancees-depuis-2021-sont-mortes-le-marche-se-porte-plus-mal-que-jamais-n250045.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/25/250045/38d8985d-53-des-cryptomonnaies-lancees-depuis-2021-sont-mortes-mais-qui-s-y-interesse-encore__1200_678__0-916-4942-3510.jpg",
+      "publishedAt": "2026-01-18T11:00:00Z",
+      "content": "On parle d'environ 35 % de l'ensemble des disparitions depuis 2021. Et 2025 fut très noire pour les amateurs de cryptomonnaies. Sur les quelque 20,2 millions de jetons répertoriés par GeckoTerminal e… [+1760 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialsciencespace.com" },
+      "author": "Karl Wilding",
+      "title": "Explorer millionz casino code promo : analyse détaillée",
+      "description": "La multiplication des plateformes de casino en ligne offre certes un choix considérable aux joueurs, mais complique également l’identification d’un opérateur fiable […]\nThe post Explorer millionz casino code promo : analyse détaillée appeared first on Social …",
+      "url": "https://www.socialsciencespace.com/2025/12/explorer-millionz-casino-code-promo-analyse-detaillee/",
+      "urlToImage": "https://www.socialsciencespace.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png",
+      "publishedAt": "2025-12-30T16:33:25Z",
+      "content": "La multiplication des plateformes de casino en ligne offre certes un choix considérable aux joueurs, mais complique également l’identification d’un opérateur fiable et adapté. millionz casino code pr… [+17714 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Génération NT" },
+      "author": "Sirius",
+      "title": "Vague de kidnappings crypto en France : la violence monte d'un cran depuis début janvier",
+      "description": "La France connaît une recrudescence alarmante d'enlèvements et de séquestrations visant les détenteurs de cryptomonnaies. Trois agressions violentes ont eu lieu en quelques jours en janvier 2026 à Manosque, Cholet et Verneuil-sur-Seine. Cette tendance, déjà o…",
+      "url": "https://www.generation-nt.com/actualites/crypto-enlevement-france-sequestration-securite-2068907",
+      "urlToImage": "https://img.generation-nt.com/crypto-monnaie-bitcoin-ethereum_04B002A301705522.webp",
+      "publishedAt": "2026-01-12T20:10:01Z",
+      "content": "Une véritable vague d'agressions ultra-violentes cible directement les investisseurs en cryptomonnaies sur le territoire français. En l'espace de quelques jours à peine au début du mois de janvier 20… [+3599 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Synthmedia.fr" },
+      "author": "Synth",
+      "title": "Freedom Cities : au Vénézuela et au Groenland, l'enjeu d'un néocolonialisme tech",
+      "description": "Zoom sur les « Freedom Cities » et le « Network State », laboratoires d'un néocolonialisme tech au Vénézuela et au Groenland.",
+      "url": "https://synthmedia.fr/etats-unis/freedom-cities-venezuela-groenland-neocolonialisme-tech/",
+      "urlToImage": "https://synthmedia.fr/wp-content/uploads/2026/01/Freedom-cities-2.jpg",
+      "publishedAt": "2026-01-13T11:24:06Z",
+      "content": "EN UN COUP D’OEIL \r\n<ul><li>Colonisation 2.0 : Les élites techno-financières profitent des annexions de Trump pour tester des modèles de souveraineté privée.</li><li>Des laboratoires post-démocratiqu… [+8851 chars]"
+    },
+    {
+      "source": { "id": null, "name": "01net.com" },
+      "author": "Mickaël Bazoge",
+      "title": "01net morning : la FFT victime d'une cyberattaque, Gemini dans la tête de Siri, de l’IA souveraine chez Dassault",
+      "description": "Bonjour à tous, voici la matinale de 01net ! Qu’avez-vous manqué hier ? Retrouvez toute l’actu à connaitre pour démarrer la journée du bon pied !",
+      "url": "https://www.01net.com/actualites/01net-morning-la-fft-victime-dune-cyberattaque-gemini-dans-la-tete-de-siri-de-lia-souveraine-chez-dassault.html",
+      "urlToImage": "https://www.01net.com/app/uploads/2026/01/01net-Morning-5-1600x900.jpg",
+      "publishedAt": "2026-01-13T06:29:18Z",
+      "content": "Bonjour à tous, voici la matinale de 01net ! Quavez-vous manqué hier ? Retrouvez toute lactu à connaitre pour démarrer la journée du bon pied !À retenir dans l’actu\r\nUne cyberattaque a touché les sys… [+2402 chars]"
+    }
+  ]
+}

@@ -4,62 +4,91 @@ const fs = require("fs");
 const request = require("request");
 const config = require("./config.js");
 const path = require("path");
+// NewsAPI client
+const NewsAPI = require("newsapi");
+const newsapi = new NewsAPI(config.API_KEY);
 
 // Serve static files (HTML, CSS, JS)
 app.use(express.static(path.join(__dirname, "public")));
 
-// API route to fetch all news
-// app.get("/all", function (req, res) {
-//   const categorie = req.params.id;
-//   const url = `https://newsapi.org/v2/everything?q=canada&language=fr&apiKey=${config.API_KEY}`;
-
-//   request.get({ url, json: true }, (err, response, data) => {
-//     if (err || response.statusCode !== 200) {
-//       return res.status(500).send("Error fetching data");
-//     }
-
-//     fs.writeFile(`data/all.json`, JSON.stringify(data), (err) => {
-//       if (err) return res.status(500).send("Error saving file");
-//       res.redirect(`/view?all`);
-//     });
-//   });
-// });
-
-// API route to fetch top news (anglais seulement)
-// app.get("/top", function (req, res) {
-//   const categorie = req.params.id;
-//   const url = `https://newsapi.org/v2/top-headlines?language=en&pageSize=20&apiKey=${config.API_KEY}`;
-
-//   request.get({ url, json: true }, (err, response, data) => {
-//     if (err || response.statusCode !== 200) {
-//       return res.status(500).send("Error fetching data");
-//     }
-
-//     fs.writeFile(`data/top.json`, JSON.stringify(data), (err) => {
-//       if (err) return res.status(500).send("Error saving file");
-//       res.redirect(`/view?top`);
-//     });
-//   });
-// });
-
-// API route to fetch data and save to JSON file
-app.get("/categorie=:id", function (req, res) {
-  const categorie = req.params.id;
-  const url = `https://newsapi.org/v2/everything?q=${categorie}&language=fr&apiKey=${config.API_KEY}`;
-  // https://newsapi.org/v2/everything?q=politique&language=fr&apiKey=
-  request.get({ url, json: true }, (err, response, data) => {
-    if (err || response.statusCode !== 200) {
-      return res.status(500).send("Erreur lors de la récupération des données");
-    }
-
-    fs.writeFile(`data/${categorie}.json`, JSON.stringify(data), (err) => {
-      if (err)
+app.get("/all", function (req, res) {
+  newsapi.v2
+    .everything({
+      q: "canada",
+      sortBy: "publishedAt",
+    })
+    .then((response) => {
+      if (response.status !== "ok") {
         return res
           .status(500)
-          .send("Erreur lors de l'enregistrement du fichier");
-      res.redirect(`/view?categorie=${categorie}`);
+          .send("Erreur lors de la récupération des données");
+      }
+
+      fs.writeFile(
+        `data/canada.json`,
+        JSON.stringify(response, null, 2),
+        (err) => {
+          if (err) {
+            return res
+              .status(500)
+              .send("Erreur lors de l'enregistrement du fichier");
+          }
+
+          res.redirect(`/view?categorie=canada`);
+        },
+      );
+    })
+    .catch((err) => {
+      console.error(err);
+      res.status(500).send("Erreur lors de la récupération des données");
     });
-  });
+});
+
+app.get("/categorie=:id", function (req, res) {
+  const categorie = req.params.id;
+
+  newsapi.v2
+    .everything({
+      q: categorie,
+      language: "fr",
+      sortBy: "publishedAt",
+    })
+    .then((response) => {
+      if (response.status !== "ok") {
+        return res
+          .status(500)
+          .send("Erreur lors de la récupération des données");
+      }
+
+      fs.writeFile(
+        `data/${categorie}.json`,
+        JSON.stringify(response, null, 2),
+        (err) => {
+          if (err) {
+            return res
+              .status(500)
+              .send("Erreur lors de l'enregistrement du fichier");
+          }
+
+          res.redirect(`/view?categorie=${categorie}`);
+        },
+      );
+    })
+    .catch((err) => {
+      console.error(err);
+      res.status(500).send("Erreur lors de la récupération des données");
+    });
+});
+
+// Formulaire de recherche
+app.get("/search", (req, res) => {
+  const categorie = req.query.q;
+
+  if (!categorie) {
+    return res.status(400).send("Mot-clé manquant");
+  }
+
+  res.redirect(`/categorie=${encodeURIComponent(categorie)}`);
 });
 
 // Serve HTML page with stock data
@@ -75,7 +104,7 @@ app.get("/view", (req, res) => {
 app.get("/data/:id", (req, res) => {
   const filePath = `${__dirname}/data/${req.params.id}.json`;
   fs.readFile(filePath, "utf8", (err, data) => {
-    if (err) return res.status(404).send({ error: "Data not found" });
+    if (err) return res.status(404).send({ error: "Data non trouvée" });
     res.json(JSON.parse(data));
   });
 });

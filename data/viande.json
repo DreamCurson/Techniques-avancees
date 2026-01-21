@@ -1,0 +1,986 @@
+{
+  "status": "ok",
+  "totalResults": 299,
+  "articles": [
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Elisa Nguyen Phung",
+      "title": "Les feuilletés végé, c’est pas (que) de la tourte",
+      "description": "La traditionnelle charcuterie pâtissière n’a qu’à bien se tenir. Wellington et autres pithiviers se dégustent désormais en version végétarienne, champignons, céleri ou épinards remplaçant la viande.",
+      "url": "https://www.lemonde.fr/m-styles/article/2025/12/22/les-feuilletes-vege-c-est-pas-que-de-la-tourte_6659131_4497319.html",
+      "urlToImage": "https://img.lemde.fr/2025/11/20/458/0/1000/666/1440/960/60/0/a2c50ac_ftp-import-images-1-xc0bhntcnixw-405281-3443168.jpg",
+      "publishedAt": "2025-12-22T15:00:08Z",
+      "content": "Tourte Butternut et céleri rave confit, tombée de champignons bruns, cèpes et bolets, pesto de roquette, fondue de poireaux au raifort. A la carte d'hiver du restaurant Groot, à Paris. LE PHOTOGRAPHE… [+2150 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Léo Pajon",
+      "title": "Du sanglier à Noël ? L’opération séduction de la viande de gibier",
+      "description": "Rôtis à la broche, en terrine ou en sauce, le sanglier, le cerf ou le lièvre se multiplient à la carte des restaurants. Et sont même revisités en kebab ou en chili con carne, pour tenter de convertir les plus réticents.",
+      "url": "https://www.lemonde.fr/m-styles/article/2025/12/25/du-gibier-a-noel-l-operation-seduction-de-la-venaison_6659374_4497319.html",
+      "urlToImage": "https://img.lemde.fr/2025/12/03/1110/0/3072/2048/1440/960/60/0/e2c6c7e_upload-1-2vi1yravveno-insolite-copyright-ilya-kagan-ilyafoodstories-export-1.jpg",
+      "publishedAt": "2025-12-25T05:00:19Z",
+      "content": "Tartare de cerf couronné de caviar et chapeauté dun mince glaçon à la gentiane, dOlivier Nasti. ILYA KAGAN\r\nLe portail souvre sur un décor digne dun thriller. Dans lallée qui borde la maison du chef … [+1138 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Amandine Jonniaux",
+      "title": "Dry January, Veganuary… est-ce que ces bonnes résolutions servent (vraiment) à quelque chose ?",
+      "description": "On en entend parler dès les premiers jours de janvier, mais les bonnes résolutions sont-elles vraiment bénéfiques",
+      "url": "https://www.journaldugeek.com/2026/01/02/dry-january-veganuary-est-ce-que-ces-bonnes-resolutions-servent-vraiment-a-quelque-chose/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/01/bonnes-resolutions-1500x900.jpg",
+      "publishedAt": "2026-01-02T18:42:09Z",
+      "content": "Le début de l’année 2025 s’accompagne de son lot de bonnes résolutions, plus ou moins faciles à tenir. En janvier, les défis s’enchaînent pour nous aider à mieux vivre le reste de l’année. C’est nota… [+2732 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Gaétan Supertino et Christophe Sales",
+      "title": "EN DIRECT, manifestations en Iran : Massoud Pezeshkian, le président iranien, accuse les Etats-Unis et Israël de « chercher à aggraver les troubles »",
+      "description": "« Ils ont recruté et formé certaines personnes, à l’intérieur comme à l’extérieur », a accusé le président iranien, lors de sa première prise de parole après trois nuits de manifestations intensifiées contre les autorités. Au moins 192 personnes ont été tuées…",
+      "url": "https://www.lemonde.fr/international/live/2026/01/11/en-direct-manifestations-en-iran-massoud-pezeshkian-le-president-iranien-accuse-les-etats-unis-et-israel-de-chercher-a-aggraver-les-troubles_6661368_3210.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/11/854/0/4032/2016/1440/720/60/0/d62349c_upload-1-lztc0zpwcj1p-sipa-01247969-000009-copie.jpg",
+      "publishedAt": "2026-01-11T16:27:07Z",
+      "content": "Sur le terrain, la mobilisation semble continuer. Des vidéos publiées sur les réseaux sociaux ont montré de grandes foules défilant dans la nuit de samedi à dimanche dans plusieurs villes iraniennes,… [+1707 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Léo Pajon",
+      "title": "Quand les restaurants étoilés tentent une stratégie de petit prix",
+      "description": "Pour diversifier leur clientèle, des chefs comme Jérôme Schilling, du Lalique, en Gironde, ou Thibaut Spiwack, d’Anona, à Paris, proposent des menus abordables, avec des produits simples, mais à l’exigence gastronomique. Une démarche qui ne fait pas l’unanimi…",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/01/16/quand-les-restaurants-etoiles-tentent-une-strategie-de-petit-prix_6662458_4497319.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/13/0/0/3543/2362/1440/960/60/0/d0c80ad_upload-1-qk6bhvsaw0dp-la-table-rose-de-betterave-latabledechristophehayetloisbe-e-3.jpg",
+      "publishedAt": "2026-01-16T04:00:13Z",
+      "content": "Rose de betterave, silure de Loire fumé, huile de colza torréfiée, des chefs du restaurant La Table, Christophe Hay et Loïs Bée, à Ardon, dans le Loiret, proposé dans le menu « Escale », à 47 euros. … [+1665 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Clément Giuliano",
+      "title": "Même si elles sont minoritaires, il y a probablement déjà des viandes du Mercosur dans vos assiettes",
+      "description": "Une faible part de la viande consommée en France provient de pays extérieurs à l’Union européenne.",
+      "url": "https://www.huffingtonpost.fr/life/article/meme-si-elles-sont-minoritaires-il-y-a-probablement-deja-des-viandes-du-mercosur-dans-vos-assiettes_259290.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2026/01/16/67/0/4000/2250/1820/1023/75/0/0b981be_upload-1-j9l94q7w24an-afp-20230525-hl-rmilani-2068329-v1-highres-illustrationparis.jpg",
+      "publishedAt": "2026-01-16T16:50:14Z",
+      "content": "De la difficulté de sassurer de lorigine de la viande qui finit dans son assiette. La mise en cause de lentreprise Hénaff pour la présence de langue buf brésilienne dans certains de ses pâtés et cell… [+4430 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Japon : « Juteuse et savoureuse »… Le succès vengeur des restaurants servant de la viande d’ours",
+      "description": "Confrontées à un nombre record d’attaques mortelles d’ours, les autorités japonaises encouragent la transformation de cette menace en opportunité économique pour les villages ruraux en promouvant la consommation de viande d’ours",
+      "url": "https://www.20minutes.fr/monde/4193164-20251224-japon-juteuse-savoureuse-succes-vengeur-restaurants-servant-viande-ours",
+      "urlToImage": "https://img.20mn.fr/bDw17mXwSsiPAsEBZL-5Iyk/1444x920_bonny-animal-caters-news-pictured-bears-fishing-at-first-glance-it-looks-like-a-bear-fishing-date-but-these-striking-scenes-are-all-about-survival-these-powerful-scenes-were-captured-by-takanori-yoshioka-a-50-year-old-a-system-engineer-and-wildlife-photographer-from-hokkaido-japan-who-has-spent-the-past-six-years-documenting-the-animals-hunting-habits-across-the-island-rivers-across-eastern-hokkaido-japan-come-alive-with-the-sight-of-brown-bears-swiping-salmon-straight-from-the-current-a-fierce-raw-spectacle-that-showcases-nature-at-its-most-dramatic-from-surging-splashes-to-sharp-claws-and-teeth-locking-onto-wriggling-prey-the-images-offer-a-front-row-view-into-one-of-nature-s-most-vital-and-intense-moments-see-caters-copy-bonny-animal-caters-news-catersnewsagency-caters0555-credit-caters-sipa-2505150847",
+      "publishedAt": "2025-12-24T16:46:30Z",
+      "content": "Une viande « juteuse et savoureuse » : à lheure où le Japon tente de réduire le nombre dours après une série dattaques meurtrières, Koji Suzuki cuisine des morceaux grillés de lanimal. La viande, mij… [+2668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Jérôme Gicquel",
+      "title": "« On nous attaque alors qu’on est transparent »… Épinglée pour sa langue de bœuf d’Amérique du Sud, Hénaff se défend",
+      "description": "Célèbre pour son pâté, la marque bretonne Hénaff se fait attaquer sur les réseaux sociaux pour sa langue de bœuf qui provient d’Amérique du Sud",
+      "url": "https://www.20minutes.fr/consommation/4196051-20260114-attaque-alors-transparent-epinglee-langue-b-uf-amerique-sud-henaff-defend",
+      "urlToImage": "https://img.20mn.fr/Kvl8SgWvSPSMBpFFdOckCCk/1444x920_la-marque-henaff-precise-bien-sur-ses-etiquette-que-ses-langues-de-boeuf-proviennent-d-amerique-du-sud",
+      "publishedAt": "2026-01-14T16:17:01Z",
+      "content": "Tout est parti dun article publié lundi matin sur le site dIci Armorique avant que la polémique ne rebondisse sur les réseaux sociaux. Une boîte de langue de buf de la marque Hénaff à la main, un int… [+2918 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Clément Giuliano",
+      "title": "Au repas de Noël, vos proches végétariens vous remercieront d’éviter ces remarques lourdes",
+      "description": "À Noël et pendant les fêtes de fin d’année, suivre un régime alimentaire sans viande ni poisson laisse rarement indifférents les autres convives. Souvent pour le pire.",
+      "url": "https://www.huffingtonpost.fr/life/article/au-repas-de-noel-vos-proches-vegetariens-vous-remercieront-d-eviter-ces-remarques-lourdes_257382.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/12/05/0/0/6000/3375/1820/1023/75/0/2809e02_upload-1-ajsohmiphfbt-afp-20201224-hl-lcazabet-1320821-v1-highres-francecovid19christmascelebrationsf.jpg",
+      "publishedAt": "2025-12-24T06:00:11Z",
+      "content": "EN BREFLes végétariens redoutent les remarques désobligeantes lors des repas de Noël, traditionnellement construits autour de la viande.Les blagues sur les substituts végétaux et les questions sur le… [+5030 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Mathilde Rochefort",
+      "title": "Mark Zuckerberg : 9 informations complètement farfelues sur le grand patron de Meta",
+      "description": "Il a bâti l’un des empires technologiques les plus puissants au monde, mais cultive des habitudes pour le moins déroutantes. Défis personnels extrêmes, obsessions assumées et décisions pour le moins radicales : Mark Zuckerberg ne manque pas d’anecdotes étonna…",
+      "url": "https://www.presse-citron.net/mark-zuckerberg-9-informations-completement-farfelues-grand-patron-meta/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2026/01/mark-zuckerberg-1-1600x900.jpg",
+      "publishedAt": "2026-01-17T09:00:26Z",
+      "content": "Il est à la tête de lune des entreprises les plus puissantes du monde, et figure parmi le top 10 des personnes les plus riches. Son nom : Mark Zuckerberg. Le célèbre patron de Meta, qui a fondé Faceb… [+6064 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Clément Giuliano",
+      "title": "Comment privilégier la viande française dans son assiette ? La question va se poser d’autant plus avec le Mercosur",
+      "description": "Après le vote du Conseil européen, Ursula von der Leyen doit signer dans quelques jours au Paraguay, l’accord de libre-échange avec les pays d’Amérique du Sud.",
+      "url": "https://www.huffingtonpost.fr/life/article/comment-privilegier-la-viande-francaise-dans-son-assiette-la-question-va-se-poser-d-autant-plus-avec-le-mercosur_259031.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2026/01/09/62/0/7296/4104/1820/1023/75/0/4cc87f4_upload-1-4rh4cqzhh03a-afp-20250311-hl-nguyonnet-2695101-v2-highres-franceeconomysupermarketauchan.jpg",
+      "publishedAt": "2026-01-11T07:30:08Z",
+      "content": "Lépilogue de 20 ans de discussions entre lUnion européenne dun côté et le Brésil, lArgentine, la Bolivie, le Paraguay et lUruguay de lautre. Après le feu vert de la majorité des pays européens à lexc… [+4426 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Maïwenn Furic",
+      "title": "La marque bretonne Hénaff pointée du doigt pour ses importations de viande du Brésil, le patron se défend",
+      "description": "De la langue de bœuf venue d’Amérique du Sud a été repérée dans les boîtes de conserve de la marque estampillée « Made In Bretagne ».",
+      "url": "https://www.huffingtonpost.fr/france/article/la-marque-bretonne-henaff-pointee-du-doigt-pour-ses-importations-de-viande-du-bresil-le-patron-se-defend_259217.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2026/01/14/124/0/4000/2250/1820/1023/75/0/48e7a09_upload-1-zer4zrmcsmpv-afp-20240502-hl-rmilani-2371580-v1-highres-fraparissupermarket.jpg",
+      "publishedAt": "2026-01-14T18:00:10Z",
+      "content": "EN BREFLa marque bretonne Hénaff est critiquée pour limportation de langue de buf dAmérique du Sud, bien que ses produits soient étiquetés « Made In Bretagne ».Le patron Loïc Hénaff défend cette prat… [+3264 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Rick",
+      "title": "Actualité : Soldes / Bon plan – Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 \"4 étoiles\" à 149,95 € (-18%)",
+      "description": "Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 passe sous les 150 € chez Electro Depot soit une baisse d'environ 18% sur le prix habituellement constaté.",
+      "url": "https://www.lesnumeriques.com/multicuiseur/soldes-bon-plan-le-multicuiseur-moulinex-cookeo-80-recettes-ce854b10-4-etoiles-a-149-95-18-n249997.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/product/74/74389/73426bca-cookeo-80-recettes-ce854b10__1200_678__overflow.jpg",
+      "publishedAt": "2026-01-16T23:00:18Z",
+      "content": "Points forts\r\n<ul><li>Gain de temps.\r\n</li><li>Cuve antiadhésive.\r\n</li><li>Très simple d'emploi.\r\n</li><li>Application Moulinex avec de nombreuses recettes.\r\n</li><li>Le nettoyage et lentretien sont… [+2559 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Guillaume Bonvoisin",
+      "title": "Actualité : Ninja Foodi PossibleCooker : l'appareil qui veut mettre votre gazinière au chômage technique",
+      "description": "Ninja, déjà bien installé sur le marché de la cuisson, notamment avec ses aifryer, a aussi lancé le Foodi PossibleCooker MC1001EU. Derrière ce nom ambitieux, un multicuiseur de 8 litres qui entend aller plus loin que la simple mijoteuse, en combinant saisie, …",
+      "url": "https://www.lesnumeriques.com/multicuiseur/ninja-foodi-possiblecooker-l-appareil-qui-veut-mettre-votre-gaziniere-au-chomage-technique-n248673.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/24/248673/2aff8727-we-ninja-foodi-possiblecooker-l-appareil-qui-veut-mettre-votre-gaziniere-au-chomage-technique__1200_678__35-216-1544-1008.jpg",
+      "publishedAt": "2025-12-28T07:15:00Z",
+      "content": "Le marketing na peur de rien, et surtout pas des superlatifs : voici le \"PossibleCooker\". Sil ne promet pas encore de transformer les pommes de terre en lingots, cet appareil entend bien remplacer le… [+2407 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Rick",
+      "title": "Actualité : Soldes / Bon plan – Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 \"4 étoiles\" à 149,95 € (-38%)",
+      "description": "Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 passe sous les 150 € chez Electro Depot soit une baisse d'environ 38% sur le prix habituellement constaté.",
+      "url": "https://www.lesnumeriques.com/multicuiseur/soldes-bon-plan-le-multicuiseur-moulinex-cookeo-80-recettes-ce854b10-4-etoiles-a-149-95-38-n249308.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/product/74/74389/73426bca-cookeo-80-recettes-ce854b10__1200_678__overflow.jpg",
+      "publishedAt": "2026-01-08T00:01:03Z",
+      "content": "Points forts\r\n<ul><li>Gain de temps.\r\n</li><li>Cuve antiadhésive.\r\n</li><li>Très simple d'emploi.\r\n</li><li>Application Moulinex avec de nombreuses recettes.\r\n</li><li>Le nettoyage et lentretien sont… [+2559 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Les Numériques" },
+      "author": "Rick",
+      "title": "Actualité : Soldes / Bon plan – Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 \"4 étoiles\" à 149,95 € (-18%)",
+      "description": "Le multicuiseur Moulinex Cookeo 80 recettes CE854B10 passe sous les 150 € chez Electro Depot soit une baisse d'environ 18% sur le prix habituellement constaté.",
+      "url": "https://www.lesnumeriques.com/multicuiseur/soldes-bon-plan-le-multicuiseur-moulinex-cookeo-80-recettes-ce854b10-4-etoiles-a-149-95-18-n249919.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/product/74/74389/73426bca-cookeo-80-recettes-ce854b10__1200_678__overflow.jpg",
+      "publishedAt": "2026-01-16T05:35:04Z",
+      "content": "Points forts\r\n<ul><li>Gain de temps.\r\n</li><li>Cuve antiadhésive.\r\n</li><li>Très simple d'emploi.\r\n</li><li>Application Moulinex avec de nombreuses recettes.\r\n</li><li>Le nettoyage et lentretien sont… [+2559 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Laura Perren",
+      "title": "La consommation de fromage réduirait le risque de démence, vous savez ce qu'il vous reste à faire",
+      "description": "Une nouvelle étude montre que consommer régulièrement du fromage gras réduit de 16% le risque de démence. Les amateurs de bleu voient leur plaisir coupable approuvé par la science.",
+      "url": "https://www.slate.fr/boire-manger/consommation-fromage-reduction-risque-demence-etude-neurologie-vitamines-calcium",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271857/original_271857.png",
+      "publishedAt": "2025-12-23T07:25:02Z",
+      "content": "Pas de culpabilité lorsque vous vous jetterez goulûment sur le plateau de fromages pendant les fêtes: votre cerveau vous remerciera plus tard. Une étude publiée dans la revue de l'Académie américaine… [+3069 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Mercosur : Cette fois c'est officiel, Ursula von der Leyen a signé l'accord pour l'UE",
+      "description": "Ursula von der Leyen a signé ce samedi à Asuncion, au Paraguay, l'accord de libre-échange entre l'Union européenne (UE) et le Mercosur",
+      "url": "https://www.20minutes.fr/monde/4196584-20260117-mercosur-fois-officiel-ursula-von-der-leyen-signe-accord-ue",
+      "urlToImage": "https://img.20mn.fr/bgZMw9-TQhG7l_zNXBSnbCk/1444x920_european-commission-president-ursula-von-der-leyen-addresses-the-media-at-eu-headquarters-in-brussels-tuesday-june-10-2025-ap-photo-geert-vanden-wijngaert-gvw103-25161495761995-2506101557",
+      "publishedAt": "2026-01-17T17:14:07Z",
+      "content": "C'est fois c'est officiel. L'UE et le Mercosur ont signé ce samedi à Asuncion, au Paraguay, leur fameux traité historique de libre-échange. « (Je préfère) un commerce juste plutôt que des droits de d… [+1066 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Romain Vitt",
+      "title": "« On n’achètera pas ces produits-là » : la grande distribution se révolte contre le Mercosur",
+      "description": "Alors que l'Union européenne vient de valider l'accord de libre-échange avec les pays du Mercosur, les géants français de la grande distribution affichent un front uni et catégorique : les viandes sud-américaines ne franchiront pas les portes de leurs enseign…",
+      "url": "https://www.presse-citron.net/on-nachetera-pas-produits-grande-distribution-revolte-contre-mercosur/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2026/01/mercosur-penurie-fruits-legumes-1600x900.jpg",
+      "publishedAt": "2026-01-13T17:34:42Z",
+      "content": "Le bras de fer était prévisible, mais personne n’anticipait une telle unanimité. Ce vendredi 9 janvier, Bruxelles a officiellement donné son feu vert à l’accord commercial UE-Mercosur, balayant les r… [+4045 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Emilie Petit",
+      "title": "Le poulet servi dans les cantines scolaires provient-il « à 100 % » d’Ukraine ? On inspecte les assiettes",
+      "description": "Une publication sur les réseaux sociaux, partagée plusieurs milliers de fois, affirme que le poulet servi dans la restauration scolaire serait importé en totalité d’Ukraine. Et que ce dernier serait farci « d’antibiotiques » et « d’eau de javel »",
+      "url": "https://www.20minutes.fr/planete/4192258-20260105-poulet-servi-cantines-scolaires-provient-100-ukraine-inspecte-assiettes",
+      "urlToImage": "https://img.20mn.fr/98e7SFdeTxeSiu3FsVdRuik/1444x920_la-sauce-yassa-est-ajoutee-dans-les-plats-de-poulet-la-cuisine-centrale-bio-prepare-4600-repas-par-jour-la-ville-de-clamart-propose-depuis-le-1er-avril-2011-52-de-composantes-bio-dans-les-menus-des-cantines-scolaires-soit-2-5-sur-les-5-composantes-bio-par-repas-tout-en-reduisant-chaque-annee-le-budget-consacre-aux-achats-de-produits-alimentaires-les-achats-de-produits-bio-representent-36-du-budget-de-la-cantine-afin-de-pouvoir-reduire-ses-couts-la-cuisine-doit-substituer-les-produits-industriels-par-des-produits-frais-et-cuisines-sur-place-clamart-france-15-02-2012-credit-durand-florence-sipa-1202210923",
+      "publishedAt": "2026-01-05T06:02:37Z",
+      "content": "Un peu plus dun an après les propos dApolline de Malherbe qui avait affirmé, le 18 novembre 2024, sur BFM TV, que « plus de la moitié du poulet consommé en France vient dUkraine », le spectre du « gr… [+5456 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Jérôme Gicquel",
+      "title": "Noël : Après la polémique, les viandes d’autruche, de zèbre ou de kangourou veulent de nouveau s’inviter à table",
+      "description": "En cette période de fêtes, certains se laissent tenter par de l’autruche, du kangourou ou du bison. Si ce marché de niche des viandes exotiques a pris du plomb dans l’aile après une polémique, il tente depuis de relever la tête",
+      "url": "https://www.20minutes.fr/tempo/food/tendance-food/4192453-20251224-noel-apres-polemique-viandes-autruche-zebre-kangourou-veulent-nouveau-inviter-table",
+      "urlToImage": "https://img.20mn.fr/OGcc1QDgQMWIAQg565v4SSk/1444x920_pour-le-repas-de-noel-certains-degusteront-de-l-autruche-du-kangourou-du-zebre-ou-du-bison",
+      "publishedAt": "2025-12-24T07:07:39Z",
+      "content": "Vous en avez un peu marre de la dinde ou du rôti de buf que vous servez chaque année pour les fêtes entre le plateau de fruits de mer et la bûche ? Alors pourquoi ne pas apporter une petite touche de… [+4061 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Emilie Petit",
+      "title": "Non, les produits halal n’ont pas envahi les rayons des grandes surfaces",
+      "description": "Le magasin Carrefour de Sartrouville, dans les Yvelines, a fait l’objet d’attaques après la publication d’une vidéo présentant un nouveau service de boucherie halal, ses détracteurs pointant du doigt une augmentation massive de ces produits en rayon",
+      "url": "https://www.20minutes.fr/consommation/4196864-20260120-non-produits-halal-envahi-rayons-grandes-surfaces",
+      "urlToImage": "https://img.20mn.fr/YSwAW_vGSP-DqgHCYCu4uyk/1444x920_ventes-d-alimentations-halal-la-pub-carrefour-market-le-plein-d-economies-halal-le-mans-sarthe-pays-de-la-loire-7-janvier-2021-07gilemichel-1-0604-2101081324-credit-gile-michel-sipa-2101081325",
+      "publishedAt": "2026-01-20T10:54:37Z",
+      "content": "Le halal nen finit plus de faire parler de lui. Alors que lenseigne de restauration rapide KFC vient dannoncer le lancement, le 21 janvier prochain, dune offre halal dans 24 de ses 404 restaurants fr… [+5251 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": "Marine Cygler",
+      "title": "La viande trouvée dans l’estomac d’un louveteau réécrit l’histoire du rhinocéros laineux",
+      "description": "Quelques siècles avant l’extinction des rhinocéros laineux, leur génome était étonnamment stable, ce qui laisse penser à une fin brutale de l’espèce. Un éclairage permis par la découverte d’un morceau de viande de cet animal dans l’estomac d’un louveteau préh…",
+      "url": "https://www.courrierinternational.com/article/prehistoire-la-viande-trouvee-dans-l-estomac-d-un-louveteau-reecrit-l-histoire-du-rhinoceros-laineux_239412",
+      "urlToImage": "https://focus.courrierinternational.com/2026/01/15/0/91/4482/2988/1200/630/60/0/36917c7_upload-1-mdc4349ua53o-tumat-pups-sampling-pup-1-vienna-mietje-germonpre-20180205-143404b.jpg",
+      "publishedAt": "2026-01-16T11:40:16Z",
+      "content": "Personne ne saura jamais de quoi est morte cette femelle louveteau, près de ce qui est aujourdhui la ville de Tumat, dans le nord de la Sibérie, en Russie, raconte New Scientist. Ce quon sait en reva… [+2435 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Futura" },
+      "author": "Christelle Cherrier, Rédactrice web",
+      "title": "Plus de protéines dans l’assiette ? La nouvelle pyramide alimentaire de Robert F. Kennedy Jr. fait réagir les experts",
+      "description": "En mettant davantage l’accent sur les protéines et en reléguant les aliments ultra-transformés au rang d’ennemis publics, la nouvelle pyramide alimentaire américaine entend simplifier les messages nutritionnels.",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-plus-proteines-assiette-nouvelle-pyramide-alimentaire-robert-f-kennedy-jr-fait-reagir-experts-130087/",
+      "urlToImage": "https://cdn8.futura-sciences.com/a1920/images/proteine-viande-USA.jpg",
+      "publishedAt": "2026-01-14T17:27:23Z",
+      "content": "Alors que près de 90% des dépenses de santé sont consacrées aux maladies chroniques et que plus de 70% des adultes sont en surpoids ou obèses aux États-Unis, l'administration américaine a publié le 7… [+4008 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "L’accord UE Mercosur contesté aussi en Irlande, par des milliers d’agriculteurs",
+      "description": "Plusieurs milliers d’agriculteurs se sont rassemblés samedi à Athlone dans le centre de l’Irlande pour protester contre l’accord de libre-échange entre l’Union européenne et les pays d’Amérique du sud membres du Mercosur",
+      "url": "https://www.20minutes.fr/monde/irlande/4195352-20260110-accord-ue-mercosur-conteste-aussi-irlande-milliers-agriculteurs",
+      "urlToImage": "https://img.20mn.fr/bmQqRZW8S1uxSFlNpOvdIik/1444x920_irish-farmers-take-part-in-a-protest-against-the-eu-mercosur-trade-deal-in-the-town-of-athlone-on-january-10-2026-several-thousand-irish-farmers-protested-on-january-10-against-the-european-union-s-trade-deal-with-the-south-american-bloc-mercosur-a-day-after-eu-states-approved-the-treaty-despite-opposition-from-ireland-and-france-photo-by-gareth-chaney-afp",
+      "publishedAt": "2026-01-10T15:27:26Z",
+      "content": "Les agriculteurs français sont loin dêtre les seuls en Europe à vouloir la peau du traité du Mercosur. Plusieurs milliers dagriculteurs se sont rassemblés samedi à Athlone dans le centre de lIrlande … [+1799 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Amandine Jonniaux",
+      "title": "Vous avez aimé la pub du loup d’Intermarché ? Voici 5 livres jeunesse à lire absolument",
+      "description": "Cette année, le conte de Noël d'Intermarché a fait pleurer des millions de spectateurs en montrant un loup mal-aimé qui rêve d'acceptation. En attendant la peluche officielle qui arrivera l'année prochaine, voici quelques lectures à glisser sous le sapin.",
+      "url": "https://www.journaldugeek.com/dossier/vous-avez-aime-la-pub-du-loup-dintermarche-voici-5-livres-jeunesse-a-lire-absolument/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/12/loup-livre-5-1600x900.jpg",
+      "publishedAt": "2025-12-23T09:03:02Z",
+      "content": "Depuis début décembre, la pub d’Intermarché fait le buzz sur les réseaux sociaux. Le conte en animation signé par Romance et Illogic suivait un loup solitaire lassé d’être le grand méchant de la forê… [+5194 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Zataz.com" },
+      "author": "Damien Bancal",
+      "title": "Non, Carrefour n’offre pas de viande sur Facebook",
+      "description": "Fausse promotion Carrefour sur Facebook, une arnaque visant données personnelles et bancaires via de faux sites et comptes usurpés....",
+      "url": "https://www.zataz.com/non-carrefour-noffre-pas-de-viande-sur-facebook/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/carrefour-faux-150x150.jpg",
+      "publishedAt": "2026-01-13T14:57:08Z",
+      "content": "Des messages frauduleux circulent sur Facebook, usurpant lidentité de Carrefour. Derrière des promotions irréalistes, une mécanique descroquerie bien rodée vise données personnelles et coordonnées ba… [+5124 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Espagne : L’épidémie de peste porcine africaine est-elle liée à une fuite de laboratoire ?",
+      "description": "Les premiers résultats allègent la pression sur le laboratoire d’une entreprise publique situé près d’une zone boisée où les premiers sangliers morts du virus ont été découverts fin novembre",
+      "url": "https://www.20minutes.fr/monde/espagne/4193736-20251230-espagne-epidemie-peste-porcine-africaine-liee-fuite-laboratoire",
+      "urlToImage": "https://img.20mn.fr/MOwzzKjPR128ACmAlh-mLCk/1444x920_iberian-pigs-fed-with-acorns-bred-to-produce-spanish-jamon-iberico-iberian-ham-de-bellota-are-pictured-at-a-pig-farm-in-ronda-on-december-6-2025-earlier-this-week-spain-deployed-more-than-100-army-troops-to-help-some-300-catalan-regional-officials-to-contain-an-outbreak-of-african-swine-fever-that-has-sparked-fears-for-the-country-s-powerful-pork-export-industry-swine-fever-does-not-affect-humans-but-is-highly-contagious-and-lethal-for-pigs-any-spread-of-the-disease-to-farms-could-seriously-harm-the-world-s-third-largest-producer-of-pork-and-pork-derivatives-the-virus-however-has-not-been-detected-on-any-of-the-farms-located-within-a-20-kilometer-radius-of-the-infected-area-photo-by-jorge-guerrero-afp",
+      "publishedAt": "2025-12-30T15:01:23Z",
+      "content": "Une piste de moins en moins crédible. Les analyses réalisées par le gouvernement catalan pour déterminer lorigine du foyer de peste porcine africaine déclaré près de Barcelone écartent pour linstant … [+2485 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Mikaël Libert",
+      "title": "« Pas des animaux de moindre valeur »... Les amis des poissons portent plainte contre le loup « mal aimé » d’Intermarché",
+      "description": "La pub d’Intermarché mettant en scène un loup devenu végétarien n’a pas plu a tout le monde. Notamment à l’ONG Bloom qui a déposé une plainte auprès du jury de déontologie publicitaire",
+      "url": "https://www.20minutes.fr/societe/4192935-20251223-animaux-moindre-valeur-amis-poissons-portent-plainte-contre-loup-mal-aime-intermarche",
+      "urlToImage": "https://img.20mn.fr/kmjC3Me9TvKA7QECGBKD0ik/1444x920_this-image-taken-from-video-and-released-by-agency-romance-shows-a-scene-of-the-two-and-a-half-minute-film-unloved-created-for-the-french-supermarket-company-intermarche-that-tells-the-story-of-a-lonely-wolf-who-chooses-to-change-romance-illogic-studios-wizz-nadege-loiseau-wibke-rauers-via-ap-dsob147-25347522450632-ap-provides-access-to-this-third-party-photo-solely-to-illustrate-news-reporting-or-commentary-on-facts-depicted-in-image-must-be-used-within-14-days-from-transmission-no-archiving-no-licensing-mandatory-creditno-resale-2512132000",
+      "publishedAt": "2025-12-23T11:02:41Z",
+      "content": "Intermarché sest payé un buzz mondial grâce à sa publicité racontant lhistoire dun loup mal aimé, décidant de devenir végétarien pour se faire accepter par les autres animaux de la forêt. Si le film … [+2615 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Crise agricole : Lecornu aurait promis des annonces concrètes pour les agriculteurs d’ici à vendredi",
+      "description": "Le Premier ministre Sébastien Lecornu doit annoncer d’ici à vendredi des mesures concrètes pour répondre aux revendications des agriculteurs, selon la FNSEA, alors que la mobilisation du secteur reprend",
+      "url": "https://www.20minutes.fr/politique/4194698-20260106-crise-agricole-lecornu-promis-annonces-concretes-agriculteurs-vendredi",
+      "urlToImage": "https://img.20mn.fr/8GWsgX4oR-qcmBF4EGNW2Ck/1444x920_arrivee-des-ministres-au-conseil-des-ministres-hebdomadaire-au-palais-de-l-elysee-le-5-janvier-2026-a-paris-paris-france-05-01-2026-arrival-of-the-ministers-at-the-weekly-council-of-ministers-meeting-at-the-elysee-palace-on-january-5-2026-in-paris-paris-france-05-01-2026-04harsin-arriveeconseilministres009-credit-isa-harsin-sipa-2601051028",
+      "publishedAt": "2026-01-06T20:34:30Z",
+      "content": "Le gouvernement doit annoncer dici à vendredi des mesures concrètes en réponse aux revendications agricoles, a indiqué mardi soir la FNSEA (le premier syndicat agricole) à lissue dune réunion à Matig… [+2668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Agriculture : L’UE confirme qu’Ursula von der Leyen signera bien samedi le traité avec le Mercosur",
+      "description": "L’UE va signer avec des pays du Mercosur (Argentine, Brésil, Paraguay, Uruguay) malgré l’opposition notamment de la France et de la colère de nombreux agriculteurs",
+      "url": "https://www.20minutes.fr/monde/bresil/4195431-20260112-agriculture-ue-confirme-ursula-von-der-leyen-signera-bien-samedi-traite-mercosur",
+      "urlToImage": "https://img.20mn.fr/xdKPpaM4RTSPCyzTVYgFcyk/1444x920_european-commission-president-ursula-von-der-leyen-right-greets-brazil-s-president-luiz-inacio-lula-da-silva-prior-to-a-meeting-at-eu-headquarters-in-brussels-monday-july-17-2023-ap-photo-geert-vanden-wijngaert-gvw103-23198270221645-2307170938",
+      "publishedAt": "2026-01-12T00:49:16Z",
+      "content": "Cest une annonce qui va notamment ravir le président brésilien Lula mais qui risque dans le même temps damplifier la colère dune partie des agriculteurs européens. La présidente de la commission euro… [+2206 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Le HuffPost avec AFP",
+      "title": "Un foyer de grippe aviaire détecté dans un élevage de volailles dans le Nord",
+      "description": "Dans la commune de Warhem, cet élevage compte environ 300 000 volailles. Le foyer détecté se situe à environ 5 kilomètres d’un foyer belge connu depuis le 23 décembre.",
+      "url": "https://www.huffingtonpost.fr/france/article/un-foyer-de-grippe-aviaire-detecte-dans-un-elevage-de-volailles-dans-le-nord_258766.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/12/31/0/0/6000/3375/1820/1023/75/0/785c088_upload-1-acktefvmnckv-afp-20251113-83xm6a4-v1-highres-spainhealthvirusanimalbirdflu.jpg",
+      "publishedAt": "2025-12-31T20:59:52Z",
+      "content": "Un nouveau foyer de grippe aviaire en France. Un foyer dinfluenza aviaire hautement pathogène (IAHP) a été confirmé mardi dans un élevage comptant environ 300 000 volailles à Warhem (Nord), a annoncé… [+1729 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": "Beejay Silcox",
+      "title": "Le cannibalisme dévore avec appétit tous les genres de littérature",
+      "description": "Ces romans viennent aussi bien du Japon, d’Argentine, des États-Unis que d’Australie ou de Corée du Sud. Souvent écrits par des femmes, ils mettent en scène des personnages, souvent féminins, qui se délectent de chair humaine. Le quotidien australien “The Age…",
+      "url": "https://www.courrierinternational.com/article/phenomene-le-cannibalisme-devore-avec-appetit-tous-les-genres-de-litterature_238314",
+      "urlToImage": "https://focus.courrierinternational.com/2025/12/19/57/0/3314/2209/1200/630/60/0/82bcc96_upload-1-dhuxwm9rbrwj-cost-2016-09-20-4542-w.jpg",
+      "publishedAt": "2026-01-04T14:47:03Z",
+      "content": "Des adolescents qui consomment la musique de leur idole, puis lhomme lui-même. Une critique gastronomique qui prépare un rôti aussi tendre que son amant disparu depuis peu. Deux jeunes fugueurs sont … [+1057 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Maëlle Roudaut avec AFP",
+      "title": "Accord UE-Mercosur : Ce changement de pied venu d’Italie n’est pas bon pour la France",
+      "description": "L’Italie a ouvert la porte à donner son feu vert, alors que Bruxelles espère signer très prochainement l’accord de libre-échange avec les pays latino-américains.",
+      "url": "https://www.huffingtonpost.fr/international/article/accord-ue-mercosur-ce-changement-de-pied-venu-d-italie-n-est-pas-bon-pour-la-france_258991.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2026/01/07/52/0/1024/576/1820/1023/75/0/dfc37dd_upload-1-ndxyqaicgyzt-afp-20260107-hl-bpavan-3011586-v1-midres-franceagriculturefarmingfarmersprotest.jpg",
+      "publishedAt": "2026-01-07T20:10:59Z",
+      "content": "Lhorizon se dégage pour laccord UE-Mercosur. Antonio Tajani, le ministre italien des Affaires étrangères, a déclaré ce mercredi 7 janvier quun tel traité « offre dénormes avantages et un potentiel co… [+2413 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Maëlle Roudaut avec AFP",
+      "title": "Pourquoi l’opposition officielle de Macron ne changera rien à la signature du traité Mercosur",
+      "description": "Emmanuel Macron a annoncé que la France voterait contre la signature de l’accord entre l’Union européenne et les pays du Mercosur.",
+      "url": "https://www.huffingtonpost.fr/international/article/pourquoi-l-opposition-officielle-de-macron-ne-changera-rien-a-la-signature-du-traite-mercosur_259024.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2026/01/06/0/0/2907/1635/1820/1023/75/0/646302a_upload-1-3sjxxk6zondy-afp-20260106-89qt8kn-v1-highres-franceukrainerussiaconflictdiplomacy.jpg",
+      "publishedAt": "2026-01-08T20:57:14Z",
+      "content": "Une décision tranchée, mais peu de conséquences. Alors que des agriculteurs manifestaient ce jeudi 8janvier jusque dans Paris, Emmanuel Macron a annoncé que la France voterait finalement « contre » l… [+2099 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Théa Doulcet",
+      "title": "Neuf avancées majeures pour les droits des animaux en 2025, tout n'était pas à jeter",
+      "description": "Malgré le poids des industries, plusieurs décisions politiques, économiques et technologiques ont marqué des progrès concrets pour la protection animale cette année.",
+      "url": "https://www.slate.fr/societe/avancees-majeures-droits-animaux-bilan-2025-souffrance-protection-fourrure-elevage-animalerie-oeufs-poules-poussins-crevettes",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271871/original_271871.jpg",
+      "publishedAt": "2025-12-26T06:55:02Z",
+      "content": "Tout n'est pas rose pour les animaux en 2025: tués pour leur fourrure, maltraités et abattus dans des conditions abominables dans les abattoirs, capturés ou élevés pour être exposés dans des zoos ou … [+5686 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Crise agricole : Lula mise sur une France isolée ne pouvant empêcher l’accord UE-Mercosur",
+      "description": "Le président du Brésil et Ursula von der Leyen veulent signer l’accord UE-Mercosur début 2026, malgré les réticences de l’Italie de Meloni – qui est prête à céder – et de la France",
+      "url": "https://www.20minutes.fr/monde/bresil/4192604-20251221-crise-agricole-lula-mise-france-isolee-pouvant-empecher-accord-ue-mercosur",
+      "urlToImage": "https://img.20mn.fr/T_zbCtj8S5WrA-ddCEwEeSk/1444x920_mandatory-credit-photo-by-marina-uezima-brazil-photo-press-shutterstock-16152936am-president-luiz-inacio-lula-da-silva-during-a-visit-to-expo-catadores-2025-at-the-anhembi-exhibition-pavilion-in-the-northern-zone-of-sao-paulo-this-friday-the-19th-president-lula-participates-in-the-expo-catadores-2025-ceremony-sao-paulo-brazil-19-dec-2025-shutterstock-editorial-president-lula-participates-i-16152936am-2512192332",
+      "publishedAt": "2025-12-21T07:13:03Z",
+      "content": "Avec la France dans son viseur, Luiz Inacio Lula da Silva ne relâche pas la pression sur Bruxelles au sujet de laccord avec le Mercosur. Le président brésilien a ainsi appelé samedi les dirigeants de… [+2771 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Caroline Vié",
+      "title": "« 28 ans plus tard : Le Temple des morts » : Les humains sont encore et toujours une infection",
+      "description": "Dans cette suite réussie de la saga créée par Alex Garland et Danny Boyle, les « Infectés » ne sont plus la pire des menaces",
+      "url": "https://www.20minutes.fr/arts-stars/cinema/4195355-20260113-28-ans-plus-tard-temple-morts-humains-encore-toujours-infection",
+      "urlToImage": "https://img.20mn.fr/TBh9PnDpTDmrm2rUdI4YcCk/1444x920_ralph-fiennes-dans-28-ans-apres-le-temple-des-morts-de-nia-da-costa",
+      "publishedAt": "2026-01-13T21:02:36Z",
+      "content": "28 ans plus tard : Le temple des mortsny va pas avec le dos de la main morte. Pour cette suite de 28 jours plus tard (2003), de 28 semaines plus tard (2007) de Juan Carlos Fresnadillo et de 28 ans pl… [+2908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": "Louise Otterbein",
+      "title": "Comment vont les Français ? Une journée dans un bistrot parisien",
+      "description": "Au rythme des cafés allongés et des verres de vin rouge, cette journaliste allemande s’est installée pour une journée dans un café de l’Est de Paris pour “prendre le pouls des Français”, entre crise politique, montée de l’extrême droite et autres sujets de gr…",
+      "url": "https://www.courrierinternational.com/article/reportage-comment-vont-les-francais-une-journee-dans-un-bistrot-parisien_238829",
+      "urlToImage": "https://focus.courrierinternational.com/2026/01/05/0/0/2622/1748/1200/630/60/0/f9fe49e_upload-1-u7cnic6lkuau-webbenedicte-2021-09-09-3721-copie.jpg",
+      "publishedAt": "2026-01-06T04:00:27Z",
+      "content": "Cest la merde*, lâche Annick. Comme toujours, non ? Elle rit, et explique : Non, en ce moment, cest encore pire. Mais cest vrai quon dit peut-être ça tout le temps en France.\r\nCest une matinée de déc… [+1050 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Bobbi Sutherland",
+      "title": "Pour vraiment profiter des fêtes de fin d'année, il faudrait revenir au Moyen Âge",
+      "description": "Oui, les paysans médiévaux travaillaient dur. Pourtant, lorsqu'arrivait Noël, ils profitaient de périodes de temps libre bien plus longues et festives que celles dont nous disposons aujourd'hui.",
+      "url": "https://www.slate.fr/culture/pour-vraiment-profiter-fetes-fin-annee-revenir-moyen-age-noel-avent-decembre-janvier-fevrier-vie-paysans-histoire",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271922/original_271922.jpg",
+      "publishedAt": "2025-12-31T19:00:02Z",
+      "content": "Lorsque l'on pense au Moyen Âge en Europe, viennent en tête des images de pauvreté écrasante, de superstition et d'obscurantisme. Pourtant, la réalité de cette période de mille ans, comprise entre 50… [+7904 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": "Marie Bélœil",
+      "title": "Brigitte Bardot et les animaux, un engagement peu salué à l’étranger",
+      "description": "À partir de 1973, Brigitte Bardot a renoncé au cinéma pour se consacrer à la défense des droits des animaux. Mais si sa fondation est présente dans 70 pays, son action ne suscite que des mentions éparses dans la presse internationale. Explications.",
+      "url": "https://www.courrierinternational.com/article/gros-plan-brigitte-bardot-et-les-animaux-un-engagement-peu-salue-a-l-etranger_238863",
+      "urlToImage": "https://focus.courrierinternational.com/2025/12/30/570/0/3184/2122/1200/630/60/0/c060166_upload-1-spcdkoqhz6g8-000-896e2we-1.jpg",
+      "publishedAt": "2025-12-31T11:19:35Z",
+      "content": "Autant, à lété 2024, la disparition dAlain Delon avait suscité de lémoi en Chine ou au Japon, autant le décès de Brigitte Bardot a fait couler peu dencre en Asie. La Française ny était pas adulée en … [+2520 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Éva Craine",
+      "title": "Ces chefs de renom apportent un soutien total aux agriculteurs : « La France a besoin d’eux »",
+      "description": "Sur « BFTMV », trois chefs renommés expriment aussi leur colère vis-à-vis de la stratégie française contre la dermatose nodulaire contagieuse.",
+      "url": "https://www.huffingtonpost.fr/france/article/ces-chefs-de-renom-apportent-un-soutien-total-aux-agriculteurs-la-france-a-besoin-d-eux_258479.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2025/12/19/580/0/5568/3132/1820/1023/75/0/911c533_upload-1-6ykfv0wyh2nw-afp-20251219-88n87jc-v1-highres-francepoliticsagricultureprotest.jpg",
+      "publishedAt": "2025-12-21T21:10:25Z",
+      "content": "Lagriculture représente un chaînon indispensable à leur travail de cuisiner. Cest pourquoi des chefs illustres, parmi lesquels le chef étoilé et juré de Top Chef Glenn Viel, ont apporté ce dimanche 2… [+2593 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Théa Doulcet",
+      "title": "Cet oiseau est-il vraiment le plus dangereux du monde?",
+      "description": "Avec sa taille impressionnante et ses griffes acérées, le casoar s'est taillé une réputation sulfureuse dans l'imaginaire collectif. Pourtant, les scientifiques tempèrent, rappelant que les attaques restent rarissimes et souvent provoquées par l'homme.",
+      "url": "https://www.slate.fr/sciences/oiseau-dangereux-monde-australie-nouvelle-guinee-casoar-casque-menace-violent-dinosaure-extinction-foret-plantes-protection",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271948/original_271948.jpg",
+      "publishedAt": "2026-01-12T11:00:01Z",
+      "content": "Le casoar n'est pas n'importe quel oiseau. Ce volatile, qu'on retrouve majoritairement en Australie, peut atteindre jusqu'à 1m70, peser 80 kilos, faire des bonds de deux mètres et courir à plus de 50… [+3868 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Laura Perren",
+      "title": "Les orques sont de plus en plus cruelles et violentes et ça intrigue les chercheurs",
+      "description": "Attaques coordonnées contre des baleines bleues, pillage de bateaux de pêche, stratégies transmises de génération en génération… Les épaulards démontrent une capacité d'adaptation et d'apprentissage collectif qui inquiète les scientifiques.",
+      "url": "https://www.slate.fr/sciences/orques-cruelles-violentes-attaques-chasse-peches-phoque-saumon-baleine-apprentissage-intelligence",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_271919/original_271919.png",
+      "publishedAt": "2026-01-05T11:00:00Z",
+      "content": "En mars 2019, une équipe de chercheurs assiste à une scène sanglante au large de la côte sud-ouest australienne: une douzaine d'orques s'attaquent à une baleine bleue adulte, lui arrachant d'énormes … [+3671 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slate.fr" },
+      "author": "Clément Poursain",
+      "title": "Quel est le secret de l'armée ukrainienne pour être aussi efficace? Un ancien Marine américain a la réponse",
+      "description": "Vingt ans après avoir été formée par des Marines américains, l'armée ukrainienne a inversé le rapport maître-élève. Faute de moyens, elle a fait de la débrouille et de la réparation un moteur d'innovation militaire.",
+      "url": "https://www.slate.fr/monde/secret-armee-ukrainienne-russie-guerre-marine-us-bricolage-reparation-drones",
+      "urlToImage": "https://cdn.slate.fr/uploads/store/story_272028/original_272028.jpg",
+      "publishedAt": "2026-01-20T07:25:02Z",
+      "content": "En 2005, le sergent des Marines américains Troy Smothers n'imaginait pas que les jeunes soldats ukrainiens qu'il entraînait alors deviendraient, vingt ans après, une des armées les plus inventives et… [+4005 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Maroussia Dubreuil",
+      "title": "La côte de bœuf de Viktor : « Avec les mini-crédits, je peux échelonner plein d’achats, même la viande »",
+      "description": "« Mon p’tit luxe » (5/8). Ces modestes écarts dans un budget très serré, ils se les accordent de temps en temps, pour embellir un quotidien duraille. Voilà vingt-cinq ans que Viktor, 52 ans, travaille dans la grande distribution, en banlieue parisienne. Avec …",
+      "url": "https://www.lemonde.fr/intimites/article/2026/01/01/la-cote-de-b-uf-de-viktor-avec-les-mini-credits-je-peux-echelonner-plein-d-achats-meme-la-viande_6660285_6190330.html",
+      "urlToImage": "https://img.lemde.fr/2025/12/01/23/0/4016/2677/1440/960/60/0/dcdb102_upload-1-x5obe3a7uqt3-petitsluxes-viktor-4.jpg",
+      "publishedAt": "2026-01-01T16:00:09Z",
+      "content": "La côte de buf de Viktor, achetée 35 euros au marché dAligre, à Paris. « A ce prix-là, faut pas se rater », dit-il, le 8 octobre 2025. MAROUSSIA DUBREUIL POUR « LE MONDE »\r\n« Une fois par mois, je mo… [+1233 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Christelle Pellissier",
+      "title": "« Aucun aliment n’est interdit » : Un menu de réveillon léger (mais gourmand) élaboré par une nutritionniste",
+      "description": "En manque d’inspiration pour le traditionnel repas du réveillon de Noël ? Pas de panique, une nutritionniste propose un menu équilibré et léger qui ravira vos papilles (et votre estomac)",
+      "url": "https://www.20minutes.fr/tempo/food/4191935-20251221-aucun-aliment-interdit-menu-reveillon-leger-gourmand-elabore-nutritionniste",
+      "urlToImage": "https://img.20mn.fr/AupE_ZIWRd6wcqN6vR3_YSk/1444x920_le-chapon-la-pintade-ou-la-dinde-sont-des-viandes-maigres-pauvres-en-graisses-saturees-et-faciles-a-assimiler-meme-lors-d-un-repas-tardif-conseille-une-nutritionniste",
+      "publishedAt": "2025-12-21T07:02:36Z",
+      "content": "Un repas gargantuesque. Cest (aussi) pour ça quon les aime les repas des fêtes de fin dannée. Mais attention à ne pas faire excès sur excès au risque de le regretter - et de ruiner la suite des festi… [+3957 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "20 Minutes avec AFP",
+      "title": "Mercosur : L’UE n’en démord pas et entend bien signer vite le traité commercial",
+      "description": "Bruxelles espère « bientôt » signer l’accord commercial avec les pays latino-américains du Mercosur. Elle note des « progrès » dans les discussions entre Européens, et ce malgré la colère des agriculteurs",
+      "url": "https://www.20minutes.fr/monde/4194440-20260105-mercosur-ue-demord-entend-bien-signer-vite-traite-commercial",
+      "urlToImage": "https://img.20mn.fr/YMJmJPHRToa1k7WdropDNik/1444x920_les-agriculteurs-manifestent-depuis-des-mois-contre-la-signature-d-un-accord-avec-le-mercosur-et-l-union-europeenne",
+      "publishedAt": "2026-01-05T15:25:12Z",
+      "content": "LUnion européenne est sur la « bonne route » pour la signature du traité de libre-échange avec les pays du Mercosur, a déclaré ce lundi la porte-parole de la Commission européenne, Paula Pinho. Et ce… [+3986 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Gaétan Supertino et Christophe Sales",
+      "title": "EN DIRECT, manifestations en Iran : au moins 192 morts selon une ONG, le président iranien doit s’exprimer dimanche",
+      "description": "Le président iranien Massoud Pezeshkian abordera la situation économique et les « revendications du peuple » dans une interview qui sera diffusée dimanche, après deux semaines de manifestations antigouvernementales, a rapporté la télévision d’Etat.",
+      "url": "https://www.lemonde.fr/international/live/2026/01/11/en-direct-manifestations-en-iran-au-moins-192-morts-selon-une-ong-le-president-iranien-doit-s-exprimer-dimanche_6661368_3210.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/10/388/0/2680/1340/1440/720/60/0/cd2e9d7_ftp-1-j3o2uk4tqhp1-856c9a2ac81d47fdbd09f473cc02a601-0-0335ed37be494b64aedcb09bd1897394.jpg",
+      "publishedAt": "2026-01-11T11:26:28Z",
+      "content": "Sur le terrain, la mobilisation semble continuer. Des vidéos publiées sur les réseaux sociaux ont montré de grandes foules défilant dans la nuit de samedi à dimanche dans plusieurs villes iraniennes,… [+1707 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Futura" },
+      "author": "Christelle Cherrier, Rédactrice web",
+      "title": "Attention : ces aliments stars des fêtes peuvent provoquer une intoxication si on néglige ces réflexes",
+      "description": "À l’approche des fêtes, les menus se ressemblent souvent : dinde ou chapon au four, saumon fumé à l’apéritif, huîtres bien fraîches, escargots beurrés, foie gras et desserts maison. Des plats qui font partie de la tradition… mais aussi des aliments plus fragi…",
+      "url": "https://www.futura-sciences.com/sante/actualites/alimentation-attention-ces-aliments-stars-fetes-peuvent-provoquer-intoxication-si-on-neglige-ces-reflexes-129336/",
+      "urlToImage": "https://cdn8.futura-sciences.com/a1920/images/repas-fete-noel.jpeg",
+      "publishedAt": "2025-12-21T15:57:58Z",
+      "content": "Selon lOrganisation mondiale de la santé, près de 600 millions de personnes dans le monde tombent malades chaque année à cause d'aliments contaminés par des pathogènes dorigine alimentaire.\r\nEn Franc… [+3867 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": "Arnaud Jadoul",
+      "title": "Südpack cède ses activités américaines à PPC Flex",
+      "description": "Le fabricant allemand de films et sachets plastique se sépare de son usine d’Oak Creek, dans le Wisconsin. Les deux entreprises concluent un partenariat, en particulier dans les segments de la viande et du fromage.",
+      "url": "https://www.usinenouvelle.com/emballage/sudpack-cede-ses-activites-americaines-a-ppc-flex.UDUCTSORXRDABJ2CXXBQ5BRSDA.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/3IATJ3LIBNG7VBCPNOOSBSVUOU.jpg?smart=true&auth=66dce5ba7a6fc7b5dcf7febb65e1b17bda28ea3fbfae55489f61aed2be6fbaf4&width=1200&height=630",
+      "publishedAt": "2026-01-14T08:00:00Z",
+      "content": "Huit ans après sêtre implanté aux Etats-Unis en rachetant Seville Flexpack, lallemand Südpack révise sa stratégie outre-Atlantique. Il y cède ses activités à laméricain PPC Flex. Lopération inclut lu… [+1237 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Raphaël Bernard",
+      "title": "Accord UE-Mercosur : Brésil, la superpuissance agricole qui nourrit le monde",
+      "description": "L’agriculture représente près d’un quart du PIB du pays et emploie un Brésilien sur cinq. Un décollage amorcé il y a quarante ans et qui repose en grande partie sur le développement des OGM et la transformation des sols.",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/10/accord-ue-mercosur-bresil-la-superpuissance-agricole-qui-nourrit-le-monde_6661294_3234.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/10/56/0/4734/3156/1440/960/60/0/95d93fb_upload-1-rkzr0idecogs-000-97l9zp.jpg",
+      "publishedAt": "2026-01-10T13:00:25Z",
+      "content": "Une moissonneuse-batteuse récolte du soja, à Salto do Jacui, au Brésil, le 5 avril 2021. SILVIO AVILA/AFP\r\nPremier exportateur mondial de soja, de jus dorange, de viande bovine, représentant respecti… [+1221 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le HuffPost" },
+      "author": "Maxime Dhuin avec AFP",
+      "title": "Mercosur : avant la signature d’un accord, la France suspend ces importations pour rassurer les agriculteurs",
+      "description": "Alors que l’UE est sur le point de signer un traité de libre-échange avec plusieurs pays sud-américains, Paris assume ses désaccords avec la Commission européenne.",
+      "url": "https://www.huffingtonpost.fr/international/article/mercosur-avant-la-signature-d-un-accord-la-france-suspend-ces-importations-pour-rassurer-les-agriculteurs_258962.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2023/11/13/186/0/2121/1193/1820/1023/75/0/d743f76_1699885279788-gettyimages-1465219564-2.jpg",
+      "publishedAt": "2026-01-07T07:29:46Z",
+      "content": "EN BREFLa France a décidé de suspendre les importations de produits traités avec quatre substances interdites dans lUE.Cette décision intervient dans lattente de la signature de laccord commercial en… [+5553 chars]"
+    },
+    {
+      "source": { "id": null, "name": "20 Minutes" },
+      "author": "Anne Demoulin",
+      "title": "Mort de Brigitte Bardot : Ses adieux au cinéma et son combat pour les animaux",
+      "description": "Brigitte Bardot, décédée ce dimanche à l’âge de 91 ans, a abandonné sa carrière au cinéma en 1973 pour dédier sa vie à la défense de la cause animale",
+      "url": "https://www.20minutes.fr/arts-stars/culture/4179983-20251228-mort-brigitte-bardot-adieux-cinema-combat-animaux",
+      "urlToImage": "https://img.20mn.fr/GDdKt1HMRXijI4wVGcbjgyk/1444x920_l-actrice-francaise-brigitte-bardot-presidente-de-la-fondation-brigitte-bardot-tient-un-magazine-avec-la-photo-d-un-bebe-phoque-lors-d-une-conference-organisee-avec-la-fondation-franz-weber-pour-appeler-au-boycott-des-produits-canadiens-au-centre-international-de-conferences-de-geneve-en-suisse-le-lundi-5-decembre-2005",
+      "publishedAt": "2025-12-28T10:05:47Z",
+      "content": "À lapproche de la quarantaine, Brigitte Bardot nen peut plus dêtre B.B. ! Sur le tournage de Colinot trousse-chemise de Nina Companeez dans le Périgord, lactrice sauve le 6 juin 1973 une petite chèvr… [+6094 chars]"
+    },
+    {
+      "source": { "id": null, "name": "LSA" },
+      "author": "Charlotte Barriquand",
+      "title": "Mercosur : après l'arrêté sur les fruits d’Amérique du Sud, Interbev interpelle l’État sur la viande",
+      "description": "À la veille de la publication annoncée d’un arrêté gouvernemental visant à suspendre l’importation de fruits et légumes d’Amérique du Sud contenant des résidus de substances interdites en Europe, l’Association nationale interprofessionnelle du bétail et des v…",
+      "url": "https://www.lsa-conso.fr/arrete-sur-les-fruits-d-amerique-du-sud-interbev-interpelle-l-etat-sur-la-viande,463858",
+      "urlToImage": "image.png",
+      "publishedAt": "2026-01-06T17:24:00Z",
+      "content": "Verifying your browser before proceeding..."
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": "Pierre-Henri Girard Claudon",
+      "title": "L’agroalimentaire est la première victime de la chute des échanges commerciaux : où en sont les principales filières touchées par des surtaxes douanières ?",
+      "description": "L’année 2025 a été marquée par un décrochage inédit de la balance commerciale de l’agroalimentaire français. En cause, notamment, les restrictions des échanges qui ont ciblé quatre des locomotives des exportations du pays : les vins et spiritueux, les céréale…",
+      "url": "https://www.usinenouvelle.com/agro/lagroalimentaire-est-la-premiere-victime-de-la-chute-des-echanges-commerciaux-ou-en-sont-les-principales-filieres-touchees-par-des-surtaxes-douanieres.GPKTBI63XFGCBAKQLHUKZRN23E.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/SHHJEKQTC5M2JGHACVBPGLYN2A.jpg?smart=true&auth=0cafa7b236f2e491937184d57134e6b3cfb2f752262617af00b8a4f9977b1c8b&width=1200&height=630",
+      "publishedAt": "2026-01-09T05:30:00Z",
+      "content": "La chute brutale de la balance commerciale de lagroalimentaire français en 2025 inquiète. LInsee rappelle, dans une publication parue juste avant Noël, que «alors que les produits agricoles et agroal… [+6554 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Zataz.com" },
+      "author": "Damien Bancal",
+      "title": "Cyberinfo de la semaine du 16 janvier 2026",
+      "description": "Cyberinfo ZATAZ de la semaine du 16 janvier 2026 : hack, piratage et opérations internationales cyber....",
+      "url": "https://www.zataz.com/cyberinfo-de-la-semaine-du-16-janvier-2026/",
+      "urlToImage": "https://www.zataz.com/wp-content/uploads/news-de-la-semaine-2026-150x150.jpg",
+      "publishedAt": "2026-01-16T14:47:58Z",
+      "content": "Bonjour à toutes et tous,\r\nCette semaine, l’alerte monte autour de Grok, la solution dIA dElon Musk, accusée davoir généré des deepfakes sexuels en masse. Une enquête internationale est en cours, ave… [+7850 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": null,
+      "title": "Un régime bon pour la planète, bon pour la santé et bon pour le porte-monnaie",
+      "description": "Voilà une étude qui apporte un contrepoint salutaire à tous ceux qui opposent fin du monde et fin du mois. Elle fait la démonstration qu’on pourrait aligner les objectifs sanitaires, économiques et climatiques, et ce partout dans le monde.",
+      "url": "https://www.courrierinternational.com/article/climatiques-un-regime-bon-pour-la-planete-bon-pour-la-sante-et-bon-pour-le-porte-monnaie_239346",
+      "urlToImage": "https://focus.courrierinternational.com/2023/02/15/0/124/1804/1203/1200/630/60/0/f787471_1676471103560-climatique.png",
+      "publishedAt": "2026-01-15T06:00:13Z",
+      "content": "Voilà une étude qui apporte un contrepoint salutaire à tous ceux qui opposent fin du monde et fin du mois. Elle fait la démonstration quon pourrait aligner les objectifs sanitaires, économiques et cl… [+5660 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Courrier International" },
+      "author": "Inácio Araujo",
+      "title": "“Les Voyages de Tereza” : l’échappée belle d’une aïeule brésilienne, à découvrir au Forum des images, à Paris",
+      "description": "Ce 21 janvier débute au Forum des images, à Paris, le festival Un état du monde. L’occasion d’explorer l’actualité mondiale à travers le prisme du cinéma, et de découvrir des films étrangers en avant-première. Parmi eux, le long-métrage brésilien “Les Voyages…",
+      "url": "https://www.courrierinternational.com/article/cinema-les-voyages-de-tereza-l-echappee-belle-d-une-aieule-bresilienne-a-decouvrir-au-forum-des-images-a-paris_238984",
+      "urlToImage": "https://focus.courrierinternational.com/2026/01/13/19/0/1920/1280/1200/630/60/0/25560a7_upload-1-qwgfwqtu5px9-o-ultimo-azul-1-guillermo-garza-desvia.jpg",
+      "publishedAt": "2026-01-20T10:32:14Z",
+      "content": "Ce nest pas tant de lavenir que nous parle Les Voyages de Tereza. Le film tient plutôt de lallégorie, ou peut-être du pas de côté par rapport au présent que nous vivons, que nous connaissons, à moins… [+4030 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Geek Show" },
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Steak de tricératops ou ragoût de stégosaure ? La science ose répondre à cette envie culinaire totalement folle",
+      "description": "Imaginez : un steak de tricératops bien saignant ou une blanquette de stégosaure mijotée à souhait. Absurde ? Pas tant que ça. En étudiant leurs descendants modernes comme les oiseaux ou les crocodiles, la science tente aujourd’hui d’imaginer quel goût auraie…",
+      "url": "https://dailygeekshow.com/?p=999903",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2026/01/steak-de-triceratops-ou-ragout-de-stegosaure-la-science-ose-repondre-a-cette-envie-culinaire-totalement-folle.webp",
+      "publishedAt": "2026-01-07T18:37:00Z",
+      "content": "Imaginez : un steak de tricératops bien saignant ou une blanquette de stégosaure mijotée à souhait. Absurde ? Pas tant que ça. En étudiant leurs descendants modernes comme les oiseaux ou les crocodil… [+3442 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lalibre.be" },
+      "author": "Belga Belga",
+      "title": "\"La Wallonie dit non, et reste sur le non\" : Anne-Catherine Dalcq maintient son opposition au traité Mercosur",
+      "description": "La Wallonie maintient son opposition au traité de libre-échange avec les pays du Mercosur, estimant que les quotas et le manque de réciprocité des normes mettent en danger les filières agricoles locales. ...",
+      "url": "https://www.lalibre.be/belgique/politique-belge/2026/01/07/la-wallonie-dit-non-et-reste-sur-le-non-anne-catherine-dalcq-maintient-son-opposition-au-traite-mercosur-DKRIVHUFLJGNLDSC4SRZWFFLH4/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/7HFPWCBUNNEPPL6KRSK7WSE4NU.jpg?auth=830fafa6714c20e3c2c5e660081e1f7e604d6a1587155a68f145bca870dea518&width=1200&height=630&quality=85&focal=2000%2C1334",
+      "publishedAt": "2026-01-07T18:44:38Z",
+      "content": "La Wallonie maintient son opposition au traité de libre-échange avec les pays du Mercosur, a indiqué mercredi la ministre wallonne de l'Agriculture, Anne-Catherine Dalcq, à l'issue d'une réunion extr… [+681 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gameblog" },
+      "author": "AUR",
+      "title": "Disney Dreamlight Valley va ajouter deux personnages cultes d'un classique de 70 ans que vous adorez tous",
+      "description": "Disney Dreamlight Valley promet une année 2026 toujours aussi remplie en termes de contenus gratuits. Un film culte vieux de 70 ans sera à l'honneur sous peu.",
+      "url": "https://www.gameblog.fr/jeu-video/ed/news/disney-dreamlight-valley-2026-belle-clochard-708391",
+      "urlToImage": "https://cdn-uploads.gameblog.fr/img/news/408175_634d66e93b80a.jpg",
+      "publishedAt": "2025-12-29T10:15:00Z",
+      "content": "Disney Dreamlight Valley promet une année 2026 toujours aussi remplie en termes de contenus gratuits. Un film culte vieux de 70 ans sera à l'honneur sous peu.Les prochaines nouveautés de Disney Dream… [+2040 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Louise Vallée et Allison Ferrera (service photo)",
+      "title": "EN DIRECT, colère des agriculteurs : la FNSEA dénonce « une trahison de la souveraineté agricole européenne » et affirme qu’elle « poursuit le combat »",
+      "description": "La Fédération nationale des syndicats d’exploitants agricoles (FNSEA) a dénoncé l’approbation du traité entre l’UE et le Mercosur, survenue vendredi à la suite du vote d’une majorité d’Etats membres de l’UE.",
+      "url": "https://www.lemonde.fr/economie/live/2026/01/09/en-direct-colere-des-agriculteurs-la-fnsea-denonce-une-trahison-de-la-souverainete-agricole-europeenne-et-affirme-qu-elle-poursuit-le-combat_6660964_3234.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/09/460/0/3855/1927/1440/720/60/0/6249704_ftp-1-yr8ze5frtyst-5839100-01-06.jpg",
+      "publishedAt": "2026-01-09T14:03:24Z",
+      "content": "Bonsoir, \r\nPourquoi ne parle t'on que des râleurs alors que nombre de secteurs professionnels sont plutôt gagnants ?\r\nMerci, \r\n Curieuse\r\nBonjour,\r\nComme vous le soulignez, laccord de libre-échange a… [+3282 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Boris Bastide",
+      "title": "Suzy Bemba, actrice adepte du grand écart",
+      "description": "« Promesses 2026 » (8/12). L’actrice de 25 ans, révélée par la série « L’Opéra », sera à l’affiche d’au moins trois films cette année, dans des rôles très différents.",
+      "url": "https://www.lemonde.fr/culture/article/2026/01/13/suzy-bemba-actrice-adepte-du-grand-ecart_6661767_3246.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/12/529/0/2500/1666/1440/960/60/0/7b7f9c9_upload-1-30o6jkueq21h-rom0247325.jpg",
+      "publishedAt": "2026-01-13T05:00:29Z",
+      "content": "Suzy Bemba, à Cannes, en mai 2024. MARIE ROUGE/PASCO&amp;CO\r\n« Là, jai trop envie de faire un pot-au-feu. En sortant, je vais aller macheter de la viande. » Quand on la rencontre en ce jeudi de décem… [+698 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Maroussia Dubreuil",
+      "title": "Les légumes frais de Ferhat : « Depuis que j’ai retrouvé un logement, je cuisine à nouveau pour le plaisir »",
+      "description": "« Mon p’tit luxe » (3/8). Ces modestes écarts dans un budget très serré, ils se les accordent de temps en temps, pour embellir un quotidien duraille. A 48 ans, Ferhat, vit à Lyon avec quelques dizaines d’euros par mois à consacrer à la nourriture. En bon chef…",
+      "url": "https://www.lemonde.fr/intimites/article/2025/12/30/les-legumes-frais-de-ferhat-depuis-que-j-ai-retrouve-un-logement-je-cuisine-a-nouveau-pour-le-plaisir_6659797_6190330.html",
+      "urlToImage": "https://img.lemde.fr/2025/11/21/167/0/4016/2677/1440/960/60/0/56983b3_upload-1-gbgvihlpipeh-petitsluxes-11-ferhat.jpg",
+      "publishedAt": "2025-12-30T05:00:17Z",
+      "content": "Malgré ses petits revenus, Ferhat tient à cuisiner des légumes frais. Dans les cuisines du Marché des sages, lépicerie solidaire de lArmée du salut, à Lyon, il anime régulièrement des cours de cuisin… [+1289 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Laurence Girard",
+      "title": "La Chine impose des taxes provisoires à des produits laitiers européens, dont la crème française Elle & Vire",
+      "description": "Le ministère du commerce chinois a imposé des droits de douane pouvant aller jusqu’à 42,7 % d’ici à fin février 2026. L’industriel français Savencia, qui commercialise des marques grand public (Caprice des Dieux, Tartare…), est spécifiquement ciblé.",
+      "url": "https://www.lemonde.fr/economie/article/2025/12/22/la-chine-impose-des-taxes-provisoires-a-des-produits-laitiers-europeens-dont-la-creme-francaise-elle-vire_6659153_3234.html",
+      "urlToImage": "https://img.lemde.fr/2025/12/22/91/0/4032/2688/1440/960/60/0/0ebc7f2_upload-1-r9gt1zrykdub-ap24234405055522.jpg",
+      "publishedAt": "2025-12-22T18:00:10Z",
+      "content": "Un homme devant un rayon de fromages importés dEurope, dans un supermarché de Pékin (Chine), le 21 août 2024. NG HAN GUAN / AP\r\nLa Chine poursuit ses opérations de représailles contre lEurope. Avec e… [+1735 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Le Monde avec AFP",
+      "title": "En Irlande, des milliers d’agriculteurs manifestent contre l’accord UE-Mercosur",
+      "description": "Au lendemain du feu vert donné par la Commission européenne à cet accord, de nombreux tracteurs ont convergé vers la petite localité d’Athlone, dans le centre du pays.",
+      "url": "https://www.lemonde.fr/economie/article/2026/01/10/en-irlande-des-milliers-d-agriculteurs-manifestent-contre-l-accord-ue-mercosur_6661300_3234.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/10/0/0/5500/3666/1440/960/60/0/06b44ef_ftp-1-ozvqnt0kxvnm-2026-01-10t110441z-632505964-rc2ayiamb75o-rtrmadp-3-eu-mercosur-ireland.JPG",
+      "publishedAt": "2026-01-10T13:24:10Z",
+      "content": "Lors dune manifestation dagriculteurs contre laccord de libre-échange UE-Mercosur, à Athlone, en Irlande, le 10 janvier 2026. CLODAGH KILCOYNE/REUTERS\r\nPlusieurs milliers dagriculteurs se sont rassem… [+1959 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le Dauphiné Libéré" },
+      "author": "La rédaction",
+      "title": "Consommation. Strasbourg, Grenoble, Nancy : la liste des restaurants KFC qui passeront au 100% halal",
+      "description": "La chaîne de poulet frit a annoncé que 24 de ses 404 restaurants changeraient leur carte le 21 janvier pour ne proposer que de la viande certifié halal. Découvrez la liste des restaurants concernés.",
+      "url": "https://www.ledauphine.com/economie/2026/01/15/strasbourg-grenoble-nancy-la-liste-des-restaurants-kfc-qui-passeront-au-100-halal",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9169162F-607E-4560-A1FE-4ECE49B16512/FB1200/photo-1768507655.jpg",
+      "publishedAt": "2026-01-15T21:23:00Z",
+      "content": "Les 24 restaurants concernés\r\nRégion Grand-Est : Strasbourg Centre-Ville, Strasbourg La Vigie, Strasbourg Rivetoile, Strasbourg 1re Armée, Fegershein, Nancy Laxou, Essey-lès-Nancy, Mulhouse, Troyes L… [+329 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Est Républicain" },
+      "author": null,
+      "title": "Vidéo. $content.TitleNoTags",
+      "description": "Après le “Dry January” pour réduire sa consommation d’alcool en janvier, la nouvelle tendance, c’est le “Veganuary”. L’objectif, manger végan pendant tout le mois pour réduire sa consommation de viande, et agir pour l’environnement.",
+      "url": "https://www.estrepublicain.fr/videos/le-veganuary-ce-defi-pour-reduire-sa-consommation-de-viande-35800pf",
+      "urlToImage": "https://medialb.ultimedia.com/multi/sql5x/35800pf-O.jpg",
+      "publishedAt": "2026-01-18T17:00:00Z",
+      "content": "Le Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finali… [+854 chars]"
+    },
+    {
+      "source": { "id": null, "name": "dh.be" },
+      "author": "Sofie Dumont",
+      "title": "La recette de la semaine: pain de viande avec croquettes et sauce moutarde",
+      "description": "De la viande hachée juteuse, des pommes caramélisées au goût sucré, une touche acidulée de canneberges… c’est simple, convivial et plein de saveurs. Parfait pour un repas de la semaine, car tout peut être préparé à l’avance. ...",
+      "url": "https://www.dhnet.be/lifestyle/food/2026/01/19/la-recette-de-la-semaine-pain-de-viande-avec-croquettes-et-sauce-moutarde-AT2YQVN5I5GKNPANPVHETR3HRY/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/BEFFI6NHGVF6RIEYOSQHI7VGG4.jpg?auth=26ad06eb3b94bfd3d399e267e052e96fd1f2d245f0dbae6bdf380fe6b92997c2&width=1200&height=630&quality=85&focal=3285%2C2190",
+      "publishedAt": "2026-01-19T09:00:00Z",
+      "content": "2. Faites 6 incisions avec un grand couteau. Coupez l'autre oignon en deux puis en 3 morceaux égaux. Insérez-les entre la viande hachée pour former une étoile. Ajoutez les branches de romarin, badige… [+1059 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le Dauphiné Libéré" },
+      "author": "La rédaction avec AFP",
+      "title": "Économie. Pékin impose des droits de douane supplémentaires sur certaines importations de bœuf pour trois ans",
+      "description": "La Chine a annoncé ce mercredi l'imposition de droits de douane supplémentaires de 55 % sur les importations de viande de bœuf du Brésil, d'Australie et des Etats-Unis, au-delà d'un certain quota.",
+      "url": "https://www.ledauphine.com/economie/2025/12/31/pekin-impose-des-droits-de-douane-supplementaires-sur-certaines-importations-de-boeuf-pour-trois-ans",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/32F6DF44-6B08-48DB-8246-C5FF3AF0DBF6/FB1200/photo-1767174780.jpg",
+      "publishedAt": "2025-12-31T10:00:00Z",
+      "content": "La Chine a annoncé ce mercredi l'imposition, à partir du 1er janvier et pour trois ans, de droits de douane supplémentaires de 55 % sur les importations de viande de bœuf du Brésil, d'Australie et de… [+1428 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lavenir.net" },
+      "author": "Sofie Dumont",
+      "title": "La recette de la semaine: pain de viande avec croquettes et sauce moutarde",
+      "description": "De la viande hachée juteuse, des pommes caramélisées au goût sucré, une touche acidulée de canneberges… c’est simple, convivial et plein de saveurs. Parfait pour un repas de la semaine, car tout peut être préparé à l’avance. ...",
+      "url": "https://www.lavenir.net/lifestyle/2026/01/19/la-recette-de-la-semaine-pain-de-viande-avec-croquettes-et-sauce-moutarde-AT2YQVN5I5GKNPANPVHETR3HRY/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/BEFFI6NHGVF6RIEYOSQHI7VGG4.jpg?auth=26ad06eb3b94bfd3d399e267e052e96fd1f2d245f0dbae6bdf380fe6b92997c2&width=1200&height=630&quality=85&focal=3285%2C2190",
+      "publishedAt": "2026-01-19T09:00:00Z",
+      "content": "2. Faites 6 incisions avec un grand couteau. Coupez l'autre oignon en deux puis en 3 morceaux égaux. Insérez-les entre la viande hachée pour former une étoile. Ajoutez les branches de romarin, badige… [+1059 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Marcel Marloie",
+      "title": "Accord UE-Mercosur : « La signature d’un accord ne clôt pas le sujet »",
+      "description": "La mise en œuvre de mesures miroirs, imposant les mêmes normes environnementales aux produits importés qu’à ceux produits sur le sol européen, nécessite une stratégie de long terme en étroite concertation avec les pays concernés, avertit Marcel Marloie, ancie…",
+      "url": "https://www.lemonde.fr/idees/article/2025/12/31/accord-ue-mercosur-la-signature-d-un-accord-ne-clot-pas-le-sujet_6660152_3232.html",
+      "urlToImage": "https://img.lemde.fr/2025/12/19/0/0/3984/2656/1440/960/60/0/62d3c3a_ftp-1-aiwbppx2dvqa-2025-12-19t110859z-886006799-rc2xiia69spm-rtrmadp-3-eu-mercosur-germany.JPG",
+      "publishedAt": "2025-12-31T09:00:08Z",
+      "content": "La finalisation des négociations sur laccord de libre-échange entre le Mercosur [Argentine, Brésil, Paraguay, Uruguay] et lUnion européenne (UE) est donc reportée au mois de janvier 2026. Nous pouvon… [+2028 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lavenir.net" },
+      "author": "Sébastien Etienne",
+      "title": "Affaire Veviba à Bastogne : “Nous avions des contrôles mais on ne nous a jamais signalé de problème”",
+      "description": "Le procès de l’ancien poids lourd de la viande bovine Veviba a enfin débuté devant le tribunal de Neufchâteau. Son ancien patron affirme ne pas avoir été au courant des pratiques potentiellement litigieuses ...",
+      "url": "https://www.lavenir.net/regions/luxembourg/bastogne/2025/12/23/affaire-veviba-a-bastogne-nous-avions-des-controles-mais-on-ne-nous-a-jamais-signale-de-probleme-4DTWK52VFBEY5JJXVUP3XPA734/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/JBBSSM764RACTGOKQ7OIZDWOHU.JPG?auth=b25ee12cbfa07b2d92ee80e372613a090e3af30531709341db5b9d831250a35a&width=1200&height=630&quality=85&focal=1391%2C990",
+      "publishedAt": "2025-12-23T16:00:40Z",
+      "content": "Les autorités belges avaient reçu un signalement dès septembre 2016, du Kosovo, pour un étiquetage posant question. La justice avait été saisie et une perquisition avait finalement eu lieu en février… [+4648 chars]"
+    },
+    {
+      "source": { "id": null, "name": "dh.be" },
+      "author": "Sébastien Etienne",
+      "title": "Affaire Veviba à Bastogne : “Nous avions des contrôles mais on ne nous a jamais signalé de problème”",
+      "description": "Le procès de l’ancien poids lourd de la viande bovine Veviba a enfin débuté devant le tribunal de Neufchâteau. Son ancien patron affirme ne pas avoir été au courant des pratiques potentiellement litigieuses ...",
+      "url": "https://www.dhnet.be/regions/luxembourg/2025/12/23/affaire-veviba-a-bastogne-nous-avions-des-controles-mais-on-ne-nous-a-jamais-signale-de-probleme-64ONCZGH2JHE3MYNP52MK6VGDQ/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/JBBSSM764RACTGOKQ7OIZDWOHU.JPG?auth=b25ee12cbfa07b2d92ee80e372613a090e3af30531709341db5b9d831250a35a&width=1200&height=630&quality=85&focal=1391%2C990",
+      "publishedAt": "2025-12-23T17:00:00Z",
+      "content": "Les autorités belges avaient reçu un signalement dès septembre 2016, du Kosovo, pour un étiquetage posant question. La justice avait été saisie et une perquisition avait finalement eu lieu en février… [+4648 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Franceinfo.fr" },
+      "author": "franceinfo",
+      "title": "Accord UE-Mercosur : qui sont les perdants et les gagnants du traité de libre-échange en France et en Europe ?",
+      "description": "Les 27 Etats membres ont majoritairement donné leur feu vert à l'accord commercial avec plusieurs pays d'Amérique du Sud, dont l'Argentine et le Brésil.",
+      "url": "https://www.franceinfo.fr/economie/commerce/mercosur/accord-ue-mercosur-qui-sont-les-perdants-et-les-gagnants-du-traite-de-libre-echange-en-france-et-en-europe_7730674.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/TyZl7B5Wk9bWaVXwtVP4nBOkoX8/0x53:1024x629/1500x843/2026/01/09/043-dpa-pa-260106-99-90750-dpai-696121421587b919870884.jpg",
+      "publishedAt": "2026-01-17T06:09:56Z",
+      "content": "Malgré l'opposition affichée par Emmanuel Macron et les manifestations d'agriculteurs, l'Union européenne (UE) a donné son feu vert. Le projet d'accord commercial entre le Vieux Continent et les pays… [+12349 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Challenges" },
+      "author": "Xavière Laffont",
+      "title": "Les meilleurs bistrots chics pour déjeuner ou dîner !",
+      "description": "Établissements typiquement parisiens, les bistrots se réinventent grâce à des chefs de plus en plus innovants et des cartes savoureuses. Établissement incontournable, nouvelle adresse ou bistrot traditionnel… voici quelques restaurants bistronomiques à (re) d…",
+      "url": "https://www.challenges.fr/luxe/les-meilleurs-bistrots-chics-pour-dejeuner-ou-diner_636782",
+      "urlToImage": "https://www.challenges.fr/_ipx/f_jpg&w_1200&enlarge_true/cha/static/2026-01/47518.HR.jpg%3FVersionId=Jh_8AOjtapIVehYd1AorxYps8spoQ.JE",
+      "publishedAt": "2026-01-15T18:00:00Z",
+      "content": "Typiquement français et représentatif de la culture parisienne, le bistrot est un symbole intemporel de la ville. Ces établissements, souvent modestes à lorigine, ont su traverser les décennies tout … [+3247 chars]"
+    },
+    {
+      "source": { "id": null, "name": "RTBF" },
+      "author": "rtbf.info@rtbf.be (Jonathan Bradfer)",
+      "title": "Une innovation belge et écologique révolutionne l'emballage de viande fraîche conditionnée en supermarché",
+      "description": "Quand vous triez vos déchets ménagers, vous n'imaginez peut-être pas le parcours réel de vos emballages une fois le sac...",
+      "url": "https://www.rtbf.be/article/une-innovation-belge-et-ecologique-revolutionne-l-emballage-de-viande-fraiche-conditionnee-en-supermarche-11664271",
+      "urlToImage": "https://static-content.rtbf.be/article/image/1920x1080/0/d/3/313b19a770e6a786bcc68907afffbcb1.jpg",
+      "publishedAt": "2026-01-19T17:56:57Z",
+      "content": "\"Pour la première fois, les barquettes de viande fraîche chez Colruyt contiennent du polystyrène recyclé issu du recyclage chimique. Cest une vraie innovation car ça permet déconomiser des matières p… [+1725 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le Dauphiné Libéré" },
+      "author": "Léa Guyot",
+      "title": "Consommation. Et si la viande n'était plus incontournable au repas de Noël ?",
+      "description": "La volonté de limiter sa consommation de produits d’origine animale bouleverse le menu de Noël de certaines familles. Ce repas, traditionnellement très carné, est en train d’évoluer, comme le montre notamment la percée des alternatives végétales festives.",
+      "url": "https://www.ledauphine.com/economie/2025/12/22/et-si-la-viande-n-etait-plus-incontournable-au-repas-de-noel",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/6826740A-92EA-40C7-B50E-292D5DF57828/FB1200/photo-1766424271.jpg",
+      "publishedAt": "2025-12-22T17:30:00Z",
+      "content": "Les Français ne plaisantent pas avec le repas, et encore moins avec celui de Noël – fête célébrée chaque année par 86 % de la population (*). Pour 57 % d’entre nous, il est même indispensable de dégu… [+6217 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tuxboard.com" },
+      "author": "Christopher Noche",
+      "title": "IKEA: tout ce que vous pouvez manger sur place, du restaurant au bistro, bien plus que des boulettes",
+      "description": "Vous pensez acheter une étagère, puis l’odeur de cuisine vous fait lever la tête. Chez Ikea, la pause au restaurant...\nL’article IKEA: tout ce que vous pouvez manger sur place, du restaurant au bistro, bien plus que des boulettes est apparu en premier sur Tux…",
+      "url": "https://www.tuxboard.com/ikea-tout-ce-que-vous-pouvez-manger-sur-place-du-restaurant-au-bistro-bien-plus-que-des-boulettes/",
+      "urlToImage": "https://www.tuxboard.com/wp-content/uploads/2026/01/1411775-image.jpg",
+      "publishedAt": "2026-01-11T18:40:02Z",
+      "content": "Ikea, du resto à lépicerie suédoise. Guide avec prix précis pour manger vite et bien sur place et choisir quoi rapporter.\r\nVous pensez acheter une étagère, puis lodeur de cuisine vous fait lever la t… [+5120 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Franceinfo.fr" },
+      "author": "franceinfo avec AFP",
+      "title": "Accord UE-Mercosur : le président brésilien Lula en appelle au \"courage\" des dirigeants européens",
+      "description": "La signature de ce traité commercial a été reportée à janvier face à la colère des agriculteurs européens, et l'opposition, notamment, de la France et l'Italie.",
+      "url": "https://www.franceinfo.fr/economie/commerce/mercosur/accord-ue-mercosur-le-president-bresilien-lula-en-appelle-au-courage-des-dirigeants-europeens_7692523.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/VuCTdDrXv1MU-fDDT-f_D0o-tl8/0x63:1024x639/1500x843/2025/12/20/000-88qc923-6946ab1075183184598406.jpg",
+      "publishedAt": "2025-12-20T19:09:03Z",
+      "content": "\"Sans volonté politique et sans courage de la part des dirigeants, ce ne sera pas possible de conclure une négociation qui traîne depuis 26 ans\", a déploré le président brésilien Lula, samedi 20 déce… [+1660 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Geek Show" },
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "« Sans équivalent » : une sépulture africaine vieille de 4 000 ans surprend les archéologues",
+      "description": "Des fouilles archéologiques ont révélé les premiers témoignages d’un mystérieux rite funéraire africain, pratiqué dans ce qui est aujourd’hui le nord-ouest du Soudan il y a près de quatre millénaires.\nThe post « Sans équivalent » : une sépulture africaine vie…",
+      "url": "https://dailygeekshow.com/?p=998266",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2024/08/une-sepulture-chamane.jpg",
+      "publishedAt": "2025-12-21T08:08:00Z",
+      "content": "Image d’illustration Vladimir Mulder / Shutterstock.com\r\nDes fouilles archéologiques ont révélé les premiers témoignages dun mystérieux rite funéraire africain, pratiqué dans ce qui est aujourdhui le… [+2319 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Mathilde Gérard",
+      "title": "Plus de « vrais aliments » et plus de viande : les préconisations ambivalentes de Robert F. Kennedy Jr contre la malbouffe aux Etats-Unis",
+      "description": "Après la publication des nouveaux repères nutritionnels américains, les scientifiques s’inquiètent de messages contradictoires.",
+      "url": "https://www.lemonde.fr/planete/article/2026/01/09/plus-de-vrais-aliments-et-plus-de-viande-les-preconisations-ambivalentes-de-robert-f-kennedy-jr-contre-la-malbouffe-aux-etats-unis_6661131_3244.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/08/764/0/1772/1181/1440/960/60/0/13c5548_upload-1-3xw2usagoor5-dga-1.jpg",
+      "publishedAt": "2026-01-09T09:00:12Z",
+      "content": "« Mangez de vrais aliments. » Le nouveau slogan du mouvement MAHA (Make America Healthy Again,« remettre lAmérique en bonne santé »), scandé mercredi 7 janvier par le secrétaire dEtat à la santé, Rob… [+2132 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Geek Show" },
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Le remède à la malbouffe ? Votre intestin abrite une puissante arme anti-diabète",
+      "description": "Une équipe internationale de chercheurs ont découvert que dans le cas d’une alimentation riche en … \nThe post Le remède à la malbouffe ? Votre intestin abrite une puissante arme anti-diabète appeared first on Daily Geek Show.",
+      "url": "https://dailygeekshow.com/microbiote-intestinal-prevention-diabete-graisses/",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2024/01/une-virus-microbiote.jpg",
+      "publishedAt": "2026-01-07T08:02:00Z",
+      "content": "nobeastsofierce / Shutterstock.com\r\nUne équipe internationale de chercheurs ont découvert que dans le cas dune alimentation riche en graisses, le microbiote intestinal jouait un rôle clé dans la prév… [+2235 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Geek Show" },
+      "author": "contact@dailygeekshow.com (DGS)",
+      "title": "Le premier mammifère marin chassé jusqu’à l’extinction a disparu 27 ans seulement après sa découverte",
+      "description": "Seuls mammifères marins herbivores, les siréniens, ou « vaches de mer », sont aujourd’hui lourdement impactés par les activités humaines. Le triste cas de la rhytine de Steller illustre l’importance des mesures de conservation adaptées pour assurer leur péren…",
+      "url": "https://dailygeekshow.com/?p=1000170",
+      "urlToImage": "https://dailygeekshow.com/wp-content/uploads/2026/01/une-rhytine-mammifere-marin-extinction.jpg",
+      "publishedAt": "2026-01-20T06:18:00Z",
+      "content": "Steller mesurant une rhytine sur l’île de Béring en juillet 1742 © Wikimedia Commons \r\nSeuls mammifères marins herbivores, les siréniens, ou « vaches de mer », sont aujourdhui lourdement impactés par… [+2382 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lalibre.be" },
+      "author": "Alice Dive",
+      "title": "Les sujets à bannir cette année pour éviter que votre dîner de Noël vire au pugilat",
+      "description": "Comment agir pour éviter que votre dîner de Noël en famille vire au pugilat ? Mode d’emploi. ...",
+      "url": "https://www.lalibre.be/debats/ripostes/2025/12/22/les-sujets-a-bannir-cette-annee-pour-eviter-que-votre-diner-de-noel-vire-au-pugilat-XB6PEPNSDVB3VLORRJPJ3CD66I/",
+      "urlToImage": "https://www.lalibre.be/resizer/v2/G7KDXCKNK5CKZGVHC5KLKSBDK4.jpg?auth=1aa7c963800b2d622ffa428f96f001b4342c2c124c274316faee1137a7674c35&width=1200&height=630&quality=85&focal=1382%2C1030",
+      "publishedAt": "2025-12-22T09:54:55Z",
+      "content": "Et vous, quels sujets de discussion bannirez-vous cette année lors de votre dîner de Noël?\"La Libre\" a dès lors voulu savoir via son questionnaire en ligne quels sont les sujets que vous comptez bann… [+6171 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": null,
+      "title": "Un frigo géant de 6000m² : NewCold investit 51 millions d’euros pour doubler ses capacités de stockage de surgelés à Argentan",
+      "description": "Le groupe hollandais New Cold stocke des marchandises alimentaires surgelées de clients industriels. Il investit 51 millions d’euros pour doubler les capacités de son site d’Argentan, dans l’Orne. Avec des embauches à la clé.",
+      "url": "https://www.usinenouvelle.com/quotidien-des-usines/un-frigo-geant-de-6000m-newcold-investit-51-millions-deuros-pour-doubler-ses-capacites-de-stockage-de-surgeles-a-argentan.HYT547NIHJFZXHQWZJ35QTO7OI.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/GWWKLA2Q35EHVL3CFJZ7BVTT7Q.jpg?smart=true&auth=fbb9ce24c0aecc0317295ba1682736eaf00952be5c598b0b4bbf98addc3c4c74&width=1200&height=630",
+      "publishedAt": "2025-12-23T10:00:00Z",
+      "content": "NewCold, à Argentan (Orne), se transforme pour doubler ses capacités de stockage surgelé, pour passer denviron 40000 emplacements de palettes à 80000. Un investissement de 51 millions pour le site du… [+2372 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": null,
+      "title": "Coup dur pour les industriels du lait : la Chine impose de lourds droits de douane sur les importations de produits européens",
+      "description": "Des produits laitiers européens (lait, crèmes et fromages) vont être frappés par de lourds droits de douane, a annoncé la Chine le 22 décembre. Ces nouvelles taxes entrent en vigueur dès le 23 décembre.",
+      "url": "https://www.usinenouvelle.com/agro/coup-dur-pour-les-industriels-du-lait-la-chine-impose-de-lourds-droits-de-douane-sur-les-importations-de-produits-europeens.26SPVSNLHVH53JYBNLC3QHFGIY.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/PZHB5LJRK5EX3COHL4BAUE6SQA.jpg?smart=true&auth=13b0f9e0b4db0289b94ff5371e9c5ac1cc396a26491d73cdfd2573988b3428e0&width=1200&height=630",
+      "publishedAt": "2025-12-22T14:05:17Z",
+      "content": "Nouvelle poussée de fièvre entre lEurope et la Chine. Alors que les droits de douane sur la viande de porc ont été abaissés mi-décembre, laissant croire à une trêve dans les tensions commerciales ent… [+1968 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": null,
+      "title": "«Fragilisées par le choc de l’inflation» : Faut-il vraiment s’inquiéter pour la santé des entreprises agroalimentaires françaises ?",
+      "description": "L’Ania, l’une des principales associations de défense des intérêts des industriels de l’agroalimentaire, a alerté ce 14 janvier sur la «fragilisation des industriels alimentaires depuis le choc inflationniste». Nous avons tenté d’objectiver ce constat avec un…",
+      "url": "https://www.usinenouvelle.com/infographie/fragilisees-par-le-choc-de-linflation-faut-il-vraiment-sinquieter-pour-la-sante-des-entreprises-agroalimentaires-francaises.N76VWQWYSFB67GZTKN3NNDLUUY.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/HWHZLWH7XBLVRLX55BI2PXJEE4.jpg?smart=true&auth=9edde1296d894aff7afd51515c4dc1dc1a089e1bea6ea7fcd2ace4a0ebf29358&width=1200&height=630",
+      "publishedAt": "2026-01-16T13:30:00Z",
+      "content": "LAnia, lun des principaux lobbys de lagroalimentaire, a fait paraitre le 14 janvier une étude réalisée par la Banque de France sur la santé des entreprises quelle représente. De la kyrielle de donnée… [+4646 chars]"
+    },
+    {
+      "source": { "id": null, "name": "FREDZONE" },
+      "author": "Habib ADECHOKAN",
+      "title": "Les produits laitiers gras pourraient protéger contre le déclin cognitif, mais la réalité est nuancée",
+      "description": "Une vaste recherche suédoise suggère qu’une consommation régulière de fromage et de crème entiers diminue le risque de démence chez les adultes d’âge moyen et les seniors. Ces résultats séduisants méritent toutefois un examen rigoureux avant de modifier radic…",
+      "url": "https://www.fredzone.org/les-produits-laitiers-gras-pourraient-proteger-contre-le-declin-cognitif-mais-la-realite-est-nuancee/",
+      "urlToImage": "https://www.fredzone.org/wp-content/uploads/2025/12/shutterstock_2120533481-scaled-1-scaled.webp",
+      "publishedAt": "2025-12-29T16:00:25Z",
+      "content": "Une vaste recherche suédoise suggère qu’une consommation régulière de fromage et de crème entiers diminue le risque de démence chez les adultes d’âge moyen et les seniors. Ces résultats séduisants mé… [+6933 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BFMTV" },
+      "author": "Salomé Robles",
+      "title": "\"C'est la police de la viande\": quand proposer des recettes végétales expose les créateurs de contenus au cyberharcèlement",
+      "description": "Sur les réseaux sociaux, des créateurs de contenus partagent des plats sans viande et, pour les fêtes, proposent des alternatives aux plats traditionnellement carnés. Pour cela, on les accuse de nuire à la gastronomie française, à la virilité ou encore à la s…",
+      "url": "https://www.bfmtv.com/societe/c-est-la-police-de-la-viande-quand-proposer-des-recettes-vegetales-expose-les-createurs-de-contenus-au-cyberharcelement_AN-202512210024.html",
+      "urlToImage": "https://images.bfmtv.com/jpyn-JVgcpHWU0FviVFA5BfwqNw=/0x105:2048x1257/2048x0/images/Des-legumes-coupes-pour-la-preparation-de-Kimchi-le-10-novembre-2024-photo-d-illustration-2200806.jpg",
+      "publishedAt": "2025-12-21T06:01:00Z",
+      "content": "Sur les réseaux sociaux, des créateurs de contenus partagent des plats sans viande et, pour les fêtes, proposent des alternatives aux plats traditionnellement carnés. Pour cela, on les accuse de nuir… [+9484 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": null,
+      "title": "La France raffole du poulet : le volailler Volena SNV s’adapte et investit 67 millions d’euros pour augmenter sa production dans l’Orne",
+      "description": "Le site du groupe LDC aux Rives d’Andaine (Orne) va tripler ses capacités en abattage et découpe de poulet pour suivre des marchés prometteurs en France. 67 millions d’euros vont être investis.",
+      "url": "https://www.usinenouvelle.com/agro/la-france-raffole-du-poulet-le-volailler-volena-snv-sadapte-et-investit-67-millions-deuros-pour-augmenter-sa-production-dans-lorne.XJGPCD75SBFONGSFBJYQ7YQHMU.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/RGRFP3GXSFB57NPKQUDROLI72Y.jpg?smart=true&auth=c798f83da9e8e42470b41675a9ef30be90302ae5b0572944cc14336a638e1f57&width=1200&height=630",
+      "publishedAt": "2025-12-26T14:30:00Z",
+      "content": "Alors que la volaille est devenue la première viande consommée en France en 2024, le géant LDC (environ sept milliards deuros de chiffre daffaires) investit 300 millions deuros via son pôle volaille … [+2311 chars]"
+    },
+    {
+      "source": { "id": null, "name": "L'Usine Nouvelle" },
+      "author": "Gaëlle Lucas",
+      "title": "Peu rentables, les abattoirs publics ferment les uns après les autres : à contre-courant, douze intercommunalités du Finistère en construisent un nouveau",
+      "description": "Un nouvel abattoir public, qui a coûté 14,4 millions d’euros, et est en cours de construction au Faou (Finistère). Il sera accessible tant aux professionnels qu’aux particuliers et entrera en service en avril prochain.",
+      "url": "https://www.usinenouvelle.com/quotidien-des-usines/peu-rentables-les-abattoirs-publics-ferment-les-uns-apres-les-autres-a-contre-courant-douze-intercommunalites-du-finistere-en-construisent-un-nouveau.CC3TZ7LLFNDZNA2AFBJ422UNC4.html",
+      "urlToImage": "https://www.usinenouvelle.com/resizer/v2/JWCB7XVDFVFCRERHYHIZYUN7AI.jpg?smart=true&auth=5e045f3a0bd06f7007a6d7176d5dd82b4ff486aa49e4ed31e2d2d2451b88901a&width=1200&height=630",
+      "publishedAt": "2026-01-16T09:10:00Z",
+      "content": "Ce nest pas franchement dans lair du temps. Alors que, daprès un rapport de la Cour des comptes de 2020, les abattoirs publics ne représentent plus en France que 7,2% de la production de viande de bo… [+2323 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lavenir.net" },
+      "author": "Caroline Viatour",
+      "title": "Ceux qui rendent les fêtes magiques | Baptiste Damanet, à Ciney : le sens de la belle pièce",
+      "description": "Derrière le comptoir de la Boucherie du Champ du Moulin, les commandes s’empilent et les choix se corsent. À Ciney, Baptiste Damanet découpe les fêtes… avec précision. ...",
+      "url": "https://www.lavenir.net/regions/namur/ciney/2025/12/25/ceux-qui-rendent-les-fetes-magiques-baptiste-damanet-a-ciney-le-sens-de-la-belle-piece-GGHNC3AFPBFTPCXHJACIFYE7IY/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/6TSOMQP3EFFFFGOL4OO2S6J5XY.jpeg?auth=6b99a2813c196df35f033d795d83f048f3c306cc866d6ac07446ac90d535146f&width=1200&height=630&quality=85&focal=2856%2C2142",
+      "publishedAt": "2025-12-26T10:00:00Z",
+      "content": "Issu d'une famille d'éleveurs de Custinne depuis quatre générations, Baptiste a fait le choix du circuit court et de la transparence. Et il le voit au comptoir : \"Les modes de consommation changent. … [+1227 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Le Dauphiné Libéré" },
+      "author": "Le Dauphiné Libéré",
+      "title": "Cyclisme. Dopage : suspendue en 2024, cette star colombienne se reconvertit... dans la boucherie",
+      "description": "Vainqueur d'étape sur le Tour de France et sur le Tour d'Espagne, Miguel Angel Lopez a été suspendu en 2024 pour dopage. Ne pouvant pas reprendre le vélo avant 2027, il s'est reconvertit dans... la boucherie.",
+      "url": "https://www.ledauphine.com/sport/2025/12/22/dopage-suspendue-en-2024-cette-star-colombienne-se-reconvertit-dans-la-boucherie",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/94F733C1-8FA9-464E-8C31-D5C2D8941019/FB1200/photo-1766332813.jpg",
+      "publishedAt": "2025-12-22T08:05:00Z",
+      "content": "Suspendu pour dopage en mai 2024 pour « usage et possession d'une substance interdite », même s'il nie toute prise de produit illégal, Miguel Angel Lopez est privé de vélo en coméptition jusqu'au 24 … [+869 chars]"
+    },
+    {
+      "source": { "id": null, "name": "RTBF" },
+      "author": "rtbf.info@rtbf.be (Olivier Arendt)",
+      "title": "Anne-Catherine Dalcq (MR), ministre de l’agriculture : «Nous ne voulons pas perdre notre autonomie alimentaire» avec le Mercosur",
+      "description": "Si les barrages routiers des agriculteurs sont levés progressivement sur nos routes, le message porté par les...",
+      "url": "https://www.rtbf.be/article/anne-catherine-dalcq-mr-ministre-de-l-agriculture-nous-ne-voulons-pas-perdre-notre-autonomie-alimentaire-avec-le-mercosur-11659997",
+      "urlToImage": "https://ds.static.rtbf.be/article/image/1920x1080/7/6/4/b2ada80052ec82af42ec911d541605a8.jpg",
+      "publishedAt": "2026-01-12T08:26:00Z",
+      "content": "Si les barrages routiers des agriculteurs sont levés progressivement sur nos routes, le message porté par les agriculteurs reste intact. Ils dénoncent une concurrence quils jugent déloyale et craigne… [+1351 chars]"
+    },
+    {
+      "source": { "id": null, "name": "dh.be" },
+      "author": "Caroline Beauvois",
+      "title": "La success-story bruxelloise du smash burger de Rambo : “Les gens sortaient avec leur sac Rambo comme s’ils avaient chopé un iPhone en édition limitée”",
+      "description": "Avec leur chaîne Rambo, lancée en pleine crise du Covid, ce trio bruxellois a amené la technique américaine du smash burger en Belgique. Avec succès. ...",
+      "url": "https://www.dhnet.be/lifestyle/food/2026/01/13/la-success-story-bruxelloise-du-smash-burger-de-rambo-les-gens-sortaient-avec-leur-sac-rambo-comme-sils-avaient-chope-un-iphone-en-edition-limitee-EEGH2DMSRFEXBA2CRFFYP3QTPE/",
+      "urlToImage": "https://www.dhnet.be/resizer/v2/FLVIE27MFZHWHIRIODRNQJD7NM.jpg?auth=4808660a7404f136f180a49f743c670b641e128e3629aa4b103d0bce98a46da2&width=1200&height=630&quality=85&focal=4488%2C1994",
+      "publishedAt": "2026-01-13T13:10:50Z",
+      "content": "Voici la véritable histoire du burger... avec une petite touche belgeCréer une croûte caramélisée\r\nLe secret ? Tout est dans le smash. Une boulette de viande ultra-grasse (20 à 23 %) est jetée sur un… [+2225 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lavenir.net" },
+      "author": "Caroline Beauvois",
+      "title": "Le smash burger : le pari gagnant d’un Bruxellois",
+      "description": "Dans l’immense famille des burgers, le “smash” a réussi à se faire une place. Et s’il est si bien implanté en Belgique c’est notamment grâce au flair d’un trio bruxellois. ...",
+      "url": "https://www.lavenir.net/lifestyle/2026/01/13/le-smash-burger-le-pari-gagnant-dun-bruxellois-M33OSEMBZFHTZNIFVKBIZ3UHH4/",
+      "urlToImage": "https://www.lavenir.net/resizer/v2/E7WEM7FXC5CXBMM52TYMZPH6OQ.jpg?auth=ec4dca67d1a4dda4ab37083c175c5234d6bc3a843189ce3d044a37f97977aa51&width=1200&height=630&quality=85&focal=406%2C275",
+      "publishedAt": "2026-01-13T09:00:00Z",
+      "content": "Créer une croûte caramélisée\r\nLe secret ? Tout est dans le smash. Une boulette de viande ultra-grasse (20 à 23 %) est jetée sur une plancha chauffée à plus de 200 °C, puis écrasée violemment à la spa… [+2032 chars]"
+    }
+  ]
+}
