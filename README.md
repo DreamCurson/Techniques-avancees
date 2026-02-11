@@ -7,6 +7,7 @@ Répertoire GitHub pour le cours **Techniques avancées en programmation Web**
 ### TP 1 - Mini-application Node.js (API publique)
 Ce TP consiste à créer une mini-application **Node.js** et **Express** utilisant une **API publique** afin de récupérer et d’afficher des données.
 
-
+### TP 2 - Création d’un site web à l’aide de la librairie React.js  
+https://github.com/DreamCurson/Techniques-avancees/tree/TP2
 
 
