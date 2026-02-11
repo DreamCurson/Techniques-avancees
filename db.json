@@ -1,0 +1,60 @@
+{
+  "packages": [
+    {
+      "id": "1",
+      "name": "Séjour à Paris",
+      "description": "Découvrez la Tour Eiffel, le Louvre et profitez d’une croisière sur la Seine.",
+      "price": 1299.99,
+      "category": "City Break"
+    },
+    {
+      "id": "2",
+      "name": "Escapade à Rome",
+      "description": "Visitez le Colisée, le Vatican et savourez la gastronomie italienne.",
+      "price": 1099.99,
+      "category": "Culture"
+    },
+    {
+      "id": "3",
+      "name": "Aventure au Maroc",
+      "description": "Explorez le désert du Sahara et dormez sous les étoiles dans un camp berbère.",
+      "price": 899.99,
+      "category": "Aventure"
+    },
+    {
+      "id": "4",
+      "name": "Séjour à Bali",
+      "description": "Détendez-vous sur des plages paradisiaques et découvrez les temples balinais.",
+      "price": 1499.99,
+      "category": "Plage"
+    },
+    {
+      "id": "5",
+      "name": "Circuit au Japon",
+      "description": "Découvrez Tokyo, Kyoto et l’authenticité de la culture japonaise.",
+      "price": 2199.99,
+      "category": "Circuit"
+    },
+    {
+      "id": "6",
+      "name": "Week-end à New York",
+      "description": "Explorez Manhattan, Central Park et assistez à un spectacle à Broadway.",
+      "price": 1399.99,
+      "category": "City Break"
+    },
+    {
+      "id": "7",
+      "name": "Safari en Afrique du Sud",
+      "description": "Partez à la rencontre des Big Five dans une réserve naturelle.",
+      "price": 1899.99,
+      "category": "Safari"
+    },
+    {
+      "id": "8",
+      "name": "Croisière en Méditerranée",
+      "description": "Naviguez entre l’Italie, l’Espagne et la Grèce à bord d’un bateau de luxe.",
+      "price": 1599.99,
+      "category": "Croisière"
+    }
+  ]
+}
