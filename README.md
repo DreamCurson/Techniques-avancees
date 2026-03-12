@@ -10,4 +10,6 @@ Ce TP consiste à créer une mini-application **Node.js** et **Express** utilisa
 ### TP 2 - Création d’un site web à l’aide de la librairie React.js  
 https://github.com/DreamCurson/Techniques-avancees/tree/TP2
 
+### TP 3 - Création d’un site web à l’aide du cadriciel Vue.JS & Node.Js 
+https://github.com/DreamCurson/Techniques-avancees/tree/TP3
 
